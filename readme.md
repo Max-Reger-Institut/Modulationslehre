@@ -8,10 +8,12 @@ It is a digital presentation, transcription and edition of [Max Reger's](https:/
 
 Development and publication was supported by [Dr.-Ing. Axel Berndt](https://github.com/axelberndt), [Benjamin W. Bohl M.A.](https://github.com/bwbohl), [Dr. Johannes Kepper](https://github.com/kepper) and [Dipl. Wirt.-Inf. Daniel Röwenstrunk](https://github.com/roewenstrunk) as well as the [staff](https://www.max-reger-institut.de/de/institut/mitarbeiter) of the [Max-Reger-Institute](https://www.max-reger-institut.de) in Karlsruhe.
 
+Special thanks is due to the [Bayerische Staatsbibliothek, Munich](https://www.bsb-muenchen.de) and [Dr. Veronika Gigelberger](https://www.bsb-muenchen.de/ueber-uns/direktionabteilungen/musik/dr-veronika-giglberger-lebenslauf-und-publikationen/) for providing digital facsimila of the manuscript Cgm. 9409.
+
 ## Version history
 
 ### Version 1
-Published on a temporary webspace provided by the IMT of the University of Paderborn in 2016.
+Published on a temporary webspace provided by the [IMT of the University of Paderborn](https://imt.uni-paderborn.de) in 2016. Currently unavailable.
 
 ### Version 2
-In preparation for 2023 at the [Max-Reger-Portal (MRP)](https://www.maxreger.info).
+Republication in preparation for [#reger150 in 2023](https://maxreger.info/reger150) at the [Max-Reger-Portal (MRP)](https://www.maxreger.info).
