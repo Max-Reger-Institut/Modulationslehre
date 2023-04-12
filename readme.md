@@ -8,7 +8,7 @@ It is a digital presentation, transcription and edition of [Max Reger's](https:/
 
 Development and publication was supported by [Dr.-Ing. Axel Berndt](https://github.com/axelberndt), [Benjamin W. Bohl M.A.](https://github.com/bwbohl), [Dr. Johannes Kepper](https://github.com/kepper) and [Dipl. Wirt.-Inf. Daniel Röwenstrunk](https://github.com/roewenstrunk) as well as the [staff](https://www.max-reger-institut.de/de/institut/mitarbeiter) of the [Max-Reger-Institute](https://www.max-reger-institut.de) in Karlsruhe.
 
-Special thanks is due to the [Bayerische Staatsbibliothek, Munich](https://www.bsb-muenchen.de) and [Dr. Veronika Gigelberger](https://www.bsb-muenchen.de/ueber-uns/direktionabteilungen/musik/dr-veronika-giglberger-lebenslauf-und-publikationen/) for providing digital facsimila of the manuscript Cgm. 9409.
+Special thanks is due to the [Bayerische Staatsbibliothek, Munich](https://www.bsb-muenchen.de) and [Dr. Veronika Gigelberger](https://www.bsb-muenchen.de/ueber-uns/direktionabteilungen/musik/dr-veronika-giglberger-lebenslauf-und-publikationen/) for providing digital facsimila of Reger's manuscript Cgm. 9409.
 
 ## Version history
 
