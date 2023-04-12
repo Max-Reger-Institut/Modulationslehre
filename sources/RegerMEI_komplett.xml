@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink"><meiHead><fileDesc><titleStmt><title>Modulationslehre</title><author>Reger, Max</author><respStmt><persName role="author" dbkey="118598988" authURI="http://d-nb.info/gnd" authority="GND">Reger, Max</persName><persName role="encoer">Mo, Ran</persName><persName resp="encoder">Funayama, Shino</persName><persName resp="encoder">Zhang, Chaoling</persName></respStmt></titleStmt><pubStmt/></fileDesc></meiHead><music><body><mdiv xml:id="m_a_C-dur">
+                <!-- ID nach Beispiel-Nummer. Hier ist der 1. Beispiel von a) "m" für Musik--><score><scoreDef meter.count="4" meter.unit="4" meter.sym="common"><staffGrp symbol="brace" label="Von C-dur nach:"><staffDef n="1" lines="5" clef.shape="G" clef.line="2"/><staffDef n="2" lines="5" clef.shape="F" clef.line="4"/></staffGrp></scoreDef><section xml:id="m_a-1" label="G-dur"><measure n="1" xml:id="edirom_measure_e9e57f0f-b96b-4645-b861-e06676a54552" facs="#edirom_zone_d71b7111-6243-4068-9054-128b1f06af49"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5" stem.dir="up"/><note pname="a" dur="4" oct="4" stem.dir="up"/><note pname="g" dur="4" oct="4" stem.dir="up"/><note pname="f" dur="4" oct="4" accid="s" stem.dir="up"/></layer><layer n="2"><note pname="e" dur="2" oct="4" stem.dir="down"/><note pname="d" dur="2" oct="4" tie="i" stem.dir="down"/></layer></staff><staff n="2"><layer n="1"><note pname="g" dur="4" oct="3" stem.dir="up"/><note pname="c" dur="4" oct="4" stem.dir="up"/><note pname="b" dur="4" oct="3" stem.dir="up"/><note pname="a" dur="4" oct="3" stem.dir="up"/></layer><layer n="2"><note pname="c" dur="2" oct="3" stem.dir="down"/><note pname="d" dur="2" oct="3" stem.dir="down"/></layer></staff>
+                            <!-- Hier die Noten --></measure><measure n="2">
+                            <!-- measure ist ein Takt --><staff n="1">
+                                <!-- staff ist ein System --><layer n="1">
+                                    <!-- layer ist eine Stimme --><note pname="g" dur="1" oct="4"/></layer><layer n="2"><note pname="d" dur="1" oct="4" tie="t"/></layer></staff><staff n="2"><layer n="1"><note pname="b" dur="1" oct="3"/></layer><layer n="2"><note pname="g" dur="1" oct="2"/></layer></staff></measure></section>
+                    <!--<section xml:id="m_a-2" label="D-dur">
+                        <measure n="3">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="5" accid="s" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" accid="s" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="2" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="4">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="d" dur="1" oct="5"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="3"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="3"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-3" label="A-dur">
+                        <measure n="5">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="4" oct="5" stem.dir="up"/>
+                                    <beam>
+                                        <note pname="d" dur="8" oct="5" stem.dir="up"/>
+                                        <note pname="b" dur="8" oct="4" stem.dir="up"/>
+                                    </beam>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="4" accid="s" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="e" dur="2" oct="4" tie="i" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <beam>
+                                        <note pname="c" dur="8" oct="4" stem.dir="up"/>
+                                        <note pname="b" dur="8" oct="3" stem.dir="up"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="a" dur="8" oct="3" stem.dir="up"/>
+                                        <note pname="d" dur="8" oct="4" stem.dir="up"/>
+                                    </beam>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="2" oct="3" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="6">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" tie="t"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="1" oct="4" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" dur="1" oct="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-4" label="E-dur">
+                        <measure n="7">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="2" dots="1" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="2" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="b" dur="2" oct="2" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="8">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="4" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="3" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="3"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-5" label="H-Dur">
+                        <measure n="9">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="4" accid="s" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="2" oct="4" tie="i" accid="s" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="10">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="4" tie="t" accid.ges="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="d" dur="1" oct="4" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="b" dur="1" oct="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-6" label="Fis-Dur">
+                        <measure n="11">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="4" oct="5" stem.dir="up"/>
+                                    <beam>
+                                        <note pname="d" dur="8" oct="5" stem.dir="up"/>
+                                        <note pname="b" dur="8" oct="4" stem.dir="up"/>
+                                    </beam>
+                                    <note pname="a" dur="4" oct="4" accid="s" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="4" accid="s" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" dots="1" oct="4" accid="s" stem.dir="down"/>
+                                    <note pname="e" dur="8" oct="4" accid="s" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="4" accid="s" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="b" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="c" dur="2" oct="3" accid="s" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="12">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="4" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="3" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="3" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-7" label="Cis-Dur">
+                        <measure n="13">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="s" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="2" oct="4" accid="s" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="c" dur="4" dots="1" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="b" dur="8" oct="3" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="14">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="4" accid.ges="s" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="1" oct="4" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="3" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-8" label="Gis-Dur">
+                        <measure n="15">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="5" stem.dir="up" accid="s"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="4" dots="1" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="8" oct="4" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="a" dur="2" oct="3" stem.dir="up"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="16">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="f" dur="2" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="g" dur="2" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="b" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="d" dur="2" oct="3" tie="i" stem.dir="up"/>
+                                    <note pname="d" dur="2" oct="3" tie="t" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="g" dur="2" oct="2" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-9" label="Dis-Dur">
+                        <measure n="17">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="4" dots="1" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="8" oct="4" stem.dir="down"/>
+                                    <note pname="e" dur="2" oct="4" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="18">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="f" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="f" dur="2" oct="4" stem.dir="up" accid.ges="ss"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down" accid="ss"/>
+                                    <note pname="d" dur="2" oct="4" stem.dir="down" accid.ges="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <!-\- Frage -\->
+                                    <note pname="a" dur="2" oct="3" stem.dir="up" accid="s" tie="i"/>
+                                    <note pname="a" dur="2" oct="3" stem.dir="up" accid.ges="s" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down" accid="s"/>
+                                    <note pname="d" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-10" label="Ais-Dur">
+                        <measure n="19">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="b" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="20">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="a" dur="2" oct="4" stem.dir="up" accid.ges="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                    <note pname="c" dur="2" oct="4" stem.dir="up" accid.ges="ss"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="a" dur="2" oct="2" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-11" label="Eis-Dur">
+                        <measure n="21">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="a" dur="2" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="2" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="c" dur="2" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="22">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="g" dur="2" oct="4" stem.dir="up" accid.ges="ss"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="ss"/>
+                                    <note pname="e" dur="2" oct="4" stem.dir="down" accid.ges="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="b" dur="2" oct="3" stem.dir="up" accid="s" tie="i"/>
+                                    <note pname="b" dur="2" oct="3" stem.dir="up" accid.ges="s" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <!-\- Frage -\->
+                                    <note pname="b" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="e" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-12" label="His-Dur">
+                        <measure n="23">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="c" dur="4" oct="5" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="24">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up" accid.ges="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="4" accid="ss"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="d" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="d" dur="2" oct="4" stem.dir="up" accid.ges="ss"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="2" oct="3" stem.dir="down" accid="ss"/>
+                                    <note pname="b" dur="2" oct="2" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-13" label="F-Dur">
+                        <measure n="25">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="2" oct="4" stem.dir="down"/>
+                                    <beam>
+                                        <note pname="c" dur="8" oct="4" stem.dir="down"/>
+                                        <note pname="b" dur="8" oct="3" stem.dir="down" accid="f"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="2" oct="3" stem.dir="up"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="26">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" dur="1" oct="3"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="3"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-14" label="B-Dur">
+                        <measure n="27">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="d" dur="2" oct="4" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="3" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="b" dur="2" oct="2" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-15" label="Es-Dur">
+                        <measure n="29">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="e" dur="4" dots="1" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="d" dur="8" oct="5" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="3" stem.dir="up" accid="f" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down" accid="f"/>
+                                    <note pname="b" dur="2" oct="2" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="30">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="1" oct="5" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="1" oct="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="3" tie="t" accid.ges="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-16" label="As-Dur">
+                        <measure n="31">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="e" dur="2" oct="4" stem.dir="down" accid="f" tie="i"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="2" oct="3" stem.dir="up" accid="f"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <beam>
+                                        <note pname="f" dur="8" oct="3" stem.dir="down"/>
+                                        <note pname="d" dur="8" oct="3" stem.dir="down" accid="f"/>
+                                    </beam>
+                                    <note pname="e" dur="2" oct="3" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="32">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="1" oct="5"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" tie="t" accid.ges="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" dur="1" oct="2" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-17" label="Des-Dur">
+                        <measure n="33">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="f" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up" accid="f"/>
+                                    <note pname="g" dur="2" oct="3" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="2" stem.dir="down" accid="f"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="34">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="4" accid.ges="f" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="4" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="3"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-18" label="Ges-Dur">
+                        <measure n="35">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="c" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up" accid="f"/>
+                                    <note pname="c" dur="2" oct="4" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down" accid="f"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="36">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="4" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="4" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="1" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-19" label="Ces-Dur">
+                        <measure n="37">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="c" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up" accid="f"/>
+                                    <note pname="g" dur="2" oct="3" stem.dir="up" accid="f" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="g" dur="2" oct="3" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="38">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="1" oct="5" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="3" accid.ges="f" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-20" label="Fes-Dur">
+                        <measure n="39">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="ff"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down" accid="f" tie="i"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up" accid="f"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up" accid="f"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="2" stem.dir="down" accid="f"/>
+                                    <note pname="c" dur="4" oct="3" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="40">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="4" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="4" tie="t"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="2" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-21" label="Heses-dur">
+                        <measure n="41">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                    <note pname="c" dur="4" oct="5" stem.dir="up" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="down" accid="ff"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up" accid="f"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up" accid="f" tie="i"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up" accid.ges="f" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="down" accid="f"/>
+                                    <note pname="c" dur="4" oct="3" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="42">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="ff"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid.ges="f"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up" accid.ges="ff"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down" accid="f"/>
+                                    <note pname="d" dur="2" oct="4" stem.dir="down" accid.ges="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="f" dur="2" oct="3" stem.dir="up" accid="f" tie="i"/>
+                                    <note pname="f" dur="2" oct="3" stem.dir="up" accid.ges="f" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="2" oct="3" stem.dir="down" accid="f"/>
+                                    <note pname="b" dur="2" oct="2" stem.dir="down" accid="ff"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-22" label="a-moll">
+                        <measure n="43">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="a" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="e" dur="2" oct="3" stem.dir="up" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="2" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="44">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="1" oct="3" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" dur="1" oct="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-23" label="e-moll">
+                        <measure n="45">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="2" dots="1" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="b" dur="2" oct="2" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="46">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="4" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="3"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="3"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-24" label="h-moll">
+                        <measure n="47">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4"/>
+                                    <note pname="f" dur="2" oct="4" tie="i" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="48">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="4" tie="t" accid.ges="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="d" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="b" dur="1" oct="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-25" label="fis-moll">
+                        <measure n="49">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <beam>
+                                        <note pname="d" dur="8" oct="5" stem.dir="up"/>
+                                        <note pname="b" dur="8" oct="4" stem.dir="up"/>
+                                    </beam>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="b" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="c" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="50">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="4" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="3"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="3" accid="s"/>
+                                </layer>
+                                <layer n="3">
+                                    <note pname="f" dur="1" oct="2" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-26" label="cis-moll">
+                        <measure n="51">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="5" stem.dir="up" accid="n"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="down" accid="s" tie="i"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up" tie="i"/>
+                                    <beam>
+                                        <note pname="d" dur="8" oct="4" stem.dir="up" tie="t"/>
+                                        <note pname="f" dur="8" oct="4" stem.dir="up" accid="s"/>
+                                    </beam>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="52">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="1" oct="5" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="1" oct="4" tie="t" accid.ges="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="3" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-27" label="gis-moll">
+                        <measure n="53">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <beam>
+                                        <note pname="a" dur="8" oct="4" stem.dir="up"/>
+                                        <note pname="b" dur="8" oct="4" stem.dir="up"/>
+                                    </beam>
+                                    <note pname="c" dur="4" oct="5" stem.dir="up" accid="s"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="s" tie="i"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up" accid="ss"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="54">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="4" tie="t" accid.ges="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="3" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="1" oct="2" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-28" label="dis-moll">
+                        <measure n="55">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <beam>
+                                        <note pname="b" dur="8" oct="4" stem.dir="up"/>
+                                        <note pname="g" dur="8" oct="4" stem.dir="up" accid="s"/>
+                                    </beam>
+                                    <note pname="e" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="2" dots="1" oct="4" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down" accid="ss"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up" accid="s" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="2" stem.dir="down" accid="s"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="56">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="4" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="3" accid.ges="s" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="3" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-29" label="ais-moll">
+                        <measure n="57">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="2" oct="4" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="a" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="b" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="3" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="58">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                    <note pname="a" dur="2" oct="4" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                    <note pname="c" dur="2" oct="4" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="2" oct="3" stem.dir="down" accid="s"/>
+                                    <note pname="a" dur="2" oct="2" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-30" label="eis-moll">
+                        <measure n="59">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5" stem.dir="up"/>
+                                    <note pname="a" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="up" accid="ss"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down" accid="ss"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="e" dur="2" oct="4" stem.dir="up"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="b" dur="4" oct="3" stem.dir="up" accid="s" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="down"/>
+                                    <beam>
+                                        <note pname="f" dur="8" oct="3" stem.dir="down" accid="s"/>
+                                        <note pname="a" dur="8" oct="2" stem.dir="down" accid="s"/>
+                                    </beam>
+                                    <note pname="b" dur="4" oct="2" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="60">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="4" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="3" accid.ges="s" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="3" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-31" label="his-moll">
+                        <measure n="61">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <beam>
+                                        <note pname="d" dur="8" oct="5" stem.dir="up"/>
+                                        <note pname="b" dur="8" oct="4" stem.dir="up"/>
+                                    </beam>
+                                    <note pname="g" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="up" accid="ss" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                    <note pname="a" dur="4" oct="3" stem.dir="down" accid="ss"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="2" oct="3" stem.dir="up"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="up" accid="s"/>
+                                    <note pname="c" dur="4" oct="3" stem.dir="up" accid="ss"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="b" dur="4" oct="2" stem.dir="down"/>
+                                    <beam>
+                                        <note pname="c" dur="8" oct="3" stem.dir="down" accid="s"/>
+                                        <note pname="e" dur="8" oct="2" stem.dir="down" accid="s"/>
+                                    </beam>
+                                    <note pname="f" dur="4" oct="2" stem.dir="down" accid="ss"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="62">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="4" accid.ges="ss" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="b" dur="1" oct="3" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="d" dur="1" oct="3" accid="s"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="b" dur="1" oct="2" accid="s"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-32" label="d-moll">
+                        <measure n="63">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5" stem.dir="up"/>
+                                    <note pname="b" dur="4" oct="4" stem.dir="up" accid="f"/>
+                                    <note pname="a" dur="2" oct="4" stem.dir="up" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4" stem.dir="down"/>
+                                    <note pname="d" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="c" dur="4" oct="4" stem.dir="down" accid="s"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="3" stem.dir="up"/>
+                                    <note pname="e" dur="4" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3" stem.dir="down"/>
+                                    <note pname="g" dur="4" oct="2" stem.dir="down"/>
+                                    <note pname="a" dur="2" oct="2" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="64">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="4" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="f" dur="1" oct="3"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="3"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-33" label="g-moll">
+                        <measure n="65">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="4" oct="4" stem.dir="up"/>
+                                    <note pname="f" dur="4" oct="4" stem.dir="up" accid="s"/>
+                                    <note pname="g" dur="2" oct="4" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="2" oct="4" stem.dir="down"/>
+                                    <note pname="b" dur="2" oct="3" stem.dir="down" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="a" dur="2" oct="3" stem.dir="up"/>
+                                    <note pname="d" dur="2" oct="3" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" dur="2" oct="2" stem.dir="down"/>
+                                    <note pname="g" dur="2" oct="2" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-34" label="c-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" oct="4" dur="4"/>
+                                    <note pname="f" oct="4" dur="4"/>
+                                    <note pname="e" oct="4" dur="4" accid="f"/>
+                                    <note pname="d" oct="4" dur="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="2" dots="1" oct="4"/>
+                                    <note pname="b" oct="3" dur="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" oct="3" dur="4"/>
+                                    <note pname="a" oct="3" dur="4" accid="f"/>
+                                    <note pname="g" oct="3" dur="2" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" oct="3" dur="4"/>
+                                    <note pname="f" oct="2" dur="4"/>
+                                    <note pname="g" oct="2" dur="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="2">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" oct="4" dur="1" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" oct="4" dur="1"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" oct="3" dur="1" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" oct="3" dur="1"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-35" label="f-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="g" oct="4" dur="4"/>
+                                    <note pname="a" oct="4" dur="4" accid="f"/>
+                                    <note pname="b" oct="4" dur="4" accid="f"/>
+                                    <note pname="g" oct="4" dur="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" oct="4" dur="4"/>
+                                    <note pname="f" oct="4" dur="4"/>
+                                    <note pname="g" oct="4" dur="4"/>
+                                    <note pname="e" oct="4" dur="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" oct="4" dur="2"/>
+                                    <note pname="d" oct="4" dur="4" accid="f"/>
+                                    <note pname="c" oct="4" dur="4" tie="i"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" oct="3" dur="4"/>
+                                    <note pname="f" oct="3" dur="4"/>
+                                    <note pname="b" oct="2" dur="4" accid="f"/>
+                                    <note pname="c" oct="3" dur="4"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="2">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="a" dur="1" oct="4" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" dur="1" oct="4" tie="t"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="3"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-36" label="b-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="2" oct="5"/>
+                                    <note pname="b" dur="2" accid="f" oct="4"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4"/>
+                                    <note pname="e" dur="4" oct="4" accid="f"/>
+                                    <note pname="d" dur="2" oct="4" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3"/>
+                                    <note pname="a" dur="4" oct="3"/>
+                                    <note pname="b" dur="2" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3"/>
+                                    <note pname="f" dur="4" oct="3"/>
+                                    <note pname="b" dur="2" oct="2" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-37" label="es-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="2" oct="5" tie="i"/>
+                                    <beam>
+                                        <note pname="c" dur="8" oct="5" tie="t"/>
+                                        <note pname="d" dur="8" oct="5"/>
+                                    </beam>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="e" dur="4" oct="4"/>
+                                    <note pname="f" dur="2" oct="4"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="g" dur="4" oct="3"/>
+                                    <note pname="a" dur="2" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="4" oct="3"/>
+                                    <note pname="f" dur="4" oct="3"/>
+                                    <note pname="b" dur="4" oct="2" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="2">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="e" dur="1" oct="5" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-38" label="as-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="4" oct="5"/>
+                                    <note pname="d" dur="2" oct="5" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="e" dur="4" oct="4"/>
+                                    <note pname="f" dur="4" oct="4"/>
+                                    <note pname="e" dur="4" oct="4" accid="f" tie="i"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="g" dur="4" oct="3"/>
+                                    <note pname="a" dur="4" oct="3" accid="f"/>
+                                    <note pname="b" dur="4" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="4" oct="3"/>
+                                    <note pname="f" dur="4" oct="3"/>
+                                    <note pname="g" dur="4" oct="3"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="2">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" oct="5" dur="1" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" oct="4" dur="1" accid.ges="f" tie="t"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="a" oct="3" dur="1" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="a" oct="3" dur="1" accid="f"/>
+                                    <!-\- zweite aes ist nicht erscheinend -\->
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-39" label="des-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="4" oct="5"/>
+                                    <note pname="e" dur="2" oct="5" accid="f"/>
+                                    <note pname="c" dur="4" oct="5"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="4" oct="4"/>
+                                    <note pname="f" dur="4" oct="4"/>
+                                    <note pname="e" dur="4" oct="4" accid="f"/>
+                                    <note pname="g" dur="4" oct="4" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="4" oct="3"/>
+                                    <note pname="a" dur="4" oct="3" accid="f"/>
+                                    <note pname="b" dur="4" oct="3" accid="f"/>
+                                    <note pname="e" dur="4" oct="4" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="4" oct="3"/>
+                                    <note pname="f" dur="4" oct="3"/>
+                                    <note pname="g" dur="4" oct="3" accid="n"/>
+                                    <!-\- n im Klammer -\->
+                                    <note pname="a" dur="4" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="2">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="d" dur="1" accid="f" oct="5"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="f" dur="1" oct="4" accid="f"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="d" dur="1" oct="4" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-40" label="ges-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="4" oct="5"/>
+                                    <note pname="d" dur="4" oct="5" accid="f"/>
+                                    <note pname="c" dur="4" oct="5" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="e" dur="4" oct="4"/>
+                                    <note pname="f" dur="4" oct="4"/>
+                                    <note pname="d" dur="4" oct="4" accid="f" tie="i"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="g" dur="4" oct="3"/>
+                                    <note pname="a" dur="2" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="4" oct="3"/>
+                                    <note pname="f" dur="2" oct="3"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="2">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="b" dur="1" oct="4" accid="ff"/>
+                                    <!-\- ff ist nicht scheinbar -\->
+                                </layer>
+                                <layer n="2">
+                                    <note pname="d" dur="1" oct="4" accid.ges="f" tie="t"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="g" dur="1" accid.ges="f" oct="3"/>
+                                    <!-\- zweite g ist nicht scheinbar -\->
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                    <section xml:id="m_a-41" label="ces-moll">
+                        <measure n="1">
+                            <staff n="1">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="4" oct="5"/>
+                                    <beam>
+                                        <note pname="d" dur="8" oct="5" accid="f"/>
+                                        <note pname="c" dur="8" oct="5" accid="f"/>
+                                    </beam>
+                                    <note pname="b" dur="4" oct="4" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="e" dur="4" oct="4"/>
+                                    <beam>
+                                        <note pname="f" dur="8" oct="4"/>
+                                        <note pname="d" dur="8" oct="4" accid="f" tie="i"/>
+                                    </beam>
+                                    <note pname="d" dur="4" oct="4" accid.ges="f" tie="t"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <rest dur="4"/>
+                                    <note pname="g" dur="4" oct="3"/>
+                                    <note pname="a" dur="4" oct="3" accid="f"/>
+                                    <note pname="g" dur="4" oct="3" accid="f" stem.dir="up"/>
+                                </layer>
+                                <layer n="2">
+                                    <rest dur="4"/>
+                                    <note pname="c" dur="4" oct="3"/>
+                                    <note pname="f" dur="4" oct="3"/>
+                                    <note pname="g" dur="4" oct="3" stem.dir="down"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure n="2">
+                            <staff n="1">
+                                <layer n="1">
+                                    <note pname="c" dur="1" oct="5" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="e" dur="1" oct="4" accid="ff"/>
+                                    <!-\- ff ist nicht scheinbar -\->
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="g" dur="1" oct="3" accid="f"/>
+                                </layer>
+                                <layer n="2">
+                                    <note pname="c" dur="1" oct="3" accid="f"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>--></score></mdiv><mdiv xml:id="m_b_Cis-dur"><score><scoreDef key.sig="7s"><staffGrp symbol="brace" label="Von Cis-dur nach:"><staffDef n="1" lines="5" clef.shape="G" clef.line="2"/><staffDef n="2" lines="5" clef.shape="F" clef.line="4"/></staffGrp></scoreDef><section xml:id="m_b-42" label="Es-dur (es-moll)"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><note pname="d" dur="4" oct="5" accid="n"/><note pname="f" dur="4" oct="5" accid="n"/><note pname="b" dur="4" oct="4" accid="f" tie="i"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><beam><note pname="f" dur="16" oct="4"/><note pname="a" dur="16" oct="4" accid="n"/><note pname="g" dur="8" oct="4" accid="n"/></beam><note pname="f" dur="2" oct="4" accid="n"/></layer></staff><staff n="2"><layer n="1"><note pname="g" dur="4" oct="3"/><beam><note pname="a" dur="8" oct="3" accid="n"/><note pname="b" dur="8" oct="3" accid="n"/></beam><note pname="c" dur="4" oct="4" accid="n"/><note pname="d" dur="4" oct="4" accid="n"/></layer><layer n="2"><note pname="c" dur="4" oct="3"/><beam><note pname="f" dur="8" oct="3"/><note pname="a" dur="8" oct="3" accid="n"/></beam><note pname="a" dur="4" oct="3" accid="f"/><note pname="b" dur="4" oct="3" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="b" dur="1" oct="4" accid.ges="f" tie="t"/></layer><layer n="2"><note pname="g" oct="4" dur="1" accid="n"/><choice><!-- choice ist nicht scheinbar --><reg label="es-dur"><note pname="g" oct="4" dur="1" accid="n"/></reg><reg label="es-moll"><note pname="g" oct="4" dur="1" accid="f"/></reg></choice></layer></staff><staff n="2"><layer n="1"><note pname="e" dur="1" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="1" oct="3" accid="f"/></layer></staff></measure></section><section xml:id="m_b-43" label="As-dur (as-moll)"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><note pname="d" dur="4" oct="5" accid="n"/><note pname="e" dur="4" oct="5" accid="f"/><note pname="b" dur="4" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><beam><note pname="f" dur="16" oct="4"/><note pname="a" dur="16" oct="4" accid="n"/><note pname="g" dur="8" oct="4" accid="n" tie="i"/></beam><note pname="g" dur="2" oct="4" tie="t" accid.ges="n"/></layer></staff><staff n="2"><layer n="1"><note pname="g" dur="4" oct="3"/><beam><note pname="a" dur="8" oct="3" accid="n"/><note pname="b" dur="8" oct="3" accid="n"/></beam><note pname="c" dur="4" oct="4" accid="n"/><note pname="d" dur="4" oct="4" accid="n"/></layer><layer n="2"><note pname="c" dur="4" oct="3"/><beam><note pname="f" dur="8" oct="3"/><note pname="g" dur="8" oct="3" accid="n"/></beam><note pname="c" dur="4" oct="3" accid="n"/><note pname="e" dur="4" oct="3" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="a" dur="1" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="1" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="1" oct="4" accid="n"/><choice><!-- choice ist nicht scheinbar --><reg label="As-dur"><note pname="c" dur="1" oct="4" accid="f"/></reg><reg label="as-dur"><note pname="c" dur="1" oct="4" accid="n"/></reg></choice></layer><layer n="2"><note pname="a" dur="1" oct="2" accid="f"/></layer></staff></measure></section><section xml:id="m_b-44" label="Des-dur(des-moll)"><measure n="1"><staff n="1"><layer n="1"><note pname="c" oct="5" dur="4"/><note pname="d" oct="5" dur="4" accid="n"/><beam><note pname="e" oct="5" dur="8" accid="f"/><note pname="g" oct="4" dur="8"/></beam><beam><note pname="a" oct="4" dur="8" accid="f"/><note pname="g" oct="4" dur="8" accid="f"/></beam></layer><layer n="2"><note pname="e" oct="4" dur="4"/><beam><beam><note pname="d" oct="4" dur="16"/><note pname="a" oct="4" dur="16" accid="n"/></beam><note pname="g" oct="4" dur="8" accid="n" tie="i"/></beam><beam><note pname="g" oct="4" dur="8" tie="t" accid.ges="n"/><note pname="e" oct="4" dur="8" accid="f"/></beam><beam><note pname="f" oct="4" dur="8" accid="n"/><note pname="e" oct="4" dur="8" accid="f"/></beam></layer></staff><staff n="2"><layer n="1"><note pname="g" oct="3" dur="4"/><beam><note pname="a" oct="3" dur="8" accid="n"/><note pname="b" oct="3" dur="8" accid="n"/></beam><note pname="c" oct="4" dur="2" accid="n"/></layer><layer n="2"><note pname="c" oct="3" dur="4"/><beam><note pname="f" oct="3" dur="8"/><note pname="g" oct="3" dur="8" accid="n"/></beam><note pname="c" oct="3" dur="4" accid="n"/><note pname="a" oct="2" dur="4" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="f" oct="4" dur="1" accid="n"/><choice><!-- choice ist nicht scheinbar --><reg label="Des-dur"><note pname="f" oct="4" dur="1" accid="n"/></reg><reg label="des-moll"><note pname="f" oct="4" dur="1" accid="f"/></reg></choice></layer><layer n="2"><note pname="d" oct="4" dur="1" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="a" oct="3" dur="1" accid="f"/></layer><layer n="2"><note pname="d" oct="3" dur="1" accid="f"/></layer></staff></measure></section><section xml:id="m_b-45" label="Ges-dur(ges-moll)"><measure n="1"><staff n="1"><layer n="1"><note pname="e" oct="5" dur="4"/><beam><note pname="f" oct="5" dur="8"/><note pname="d" oct="5" dur="8" accid="n" tie="i"/></beam><note pname="d" oct="5" dur="4" tie="t" accid.ges="n"/><note pname="f" oct="5" dur="4" accid="n"/></layer><layer n="2"><note pname="g" oct="4" dur="4"/><note pname="a" oct="4" dur="4" accid="n"/><note pname="g" oct="4" dur="4" accid="n"/><note pname="f" oct="4" dur="4" accid="n"/></layer></staff><staff n="2"><layer n="1"><note pname="c" oct="4" dur="4" dots="1"/><beam><note pname="d" oct="4" dur="16" accid="n"/><note pname="c" oct="4" dur="16" accid="n"/></beam><note pname="b" oct="3" dur="4" accid="n"/><note pname="c" oct="4" dur="4" accid="n"/></layer><layer n="2"><note pname="c" oct="3" dur="4"/><note pname="f" oct="3" dur="4"/><note pname="g" oct="3" dur="4" accid="n"/><note pname="a" oct="3" dur="4" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="d" oct="5" dur="4" accid="f"/><beam><note pname="c" oct="5" dur="8" accid="f"/><note pname="a" oct="4" dur="8" accid="f"/></beam><note pname="b" oct="4" dur="2" accid="f"/><choice><reg label="Ges-dur"><note pname="b" oct="4" dur="2" accid="f"/></reg><reg label="ges-moll"><note pname="b" oct="4" dur="2" accid="ff"/></reg></choice></layer><layer n="2"><note pname="g" oct="4" dur="4" dots="1" accid="f"/><note pname="f" oct="4" dur="8" accid="n"/><note pname="g" oct="4" dur="2" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="d" oct="4" dur="2" accid="f" tie="i"/><note pname="d" oct="4" dur="2" tie="t" accid.ges="f"/></layer><layer n="2"><note pname="b" oct="3" dur="4" accid="f"/><note pname="d" oct="3" dur="4" accid="f"/><note pname="g" oct="3" dur="2" accid="f"/></layer></staff></measure></section><section xml:id="m_b-46" label="Ces-dur(ces-moll)"><measure n="1"><staff n="1"><layer n="1"><note pname="c" oct="5" dur="4"/><note pname="d" oct="5" dur="4" accid="n"/><beam><note pname="f" oct="5" dur="8" accid="n"/><note pname="d" oct="5" dur="8" accid="f"/></beam></layer><layer n="2"><note pname="e" oct="4" dur="4"/><beam><beam><note pname="f" oct="4" dur="16"/><note pname="a" oct="4" dur="16" accid="n"/></beam><note pname="g" oct="4" dur="8" accid="n"/></beam><beam><note pname="f" oct="4" dur="8" accid="n"/><note pname="g" oct="4" dur="8" accid="f" tie="i"/></beam></layer></staff><staff n="2"><layer n="1"><note pname="g" oct="3" dur="4"/><beam><note pname="a" oct="3" dur="8" accid="n"/><note pname="b" oct="3" dur="8" accid="n"/></beam><beam><note pname="c" oct="4" dur="8" accid="n"/><note pname="d" oct="4" dur="8" accid="f"/></beam></layer><layer n="2"><note pname="c" oct="3" dur="4"/><beam><note pname="f" oct="3" dur="8"/><note pname="g" oct="3" dur="8" accid="n"/></beam><beam><note pname="a" oct="3" dur="8" accid="f"/><note pname="b" oct="3" dur="8" accid="f"/></beam></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="c" oct="5" dur="1" accid="f"/></layer><layer n="2"><note pname="g" oct="4" dur="1" tie="t" accid.ges="f"/></layer></staff><staff n="2"><layer n="1"><note pname="e" dur="1" oct="4" accid="f"/><choice><reg label="Ces-dur"><note pname="e" dur="1" oct="4" accid="f"/></reg><reg label="ces-moll"><note pname="e" dur="1" oct="4" accid="ff"/></reg></choice></layer><layer n="2"><note pname="c" dur="1" oct="4" accid="f"/></layer></staff></measure></section></score></mdiv><mdiv xml:id="m_c_a_moll"><score><scoreDef meter.count="4" meter.unit="4" meter.sym="common"><staffGrp symbol="brace" label="Von a-moll nach:"><staffDef n="1" lines="5" clef.shape="G" clef.line="2"/><staffDef n="2" lines="5" clef.shape="F" clef.line="4"/></staffGrp></scoreDef><section xml:id="m_c-47" label="e-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" oct="5" dur="4"/><note pname="a" oct="4" dur="4"/><note pname="g" oct="4" dur="4"/><note pname="f" oct="4" dur="4" accid="s"/></layer><layer n="2"><note pname="e" oct="4" dur="2" dots="1"/><note pname="d" accid="s" oct="4" dur="4"/></layer></staff><staff n="2"><layer n="1"><note pname="a" oct="3" dur="4"/><note pname="c" oct="4" dur="4"/><note pname="b" oct="3" dur="4" dots="1"/><note pname="a" oct="3" dur="8"/></layer><layer n="2"><note pname="a" oct="2" dur="4"/><note pname="f" oct="2" dur="4" accid="s"/><note pname="b" oct="2" dur="2"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="e" oct="4" dur="1"/></layer><layer n="2"><note pname="b" oct="3" dur="1"/></layer></staff><staff n="2"><layer n="1"><note pname="g" oct="3" dur="1"/></layer><layer n="2"><note pname="e" oct="2" dur="1"/></layer></staff></measure></section><section xml:id="m_c-48" label="h-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" oct="5" dur="4"/><note pname="b" oct="4" dur="2"/><note pname="a" oct="4" dur="4" accid="s"/></layer><layer n="2"><note pname="e" oct="4" dur="2"/><note pname="d" oct="4" dur="4"/><note pname="c" oct="4" dur="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="a" oct="3" dur="4"/><note pname="g" oct="3" dur="4"/><note pname="f" oct="3" dur="2" stem.dir="up" tie="i" accid.ges="s"/><!-- noten wird nicht gezeigt --></layer><layer n="2"><note pname="a" oct="2" dur="4"/><note pname="e" oct="3" dur="4"/><note pname="f" oct="3" dur="4" stem.dir="down" accid="s"/><note pname="f" oct="2" dur="4" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="b" dur="1" oct="4"/></layer><layer n="2"><note pname="d" dur="1" oct="4"/></layer></staff><staff n="2"><layer n="1"><note pname="f" dur="1" oct="3" tie="t" accid.ges="s"/></layer><layer n="2"><note pname="b" dur="1" oct="2"/></layer></staff></measure></section><section xml:id="m_c-49" label="fis-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" oct="5" dur="4"/><note pname="b" oct="4" dur="4"/><note pname="a" oct="4" dur="4"/><note pname="g" oct="4" dur="4" accid="s"/></layer><layer n="2"><note pname="a" oct="4" dur="4"/><note pname="g" oct="4" dur="4" accid="s"/><note pname="f" oct="4" dur="4" accid="s"/><note pname="e" oct="4" dur="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="e" oct="4" dur="4"/><note pname="d" oct="4" dur="4"/><note pname="c" oct="4" dur="2" accid="s" tie="i"/></layer><layer n="2"><note pname="a" oct="2" dur="4"/><note pname="b" oct="2" dur="4"/><note pname="c" oct="3" dur="2" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="a" dur="1" oct="4"/></layer><layer n="2"><note pname="f" dur="1" oct="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="1" oct="4" tie="t" accid.ges="s"/></layer><layer n="2"><note pname="f" dur="1" oct="2" accid="s"/></layer></staff></measure></section><section xml:id="m_c-50" label="cis-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" oct="5" dur="4"/><note pname="b" oct="4" dur="4"/><note pname="a" oct="4" dur="4"/><note pname="g" oct="4" dur="4" accid="s" tie="i"/></layer><layer n="2"><note pname="a" oct="4" dur="4"/><note pname="g" oct="4" dur="4" accid="s"/><note pname="f" oct="4" dur="4" accid="s"/><note pname="d" oct="4" dur="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="e" oct="4" dur="4"/><note pname="d" oct="4" dur="4"/><note pname="c" oct="4" dur="4" accid="s" dots="1"/><note pname="b" oct="3" dur="8" accid="s"/></layer><layer n="2"><note pname="a" oct="2" dur="4"/><note pname="b" oct="2" dur="4"/><note pname="f" oct="2" dur="4" accid="s"/><note pname="g" oct="2" dur="4" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="g" dur="1" oct="4" tie="t" accid.ges="f"/></layer><layer n="2"><note pname="e" dur="1" oct="4"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="1" oct="4" accid="s"/></layer><layer n="2"><note pname="c" dur="1" oct="3" accid="s"/></layer></staff></measure></section><section xml:id="m_c-51" label="gis-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><note pname="b" dur="4" oct="4"/><note pname="g" dur="4" oct="4" accid="s"/><note pname="d" dur="4" oct="5" accid="s" tie="i"/></layer><layer n="2"><note pname="a" dur="4" oct="4"/><note pname="g" dur="4" oct="4" accid="s"/><note pname="e" dur="4" oct="4" accid="s"/><note pname="f" dur="4" oct="4" accid="ss"/></layer></staff><staff n="2"><layer n="1"><note pname="e" dur="4" oct="4"/><note pname="d" dur="4" oct="4"/><note pname="c" dur="2" oct="4" accid="s"/></layer><layer n="2"><note pname="a" dur="4" oct="2"/><note pname="b" dur="4" oct="2"/><note pname="c" dur="4" oct="3" accid="s"/><note pname="a" dur="4" oct="2" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="d" dur="1" oct="5" tie="t" accid.ges="f"/></layer><layer n="2"><note pname="g" dur="1" oct="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="b" dur="1" oct="3"/></layer><layer n="2"><note pname="g" dur="1" oct="2" accid="s"/></layer></staff></measure></section><section xml:id="m_c-52" label="dis-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><beam><note pname="b" dur="8" oct="4"/><note pname="g" dur="8" oct="4" accid="s"/></beam><note pname="f" dur="4" oct="4" accid="s"/><note pname="e" dur="4" oct="4" accid="s"/></layer><layer n="2"><note pname="e" dur="2" oct="4"/><note pname="d" dur="4" oct="4" accid="s"/><note pname="c" dur="4" oct="4" accid="ss"/></layer></staff><staff n="2"><layer n="1"><note pname="a" dur="4" oct="3"/><note pname="b" dur="4" oct="3"/><note pname="a" dur="2" oct="3" accid="s" tie="i"/></layer><layer n="2"><note pname="a" dur="4" oct="2"/><note pname="g" dur="4" oct="2" accid="s"/><note pname="a" dur="2" oct="2" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="f" dur="1" oct="4" accid="s"/></layer><layer n="2"><note pname="d" dur="1" oct="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="a" dur="1" oct="3" tie="t" accid.ges="f"/></layer><layer n="2"><note pname="d" dur="1" oct="3" accid="s"/></layer></staff></measure></section><section xml:id="m_c-53" label="ais-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><note pname="b" dur="2" oct="4"/><beam><note pname="a" dur="8" oct="4" accid="s"/><note pname="g" dur="8" oct="4" accid="ss"/></beam></layer><layer n="2"><note pname="e" dur="2" oct="4"/><note pname="f" dur="4" oct="4" accid="s"/><note pname="e" dur="4" oct="4" accid="s" tie="i"/></layer></staff><staff n="2"><layer n="1"><note pname="a" dur="4" oct="3"/><note pname="g" dur="4" oct="3" accid="s"/><note pname="d" dur="4" oct="4" accid="s"/><beam><note pname="c" dur="8" oct="4" accid="s"/><note pname="b" dur="8" oct="3" accid="s"/></beam></layer><layer n="2"><note pname="a" dur="4" oct="2"/><note pname="e" dur="4" oct="3"/><note pname="d" dur="4" oct="3" accid="s"/><note pname="e" dur="4" oct="3" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="a" dur="1" oct="4" accid="s"/></layer><layer n="2"><note pname="e" dur="1" oct="4" tie="t" accid.ges="f"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="1" oct="4" accid="s"/></layer><layer n="2"><note pname="a" dur="1" oct="2" accid="s"/></layer></staff></measure></section><section xml:id="m_c-54" label="eis-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><note pname="b" dur="4" oct="4"/><note pname="a" dur="2" oct="4" accid="s"/></layer><layer n="2"><note pname="e" dur="4" dots="1" oct="4"/><note pname="g" dur="8" oct="4" accid="s"/><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4" accid="ss"/></layer></staff><staff n="2"><layer n="1"><note pname="a" dur="4" oct="3"/><note pname="e" dur="4" oct="4"/><note pname="c" dur="4" oct="4" accid="ss"/><note pname="c" dur="4" oct="4" accid="ns"/><!-- ns ist nicht scheinbar --></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="g" dur="4" oct="3" accid="s"/><note pname="c" dur="4" oct="3" accid="ss"/><note pname="d" dur="4" oct="3" accid="ss"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="g" dur="1" oct="4" accid="s"/></layer><layer n="2"><note pname="e" dur="1" oct="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="b" dur="1" oct="3" accid="s"/></layer><layer n="2"><note pname="e" dur="1" oct="3" accid="s"/></layer></staff></measure></section><section xml:id="m_c-55" label="d-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="2" oct="4"/><note pname="b" dur="4" oct="4" accid="f"/><note pname="a" dur="4" oct="4" tie="i"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="e" dur="2" oct="4"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><note pname="d" dur="2" oct="4"/><note pname="c" dur="4" oct="4" accid="s"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="g" dur="4" oct="3"/><note pname="a" dur="4" oct="3"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="a" dur="1" oct="4" tie="t"/></layer><layer n="2"><note pname="f" dur="1" oct="4"/></layer></staff><staff n="2"><layer n="1"><note pname="d" dur="1" oct="4"/></layer><layer n="2"><note pname="d" dur="1" oct="3"/></layer></staff></measure></section><section xml:id="m_c-56" label="g-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4" accid="s"/><note pname="g" dur="2" oct="4"/></layer><layer n="2"><note pname="c" dur="2" oct="4"/><note pname="b" dur="2" oct="3" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="a" dur="2" oct="3"/><note pname="d" dur="2" oct="3"/></layer><layer n="2"><note pname="a" dur="2" oct="2"/><note pname="g" dur="2" oct="2"/></layer></staff></measure></section><section xml:id="m_c-57" label="c-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="2" oct="4"/><note pname="b" dur="4" oct="4" accid="n"/><!-- Auflösungszeichen in Klammer --><note pname="c" dur="4" oct="5"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="2" oct="4"/><note pname="e" dur="4" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><note pname="d" dur="2" oct="4"/><note pname="c" dur="4" oct="4"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="g" dur="4" oct="3"/><note pname="c" dur="4" oct="3"/></layer></staff></measure></section><section xml:id="m_c-58" label="f-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="4" oct="4"/><note pname="b" dur="2" oct="4" accid="f"/><note pname="a" dur="4" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="g" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><note pname="d" dur="4" oct="4"/><note pname="d" dur="4" oct="4" accid="f"/><note pname="c" dur="4" oct="4"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="e" dur="4" oct="3" accid="n"/><note pname="f" dur="4" oct="3"/></layer></staff></measure></section><section xml:id="m_c-59" label="b-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="2" oct="4"/><note pname="c" dur="4" oct="5"/><note pname="a" dur="4" oct="4"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="g" dur="4" oct="4"/><beam><note pname="f" dur="8" oct="4"/><note pname="e" dur="8" oct="4" accid="f"/></beam></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><note pname="d" dur="4" oct="4"/><note pname="c" dur="2" oct="4"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="e" dur="4" oct="3"/><note pname="f" dur="4" oct="3"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="b" dur="1" oct="4" accid="f"/></layer><layer n="2"><note pname="d" dur="1" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="b" dur="1" oct="3" accid="f"/></layer><layer n="2"><note pname="b" dur="1" oct="2" accid="f"/></layer></staff></measure></section><section xml:id="m_c-60" label="es-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="4" oct="4"/><note pname="b" dur="4" oct="4" accid="f"/><note pname="a" dur="4" oct="4" accid="f"/><note pname="g" dur="4" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="2" oct="4"/><note pname="e" dur="4" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><note pname="b" dur="2" oct="3" accid="f" dots="1"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="2" oct="3"/><note pname="e" dur="4" oct="3" accid="f"/></layer></staff></measure></section><section xml:id="m_c-61" label="as-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="4" oct="4"/><note pname="b" dur="2" oct="4" accid="f"/><note pname="a" dur="4" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="g" dur="4" oct="4"/><note pname="a" dur="4" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><note pname="d" dur="4" oct="4"/><note pname="d" dur="4" oct="4" accid="f"/><note pname="c" dur="4" oct="4" accid="f"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="e" dur="4" oct="3" accid="f"/><note pname="a" dur="4" oct="3" accid="f"/></layer></staff></measure></section><section xml:id="m_c-62" label="des-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><note pname="b" dur="2" oct="4" accid="f"/><note pname="a" dur="4" oct="4" accid="f" tie="i"/></layer><layer n="2"><note pname="a" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="g" dur="4" oct="4"/><beam><note pname="a" dur="8" oct="4" accid="f"/><note pname="g" dur="8" oct="4" accid="f"/></beam></layer></staff><staff n="2"><layer n="1"><note pname="e" dur="4" oct="4"/><note pname="d" dur="4" oct="4"/><note pname="d" dur="4" oct="4" accid="f"/><note pname="c" dur="4" oct="4"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="e" dur="4" oct="3" accid="f"/><note pname="a" dur="4" oct="3" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="a" dur="1" oct="4" tie="t" accid.ges="f"/></layer><layer n="2"><note pname="f" dur="1" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="d" dur="1" oct="4" accid="f"/></layer><layer n="2"><note pname="d" dur="1" oct="3" accid="f"/></layer></staff></measure></section><section xml:id="m_c-63" label="ges-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="4" oct="5"/><note pname="b" dur="2" oct="4" accid="f"/><note pname="a" dur="4" oct="4" accid="f" tie="i"/></layer><layer n="2"><note pname="a" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="g" dur="4" oct="4"/><beam><note pname="a" dur="8" oct="4" accid="f"/><note pname="g" dur="8" oct="4" accid="f"/></beam></layer></staff><staff n="2"><layer n="1"><note pname="e" dur="4" oct="4"/><note pname="d" dur="4" oct="4"/><note pname="d" dur="4" oct="4" accid="f"/><note pname="c" dur="4" oct="4"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="e" dur="4" oct="3" accid="f"/><note pname="a" dur="4" oct="3" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="a" dur="2" oct="4" tie="t" accid.ges="f"/><note pname="g" dur="2" oct="4" accid="f"/></layer><layer n="2"><note pname="f" dur="2" oct="4"/><note pname="g" dur="2" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="2" oct="4" accid="f"/><note pname="b" dur="2" oct="3" accid="ff"/></layer><layer n="2"><note pname="d" dur="2" oct="3" accid="f"/><note pname="g" dur="2" oct="3" accid="f"/></layer></staff></measure></section><section xml:id="m_c-64" label="ces.moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="2" oct="5"/><note pname="b" dur="2" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="g" dur="4" oct="4" accid="f" dots="1"/><note pname="f" dur="8" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="a" dur="4" oct="3"/><note pname="c" dur="4" oct="4"/><note pname="d" dur="2" oct="4" accid="f"/></layer><layer n="2"><note pname="a" dur="4" oct="3" tie="i"/><note pname="a" dur="4" oct="3" tie="t"/><note pname="b" dur="4" oct="3" accid="f"/><note pname="g" dur="4" oct="3" accid="f"/></layer></staff></measure><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="1" oct="5"/></layer><layer n="2"><note pname="e" dur="1" oct="4" accid="ff"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="1" oct="4" accid="f"/></layer><layer n="2"><note pname="c" dur="1" oct="3" accid="f"/></layer></staff></measure></section><section xml:id="m_c-65" label="fes-moll"><measure n="1"><staff n="1"><layer n="1"><note pname="c" dur="2" oct="5"/><note pname="b" dur="2" oct="4" accid="f"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="4" oct="4"/><note pname="g" dur="4" oct="4" dots="1" accid="f"/><note pname="f" dur="8" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="a" dur="4" oct="3"/><note pname="c" dur="4" oct="4"/><note pname="d" dur="2" oct="4" accid="f"/></layer><layer n="2"><note pname="a" dur="4" oct="3" tie="i"/><note pname="a" dur="4" oct="3" tie="t"/><note pname="b" dur="4" oct="3" accid="f"/><note pname="g" dur="4" oct="3" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="c" dur="1" oct="5" accid="f"/></layer><layer n="2"><note pname="e" dur="2" oct="4" accid="f"/><note pname="f" dur="2" oct="4" accid="f"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4" dots="1" accid="f"/><note pname="b" dur="8" oct="3" accid="ff"/><note pname="a" dur="2" oct="3" accid="ff"/><!-- ff ist nicht scheinbar --></layer><layer n="2"><note pname="c" dur="2" oct="3" accid="f"/><note pname="f" dur="2" oct="3" accid="f"/></layer></staff></measure></section><section xml:id="m_c-66" label="C-dur"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="2" oct="4"/><note pname="g" dur="2" oct="4"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="f" dur="2" oct="4"/><note pname="e" dur="4" oct="4"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><beam><note pname="d" dur="8" oct="4"/><note pname="c" dur="8" oct="4"/></beam><note pname="b" dur="4" oct="3"/><note pname="c" dur="4" oct="4"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="d" dur="4" oct="3"/><note pname="g" dur="4" oct="3"/><note pname="c" dur="4" oct="3"/></layer></staff></measure></section><section xml:id="m_c-67" label="G-dur"><measure n="1"><staff n="1"><layer n="1"><note pname="a" dur="4" oct="4"/><note pname="c" dur="4" oct="5"/><note pname="b" dur="4" oct="4"/><note pname="a" dur="4" oct="4"/></layer><layer n="2"><note pname="e" dur="4" oct="4"/><note pname="a" dur="4" oct="4"/><note pname="g" dur="4" oct="4"/><note pname="f" dur="4" oct="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note pname="c" dur="4" oct="4"/><note pname="e" dur="4" oct="4"/><note pname="d" dur="2" oct="4" tie="i"/></layer><layer n="2"><note pname="a" dur="4" oct="3"/><note pname="c" dur="4" oct="3"/><note pname="d" dur="2" oct="3"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note pname="b" dur="1" oct="4"/></layer><layer n="2"><note pname="g" dur="1" oct="4"/></layer></staff><staff n="2"><layer n="1"><note pname="d" dur="1" oct="4" tie="t"/></layer><layer n="2"><note pname="g" dur="1" oct="3"/></layer></staff></measure></section><section xml:id="m_c-68" label="D-dur"><measure n="1"><staff n="1"><layer n="1"><note pname="a" oct="4" dur="4"/><beam><note pname="g" oct="4" dur="8"/><note pname="b" oct="4" dur="8"/></beam><note pname="f" oct="4" dur="4" accid="s"/><note pname="e" oct="4" dur="4"/></layer><layer n="2"><note dur="2" oct="4" pname="e"/><note dur="4" oct="4" pname="d" dots="1"/><note dur="8" oct="4" pname="c" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="3" pname="b"/><note dur="2" oct="3" pname="a" tie="i"/><!-- Im Verovio als Viertelnote angezeigt --></layer><layer n="2"><note dur="4" oct="3" pname="a"/><beam><note dur="8" oct="3" pname="e"/><note dur="8" oct="3" pname="g"/></beam><note dur="4" oct="3" pname="a"/><note dur="4" oct="2" pname="a"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="f" accid="s"/></layer><layer n="2"><note dur="1" oct="4" pname="d"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="a" tie="t"/></layer><layer n="2"><note dur="1" oct="3" pname="d"/></layer></staff></measure></section><section xml:id="m_c-69" label="A-dur"><measure n="3"><staff n="1"><layer n="1"><note dur="2" pname="a" dots="1" oct="4"/><note dur="4" pname="g" oct="4" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="e" dots="1"/><note dur="8" oct="4" pname="d"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d"/><note dur="4" oct="4" pname="c" accid="s"/><note dur="4" oct="3" pname="b"/></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="2" oct="3" pname="e"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="a"/></layer><layer n="2"><note dur="1" oct="4" pname="c" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="a"/></layer><layer n="2"><note dur="1" oct="2" pname="a"/></layer></staff></measure></section><section xml:id="m_c-70" label="E-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="f" accid="s"/><note dur="2" oct="4" pname="g" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="s"/><note dur="2" oct="4" pname="e"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="2" oct="3" pname="b" dots="1"/><!-- im Verovio wird vierte Note gezeigt --></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="b"/><note dur="2" oct="3" pname="e"/></layer></staff></measure></section><section xml:id="m_c-71" label="H-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="g"/><note dur="2" oct="4" pname="f" accid="s" tie="i"/></layer><layer n="2"><note dur="2" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="s"/><note dur="4" oct="4" pname="c" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="2" oct="3" pname="b"/><note dur="4" oct="3" pname="a" accid="s"/></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="e"/><note dur="2" oct="3" pname="f" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="f" tie="t" accid.ges="s"/></layer><layer n="2"><note dur="1" oct="4" pname="d" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="b"/></layer><layer n="2"><note dur="1" oct="2" pname="b"/></layer></staff></measure></section><section xml:id="m_c-72" label="Fis-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="g"/><note dur="4" oct="4" pname="f" accid="s"/><note dur="4" oct="4" pname="e"/></layer><layer n="2"><note dur="2" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="s"/><note dur="4" oct="4" pname="c" accid="s" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="2" oct="3" pname="b"/><note dur="4" oct="3" pname="g" accid="s"/></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="e"/><note dur="4" oct="2" pname="b"/><note dur="4" oct="3" pname="c" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="f" accid="s"/></layer><layer n="2"><note dur="1" oct="4" pname="c" tie="t" accid.ges="s"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="a" accid="s"/></layer><layer n="2"><note dur="1" oct="2" pname="f" accid="s"/></layer></staff></measure></section><section xml:id="m_c-73" label="Cis-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="a"/><note dur="2" oct="4" pname="g" accid="s" tie="i"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f" accid="s" tie="i"/><note dur="4" oct="4" pname="f" accid.ges="s" tie="t"/><beam><note dur="8" oct="4" pname="e" accid="s"/><note dur="8" oct="4" pname="d" accid="s"/></beam></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><beam><note dur="8" oct="4" pname="d"/><note dur="8" oct="4" pname="c" accid="s"/></beam><note dur="2" oct="3" pname="b" accid="s"/></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="f" accid="s"/><note dur="2" oct="3" pname="g" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="g" tie="t" accid.ges="s"/></layer><layer n="2"><note dur="1" oct="4" pname="e" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="4" pname="c" accid="s"/></layer><layer n="2"><note dur="1" oct="3" pname="c" accid="s"/></layer></staff></measure></section><section xml:id="m_c-74" label="Gis-dur"><measure n="1"><staff n="1"><layer n="1"><note oct="4" dur="4" pname="a"/><note oct="4" dur="4" pname="g" accid="s"/><note oct="4" dur="4" pname="e" accid="s"/><note oct="4" dur="4" pname="f" accid="ss"/></layer><layer n="2"><note oct="4" dur="4" pname="e"/><note oct="4" dur="4" pname="c" accid="ss"/><note oct="4" dur="4" pname="d" accid="s" tie="i"/></layer></staff><staff n="2"><layer n="1"><note oct="4" dur="4" pname="c"/><note oct="3" dur="4" pname="b"/><note oct="3" dur="2" pname="a" accid.ges="s"/><!-- im Verovio ist vierte Note gezeigt--></layer><layer n="2"><note oct="3" dur="4" pname="a"/><beam><note oct="3" dur="8" pname="e"/><note oct="3" dur="8" pname="g" accid="s"/></beam><note oct="3" dur="4" pname="a" accid="s"/><note oct="3" dur="4" pname="d" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note oct="4" dur="1" pname="g" accid="s"/></layer><layer n="2"><note oct="4" dur="1" pname="d" tie="t" accid.ges="s"/></layer></staff><staff n="2"><layer n="1"><note oct="3" dur="1" pname="b" accid="s"/></layer><layer n="2"><note oct="3" dur="1" pname="g" accid="s"/></layer></staff></measure></section><section xml:id="m_c-75" label="Dis-dur"><measure n="1"><staff n="1"><layer n="1"><note oct="4" dur="4" pname="a"/><note oct="4" dur="4" pname="g" accid="s"/><note oct="4" dur="4" pname="e" accid="s"/><note oct="4" dur="4" pname="f" accid="ss"/></layer><layer n="2"><note oct="4" dur="2" pname="e"/><note oct="4" dur="4" pname="c" accid="ss"/><note oct="4" dur="4" pname="d" accid="s"/></layer></staff><staff n="2"><layer n="1"><note oct="4" dur="4" pname="c"/><note oct="3" dur="4" pname="b"/><note oct="3" dur="2" pname="a"/></layer><layer n="2"><note oct="3" dur="4" pname="a"/><beam><note dur="8" oct="3" pname="e"/><note dur="8" oct="3" pname="g" accid="s"/></beam><note dur="4" oct="3" pname="a" accid="s"/><note dur="4" oct="3" pname="d" accid="s"/></layer></staff></measure></section><section xml:id="m_c-76" label="Ais-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="2" oct="4" pname="b"/><note dur="4" oct="4" pname="g" accid="ss"/></layer><layer n="2"><note dur="2" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="s"/><note dur="4" oct="3" pname="b" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="g" accid="n"/><note dur="4" oct="3" pname="f" accid="s"/><note dur="4" oct="3" pname="e" accid="s" tie="i"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><note dur="4" oct="3" pname="e"/><beam><note dur="8" oct="2" pname="b"/><note dur="8" oct="3" pname="d" accid="s"/></beam><note dur="4" oct="3" pname="e" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="a" accid="s"/></layer><layer n="2"><note dur="1" oct="4" pname="c" accid="ss"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="e" accid.ges="s" tie="t"/></layer><layer n="2"><note dur="1" oct="2" pname="a" accid="s"/></layer></staff></measure></section><section xml:id="m_c-77" label="Eis-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="2" oct="4" pname="b"/><note dur="4" oct="4" pname="g" accid="ss"/></layer><layer n="2"><note dur="2" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="s"/><note dur="4" oct="3" pname="b" accid="s" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="g" accid="n"/><note dur="4" oct="3" pname="f" accid="s"/><note dur="4" oct="3" pname="e" accid="s"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><note dur="4" oct="3" pname="e"/><beam><note dur="8" oct="2" pname="b"/><note dur="8" oct="3" pname="d" accid="s"/></beam><note dur="4" oct="3" pname="e" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="f" accid="ss"/><note dur="2" oct="4" pname="g" accid="ss"/></layer><layer n="2"><note dur="1" oct="3" pname="b" tie="t" accid.ges="s"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="d" accid="ss"/><note dur="2" oct="3" pname="e" accid="s"/></layer><layer n="2"><note dur="2" oct="2" pname="b" accid="s"/><note dur="2" oct="2" pname="e" accid="s"/></layer></staff></measure></section><section xml:id="m_c-78" label="F-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="b" accid="f"/><note dur="4" oct="4" pname="g"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="2" oct="4" pname="d"/><note dur="4" oct="4" pname="c" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="a"/><note dur="2" oct="3" pname="f"/><note dur="4" oct="3" pname="e"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="4" oct="2" pname="g"/><note dur="4" oct="3" pname="c"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="f"/></layer><layer n="2"><note dur="1" oct="4" pname="c" tie="t"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="f"/></layer><layer n="2"><note dur="1" oct="2" pname="f"/></layer></staff></measure></section><section xml:id="m_c-79" label="B-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="4" oct="4" pname="a"/><note dur="2" oct="4" pname="b" accid="f"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><beam><note dur="8" oct="4" pname="f"/><note dur="8" oct="4" pname="e" accid="f"/></beam><note dur="2" oct="4" pname="d"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="a"/><note dur="4" oct="4" pname="c"/><note dur="2" oct="3" pname="b" accid="f"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><note dur="4" oct="2" pname="f"/><note dur="2" oct="2" pname="b" accid="f"/></layer></staff></measure></section><section xml:id="m_c-80" label="Es-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><beam><note dur="8" oct="4" pname="b" accid="f"/><note dur="8" oct="4" pname="a" accid="f"/></beam><note dur="2" oct="4" pname="g"/></layer><layer n="2"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="f"/><note dur="2" oct="4" pname="e" accid="f"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="e"/><beam><note dur="8" oct="4" pname="d"/><note dur="8" oct="3" pname="b" accid="f" tie="i"/></beam><note dur="2" oct="3" pname="b" tie="t" accid.ges="f"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="2" oct="3" pname="e" accid="f"/></layer></staff></measure></section><section xml:id="m_c-81" label="As-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="2" oct="4" pname="b" accid="f"/><note dur="4" oct="4" pname="a" accid="f"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="g"/><note dur="4" oct="4" pname="e" accid="f"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d"/><note dur="4" oct="4" pname="d" accid="f"/><note dur="4" oct="4" pname="c"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="4" oct="3" pname="e" accid="f"/><note dur="4" oct="2" pname="a" accid="f"/></layer></staff></measure></section><section xml:id="m_c-82" label="Des-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="2" oct="4" pname="b" accid="f"/><note dur="4" oct="4" pname="a" tie="i"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="g" accid="f" dots="1"/><beam><note dur="16" oct="4" pname="f"/><note dur="16" oct="4" pname="e" accid="f"/></beam></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d"/><beam><note dur="8" oct="4" pname="e" accid="f"/><note dur="8" oct="4" pname="d" accid="f"/></beam><note dur="4" oct="4" pname="c"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><beam><note dur="8" oct="3" pname="d"/><note dur="8" oct="2" pname="b" accid="f"/></beam><note dur="4" oct="3" pname="e" accid="f"/><note dur="4" oct="2" pname="a" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="a" tie="t" accid.ges="f"/></layer><layer n="2"><note dur="1" oct="4" pname="f"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="4" pname="d" accid="f"/></layer><layer n="2"><note dur="1" oct="3" pname="d" accid="f"/></layer></staff></measure></section><section xml:id="m_c-83" label="Ges-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="2" oct="4" pname="b" accid="f"/><note dur="4" oct="5" pname="c" accid="f"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="g" accid="f"/><note dur="4" oct="4" pname="a" accid="f"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d"/><note dur="2" oct="4" pname="e" accid="f"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><beam><note dur="8" oct="3" pname="d"/><note dur="8" oct="2" pname="b" accid="f"/></beam><note dur="4" oct="3" pname="e" accid="f"/><note dur="4" oct="3" pname="c" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="a" accid="f"/><note dur="2" oct="4" pname="b" accid="f"/></layer><layer n="2"><note dur="2" oct="4" pname="f"/><note dur="2" oct="4" pname="g" accid="f"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="4" pname="d" accid="f"/></layer><layer n="2"><note dur="2" oct="3" pname="d" accid="f"/><note dur="2" oct="2" pname="g" accid="f"/></layer></staff></measure></section><section xml:id="m_c-84" label="Ces-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="2" oct="5" pname="c"/><note dur="2" oct="4" pname="b" accid="f"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="2" oct="4" pname="g" accid="f" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="a"/><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d" accid="f" dots="1"/><note dur="8" oct="4" pname="f" accid="f"/></layer><layer n="2"><note dur="4" oct="3" pname="a" tie="i"/><note dur="4" oct="3" pname="a" tie="t"/><note dur="4" oct="3" pname="b" accid="f" dots="1"/><note dur="8" oct="3" pname="g" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="5" pname="c" accid="f"/></layer><layer n="2"><note dur="1" oct="4" pname="g" tie="t"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="4" pname="e" accid="f"/></layer><layer n="2"><note dur="1" oct="4" pname="c" accid="f"/></layer></staff></measure></section><section xml:id="m_c-85" label="Fes-dur"><measure n="1"><staff n="1"><layer n="1"><note dur="2" oct="5" pname="c"/><note dur="2" oct="4" pname="b" accid="f"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="g" accid="f" dots="1"/><note dur="8" oct="4" pname="f" accid="f"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="a"/><note dur="4" oct="4" pname="c"/><note dur="2" oct="4" pname="d" accid="f"/></layer><layer n="2"><note dur="4" oct="3" pname="a" tie="i"/><note dur="4" oct="3" pname="a" tie="t"/><note dur="4" oct="3" pname="b" accid="f"/><note dur="4" oct="3" pname="g" accid="f"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="5" pname="c" accid="f"/></layer><layer n="2"><note dur="2" oct="4" pname="e" accid="f"/><note dur="2" oct="4" pname="f" accid="f"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c" dots="1" accid="f"/><note dur="8" oct="3" pname="b" accid="ff"/><note dur="2" oct="3" pname="a" accid="f"/></layer><layer n="2"><note dur="2" oct="3" pname="c" accid="f"/><note dur="2" oct="3" pname="f" accid="f"/></layer></staff></measure></section></score></mdiv><mdiv xml:id="m_d_Ces-dur"><score><scoreDef meter.count="4" meter.unit="4" meter.sym="common"><staffGrp symbol="brace" label="Von Ces-dur nach:"><staffDef n="1" lines="5" clef.shape="G" clef.line="2" key.sig="7f"/><staffDef n="2" lines="5" clef.shape="F" clef.line="4" key.sig="7f"/></staffGrp></scoreDef><section xml:id="m_d-86" label="Fis-dur (fis-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="4" oct="4" pname="b"/><beam><note dur="8" oct="4" pname="g" accid="n"/><note dur="8" oct="4" pname="e" accid="n"/></beam><note dur="4" oct="4" pname="d" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d"/><note dur="4" oct="4" pname="c" accid="n"/><note dur="4" oct="3" pname="b" accid="n" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="g"/><beam><note dur="8" oct="3" pname="e" accid="n"/><note dur="8" oct="3" pname="g" accid="n"/></beam><note dur="4" oct="3" pname="f" accid="s"/></layer><layer n="2"><note dur="4" oct="3" pname="c"/><beam><note dur="8" oct="2" pname="g"/><note dur="8" oct="2" pname="b"/></beam><beam><note dur="8" oct="3" pname="c" accid="n"/><note dur="8" oct="3" pname="e" accid="n"/></beam><note dur="4" oct="2" pname="b" accid="n"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="e" accid="s"/><note dur="2" oct="4" pname="f" accid="s"/></layer><layer n="2"><note dur="2" oct="3" pname="b" accid.ges="s" tie="t"/><choice><!-- Moll- und Durkadenz: diesen Takt komplett eingeben? --><reg label="Fis-Dur"><note dur="2" oct="3" pname="a" accid="s"/></reg><reg label="fis-moll"><note dur="2" oct="3" pname="a" accid="n"/></reg></choice></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="g" accid="s"/><note dur="2" oct="3" pname="c" accid="s"/></layer><layer n="2"><note dur="2" oct="2" pname="g" accid="s"/><note dur="2" oct="2" pname="f" accid="s"/></layer></staff></measure></section><section xml:id="m_d-87" label="Cis-dur (cis-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="4" oct="4" pname="b"/><beam><note dur="8" oct="4" pname="g" accid="n"/><note dur="8" oct="4" pname="e" accid="n"/></beam><note dur="4" oct="4" pname="d" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d"/><note dur="4" oct="4" pname="c" accid="n"/><note dur="4" oct="3" pname="b" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="g"/><beam><note dur="8" oct="3" pname="e" accid="n"/><note dur="8" oct="3" pname="g" accid="n"/></beam><note dur="4" oct="3" pname="f" accid="s" tie="i"/></layer><layer n="2"><note dur="4" oct="3" pname="c"/><beam><note dur="8" oct="2" pname="g"/><note dur="8" oct="2" pname="b"/></beam><beam><note dur="8" oct="3" pname="c" accid="n"/><note dur="8" oct="3" pname="e" accid="n"/></beam><note dur="4" oct="2" pname="b" accid="n"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="f" accid="s"/><note dur="4" oct="4" pname="d" accid="s"/><note dur="2" oct="4" pname="c" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="c" accid="s"/><note dur="4" oct="3" pname="g" accid="s" tie="i"/><note dur="2" oct="3" pname="g" accid="s" tie="t"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="f" tie="t" accid.ges="s"/><choice><reg label="Cis-dur"><note dur="2" oct="3" pname="e" accid.ges="s"/></reg><reg label="cis-moll"><note dur="2" oct="3" pname="e" accid.ges="n"/></reg></choice></layer><layer n="2"><note dur="4" oct="2" pname="a" accid="s"/><note dur="4" oct="2" pname="b" accid="s"/><note dur="2" oct="3" pname="c" accid.ges="s"/></layer></staff></measure></section><section xml:id="m_d-88" label="Gis-dur (gis-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="4" oct="4" pname="b"/><note dur="4" oct="4" pname="a" accid="n" tie="i"/><note dur="4" oct="4" pname="a" accid.ges="n" tie="t"/></layer><layer n="2"><note dur="2" oct="4" pname="g"/><note dur="4" oct="4" pname="f" accid="n"/><note dur="4" oct="4" pname="e" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d"/><beam><note dur="8" oct="4" pname="c" accid="n"/><note dur="8" oct="4" pname="d" accid="n"/></beam><beam><note dur="8" oct="4" pname="e" accid="n"/><note dur="8" oct="4" pname="c" accid="s"/></beam></layer><layer n="2"><note dur="4" oct="3" pname="c"/><beam><note dur="8" oct="2" pname="g"/><note dur="8" oct="2" pname="b"/></beam><beam><note dur="8" oct="3" pname="f" accid="n"/><note dur="8" oct="3" pname="d" accid="n"/></beam><note dur="4" oct="3" pname="c" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="f" accid="ss"/><note dur="2" oct="4" pname="g" accid="s"/></layer><layer n="2"><note dur="1" pname="d" oct="4" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="a" accid="s"/><choice><reg label="Gis-dur"><note dur="2" oct="3" pname="a" accid="s"/></reg><reg label="gis-moll"><note dur="2" oct="3" pname="a" accid="n"/></reg></choice></layer><layer n="2"><note dur="2" oct="3" pname="f" accid="s"/><note dur="2" oct="2" pname="g" accid="s"/></layer></staff></measure></section></score></mdiv><mdiv xml:id="m_e_des-moll"><!-- im Buch steht kein "e)" --><score><scoreDef meter.count="4" meter.unit="4" meter.sym="common"><staffGrp symbol="brace" label="Von des-moll nach:"><staffDef n="1" lines="5" clef.shape="G" clef.line="2" key.sig="7f"/><!-- 9f/fes-dur, hier nicht erlaubt! --><staffDef n="2" lines="5" clef.shape="F" clef.line="4" key.sig="7f"/></staffGrp></scoreDef><section xml:id="m_e-89" label="E-dur (e-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="a"/><note dur="2" oct="4" pname="f" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="d"/><note dur="4" oct="4" pname="c" accid="n"/><note dur="2" oct="3" pname="a" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="f"/><note dur="4" oct="3" pname="e"/><beam><note dur="8" oct="3" pname="d" accid="n"/><note dur="8" oct="3" pname="e" accid="n"/></beam><note dur="4" oct="3" pname="d" accid="s"/></layer><layer n="2"><note dur="4" oct="3" pname="d"/><beam><note dur="8" oct="2" pname="a"/><note dur="8" oct="3" pname="c" accid="n"/></beam><beam><note dur="8" oct="3" pname="d" accid="n"/><note dur="8" oct="3" pname="c" accid="n"/></beam><note dur="4" oct="2" pname="b" accid="n"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="e" accid="n"/></layer><layer n="2"><choice><reg label="E-dur"><note dur="1" oct="4" pname="e" accid="s"/></reg><reg label="e-moll"><note dur="1" oct="4" pname="e" accid="n"/></reg></choice></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="e" accid="n"/></layer><layer n="2"><note dur="1" oct="2" pname="e" accid="n"/></layer></staff></measure></section><section xml:id="m_e-90" label="H-dur (h-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="a"/><note dur="2" oct="4" pname="f" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="d"/><note dur="4" oct="4" pname="c" accid="n"/><beam><note dur="8" oct="3" pname="a" accid="n"/><note dur="8" oct="3" pname="a" accid="s"/></beam><note dur="4" oct="3" pname="b" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="f"/><note dur="4" oct="3" pname="e"/><beam><note dur="8" oct="3" pname="d" accid="n"/><note dur="8" oct="3" pname="e" accid="n"/></beam><choice><reg label="H-dur"><note dur="4" oct="3" pname="d" accid="s"/></reg><reg label="h-moll"><note dur="4" oct="3" pname="d" accid="n"/></reg></choice></layer><layer n="2"><note dur="4" oct="3" pname="d"/><beam><note dur="8" oct="2" pname="a"/><note dur="8" oct="3" pname="c" accid="n"/></beam><beam><note dur="8" oct="3" pname="d" accid="n"/><note dur="8" oct="3" pname="c" accid="s"/></beam><note dur="4" oct="2" pname="b" accid="n"/></layer></staff></measure></section><section xml:id="m_e-91" label="Fis-dur (fis-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="d"/><note dur="4" oct="5" pname="c" accid="n"/><note dur="4" oct="4" pname="a" accid="n"/><note dur="4" oct="4" pname="b" accid="n"/></layer><layer n="2"><note dur="2" oct="4" pname="a"/><note dur="4" oct="4" pname="f" accid="s" dots="1"/><note dur="8" oct="4" pname="g" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d" dots="1" tie="i" accid="n"/><note dur="8" oct="4" pname="d" accid.ges="n" tie="t"/></layer><layer n="2"><note dur="4" oct="4" pname="d"/><beam><note dur="8" oct="3" pname="a"/><note dur="8" oct="4" pname="c" accid="n"/></beam><note dur="4" oct="4" pname="d" dots="1"/><beam><note dur="8" oct="3" pname="b" accid="n"/><note dur="8" oct="3" pname="e" accid="s"/></beam></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><choice><reg label="Fis-dur"><note dur="1" oct="4" pname="a" accid="s"/></reg><reg label="fis-moll"><note dur="1" oct="4" pname="f" accid="n"/></reg></choice></layer><layer n="2"><note dur="1" oct="4" pname="f" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="4" pname="c" accid="s"/></layer><layer n="2"><note dur="1" oct="3" pname="f" accid="s"/></layer></staff></measure></section><section xml:id="m_e-92" label="Cis-dur (cis-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="d"/><note dur="4" oct="5" pname="c" accid="n"/><note dur="4" oct="4" pname="a" accid="n"/><note dur="4" oct="4" pname="g" accid="s" tie="i"/></layer><layer n="2"><note dur="2" oct="4" pname="a"/><note dur="4" oct="4" pname="f" accid="s"/><note dur="4" oct="4" pname="d" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="n"/><note dur="4" oct="3" pname="b" accid="s"/></layer><layer n="2"><note dur="4" oct="4" pname="d"/><beam><note dur="8" oct="3" pname="a"/><note dur="8" oct="4" pname="c" accid="n"/></beam><beam><note dur="8" oct="4" pname="d" accid="n"/><note dur="8" oct="3" pname="f" accid="s"/></beam><note dur="4" oct="3" pname="g" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="1" oct="4" pname="g" accid.ges="s" tie="t"/></layer><layer n="2"><choice><reg label="Cis-dur"><note dur="1" oct="4" pname="e" accid="s"/></reg><reg label="cis-moll"><note dur="1" oct="4" pname="e" accid="n"/></reg></choice></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="4" pname="c" accid="s"/></layer><layer n="2"><note dur="1" oct="3" pname="c" accid="s"/></layer></staff></measure></section><section xml:id="m_e-93" label="Gis-dur (gis-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="d"/><note dur="4" oct="5" pname="c" accid="n"/><note dur="4" oct="4" pname="a" accid="n" tie="i"/><note dur="4" oct="4" pname="a" accid.ges="n" tie="t"/></layer><layer n="2"><note dur="2" oct="4" pname="a"/><note dur="4" oct="4" pname="f" accid="s"/><note dur="4" oct="4" pname="e" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="n"/><beam><note dur="8" oct="4" pname="e" accid="n"/><note dur="8" oct="4" pname="c" accid="s"/></beam></layer><layer n="2"><note dur="4" oct="4" pname="d"/><beam><note dur="8" oct="3" pname="a"/><note dur="8" oct="4" pname="c" accid="n"/></beam><beam><note dur="8" oct="4" pname="d" accid="n"/><note dur="8" oct="3" pname="d" accid="n"/></beam><note dur="4" oct="3" pname="c" accid="s"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="f" accid="ss"/><note dur="2" oct="4" pname="g" accid="s"/></layer><layer n="2"><note dur="2" oct="4" pname="d" accid="s"/><note dur="2" oct="4" pname="g" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="a" accid="s"/><choice><reg label="Gis-dur"><note dur="2" oct="3" pname="b" accid="s"/></reg><reg label="gis-moll"><note dur="2" oct="3" pname="b" accid="n"/></reg></choice></layer><layer n="2"><note dur="2" oct="3" pname="d" accid="s"/><note dur="2" oct="2" pname="g" accid="s"/></layer></staff></measure></section><section xml:id="m_e-94" label="Dis-dur (dis-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="d"/><note dur="4" oct="5" pname="c" accid="n"/><note dur="4" oct="4" pname="a" accid="n"/><note dur="4" oct="4" pname="g" accid="s"/></layer><layer n="2"><note dur="2" oct="4" pname="a"/><beam><note dur="8" oct="4" pname="f" accid="s"/><note dur="8" oct="4" pname="f" accid="n"/></beam><note dur="4" oct="4" pname="e" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="d" accid="n"/><note dur="4" oct="3" pname="b" accid="n"/></layer><layer n="2"><note dur="4" oct="4" pname="d"/><beam><note dur="8" oct="3" pname="a"/><note dur="8" oct="4" pname="c" accid="n"/></beam><beam><note dur="8" oct="4" pname="d" accid="n"/><note dur="8" oct="3" pname="d" accid="n"/></beam><beam><note dur="8" oct="3" pname="e" accid="n"/><note dur="8" oct="3" pname="g" accid="s"/></beam></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="e" accid="s"/><choice><reg label="Dis-dur"><note dur="2" oct="4" pname="f" accid="ss"/></reg><reg label="dis-moll"><note dur="2" oct="4" pname="f" accid="s"/></reg></choice></layer><layer n="2"><note dur="2" oct="4" pname="c" accid="ss"/><note dur="2" oct="4" pname="d" accid="s"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="a" accid="s" tie="i"/><note dur="2" oct="3" pname="a" accid.ges="s" tie="t"/></layer><layer n="2"><note dur="2" oct="3" pname="a" accid="s"/><note dur="2" oct="3" pname="d" accid="s"/></layer></staff></measure></section></score></mdiv><mdiv xml:id="m_f_ais-moll"><score><scoreDef meter.count="4" meter.unit="4" meter.sym="common"><staffGrp symbol="brace" label="Von ais-moll nach:"><staffDef n="1" lines="5" clef.shape="G" clef.line="2" key.sig="7s"/><staffDef n="2" lines="5" clef.shape="F" clef.line="4" key.sig="7s"/></staffGrp></scoreDef><section xml:id="m_f-95" label="B-dur (b-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="b" accid="n"/><note dur="4" oct="4" pname="g" accid="n"/><note dur="4" oct="4" pname="a" accid="n"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="e" accid="n"/><note dur="4" oct="4" pname="f" accid="n" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><beam><note dur="8" oct="4" pname="d"/><note dur="8" oct="3" pname="b" accid="n" tie="i"/></beam><note dur="4" oct="3" pname="b" accid.ges="n" tie="t"/><note dur="4" oct="4" pname="c" accid="n" tie="i"/></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="4" oct="3" pname="e" accid="n"/><note dur="4" oct="2" pname="a" accid="n" tie="i"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="5" pname="c" accid="n"/><note dur="2" oct="4" pname="b" accid="f"/></layer><layer n="2"><note dur="4" oct="4" pname="f" accid.ges="n" tie="t"/><note dur="4" oct="4" pname="e" accid="f"/><choice><reg label="B-dur"><note dur="2" oct="4" pname="d" accid="n"/></reg><reg label="B-moll"><note dur="2" oct="4" pname="d" accid="f"/></reg></choice></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="4" pname="c" tie="t" accid.ges="n"/><note dur="2" oct="3" pname="f" accid="n"/></layer><layer n="2"><note dur="2" oct="2" pname="a" tie="t" accid.ges="n"/><note dur="2" oct="2" pname="b" accid="f"/></layer></staff></measure></section><section xml:id="m_f-96" label="Es-dur (e-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="c"/><note dur="4" oct="4" pname="b" accid="n"/><note dur="4" oct="4" pname="g" accid="n"/><beam><note dur="8" oct="4" pname="a" accid="n"/><note dur="8" oct="5" pname="c" accid="n"/></beam></layer><layer n="2"><note dur="4" pname="c" oct="4"/><beam><note dur="8" oct="4" pname="d"/><note dur="8" oct="3" pname="b" accid="n" tie="i"/></beam><note dur="4" oct="3" pname="b" accid.ges="n" tie="t"/><note dur="4" oct="4" pname="f" accid="n" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="3" pname="e"/><note dur="4" oct="3" pname="f"/><note dur="4" oct="3" pname="e" accid="n"/><note dur="4" oct="4" pname="c" accid="n"/></layer><layer n="2"><note dur="4" oct="2" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="4" oct="3" pname="e" accid="n"/><note dur="4" oct="2" pname="a" accid="n"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="5" pname="d" accid="n"/><note dur="2" oct="5" pname="e" accid="f"/></layer><layer n="2"><note dur="2" oct="4" pname="f" accid.ges="n" tie="t"/><choice><reg label="Es-dur"><note dur="2" oct="4" pname="g" accid="n"/></reg><reg label="es-moll"><note dur="2" oct="4" pname="g" accid="f"/></reg></choice></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="3" pname="b" accid="f"/></layer><layer n="2"><note dur="2" oct="2" pname="b" accid="f"/><note dur="2" oct="3" pname="e" accid="f"/></layer></staff></measure></section><section xml:id="m_f-97" label="As-dur (as-moll)"><!-- im Buch "(as-dur)" geschrieben  --><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="b" accid="n"/><note dur="4" oct="4" pname="g" accid="n"/><beam><note dur="8" oct="4" pname="a" accid="n"/><note dur="8" oct="5" pname="c" accid="n"/></beam></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="4" oct="4" pname="e" accid="n"/><note dur="4" oct="4" pname="f" accid="n" tie="i"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><beam><note dur="8" oct="4" pname="d"/><note dur="8" oct="3" pname="b" accid="n" tie="i"/></beam><note dur="4" oct="3" pname="b" accid.ges="n" tie="t"/><note dur="4" oct="4" pname="c" accid="n"/></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="4" oct="3" pname="e" accid="n"/><note dur="4" oct="2" pname="a" accid="n"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="4" oct="5" pname="d" accid="n"/><beam><note dur="8" oct="5" pname="e" accid="f"/><note dur="8" oct="5" pname="d" accid="f"/></beam><choice><reg label="As-dur"><note dur="2" oct="5" pname="e" accid="n"/></reg><reg label="as-moll"><note dur="2" oct="5" pname="e" accid="f"/></reg></choice></layer><layer n="2"><note dur="4" oct="4" pname="f" tie="t" accid.ges="n"/><note dur="4" oct="4" pname="e" tie="i" accid="f"/><note dur="2" oct="4" pname="e" tie="t" accid.ges="f"/></layer></staff><staff n="2"><layer n="1"><note dur="2" oct="3" pname="b" accid="f"/><note dur="2" oct="3" pname="a" accid="f"/></layer><layer n="2"><note dur="4" oct="2" pname="b" accid="f"/><note dur="4" oct="2" pname="g" accid="n"/><note dur="2" oct="2" pname="a" accid="f"/></layer></staff></measure></section><section xml:id="m_f-98" label="Des-dur (des-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="b" accid="n"/><beam><note dur="8" oct="4" pname="g" accid="n"/><note dur="8" oct="4" pname="b" accid="n"/></beam><note dur="4" oct="5" pname="c" accid="n"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="2" oct="4" pname="e" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d"/><note dur="4" oct="3" pname="b" accid="n"/><beam><note dur="8" oct="3" pname="a" accid="n"/><note dur="8" oct="4" pname="c" accid="n"/></beam></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="4" oct="3" pname="g"/><note dur="4" oct="3" pname="a"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="b" accid="f"/><note dur="4" oct="4" pname="a" accid="f" tie="i"/><note dur="4" oct="4" pname="a" accid.ges="f" tie="t"/></layer><layer n="2"><note dur="4" oct="4" pname="f" accid="n"/><note dur="4" oct="4" pname="g" accid="n"/><beam><note dur="8" oct="4" pname="a" accid="f"/><note dur="8" oct="4" pname="g" accid="f"/></beam><choice><reg label="Des-dur"><note dur="4" oct="4" pname="f" accid="n"/></reg><reg label="des-moll"><note dur="4" oct="4" pname="f" accid="f"/></reg></choice></layer></staff><staff n="2"><layer n="1"><beam><note dur="8" oct="4" pname="d" accid="n"/><note dur="8" oct="4" pname="f" accid="n"/></beam><note dur="4" pname="e" oct="4" accid="f"/><note dur="4" pname="c" oct="4" accid="n"/><note dur="4" pname="d" oct="4" accid="f"/></layer><layer n="2"><note dur="4" oct="3" pname="d" accid="n"/><note dur="4" oct="3" pname="e" accid="f"/><note dur="4" oct="3" pname="a" accid="f"/><note dur="4" oct="3" pname="d" accid="f"/></layer></staff></measure></section><section xml:id="m_f-99" label="Ges-dur (ges-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="b" accid="n"/><beam><note dur="8" oct="4" pname="g" accid="n"/><note dur="8" oct="4" pname="b" accid="n"/></beam><note dur="4" oct="5" pname="c" accid="n"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="2" oct="4" pname="e" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d"/><note dur="4" oct="3" pname="b" accid="n"/><beam><note dur="8" oct="3" pname="a" accid="n"/><note dur="8" oct="4" pname="c" accid="n"/></beam></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="d"/><beam><note dur="8" oct="3" pname="e" accid="n"/><note dur="8" oct="3" pname="g"/></beam><note dur="4" oct="3" pname="a" accid="n"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="b" accid="f"/><note dur="4" oct="5" pname="c" accid="n"/><beam><note dur="8" oct="5" pname="d" accid="f"/><note dur="8" oct="5" pname="c" accid="f"/></beam></layer><layer n="2"><note dur="4" oct="4" pname="f" accid="n"/><note dur="4" oct="4" pname="g" accid="n"/><note dur="2" oct="4" pname="a" accid="f"/></layer></staff><staff n="2"><layer n="1"><beam><note dur="8" oct="4" pname="d" accid="n"/><note dur="8" oct="4" pname="f" accid="n"/></beam><note dur="4" oct="4" pname="e" accid="f" tie="i"/><note dur="4" oct="4" pname="e" accid.ges="f" tie="t"/><note dur="4" oct="4" pname="d" accid="f" tie="i"/></layer><layer n="2"><note dur="4" oct="3" pname="d" accid="n"/><note dur="4" oct="3" pname="e" accid="f"/><note dur="4" oct="3" pname="a" accid="f"/><note dur="4" oct="3" pname="f" accid="n"/></layer></staff></measure><measure n="3"><staff n="1"><layer n="1"><choice><reg label="Ges-dur"><note dur="1" oct="4" pname="b" accid="f"/></reg><reg label="ges-moll"><note dur="1" oct="4" pname="b" accid="ff"/></reg></choice></layer><layer n="2"><note dur="1" oct="4" pname="g" accid="f"/></layer></staff><staff n="2"><layer n="1"><note dur="1" oct="4" pname="d" accid="f" tie="t"/></layer><layer n="2"><note dur="1" oct="3" pname="g" accid="f"/></layer></staff></measure></section><section xml:id="m_f-100" label="Ges-dur (ges-moll)"><measure n="1"><staff n="1"><layer n="1"><note dur="4" oct="4" pname="a"/><note dur="4" oct="4" pname="b" accid="n" tie="i"/><note dur="4" oct="4" pname="b" accid.ges="n" tie="t"/><note dur="4" oct="5" pname="c" accid="n"/></layer><layer n="2"><note dur="4" oct="4" pname="e"/><note dur="4" oct="4" pname="f"/><note dur="2" oct="4" pname="e" accid="n"/></layer></staff><staff n="2"><layer n="1"><note dur="4" oct="4" pname="c"/><note dur="4" oct="4" pname="d"/><note dur="4" oct="3" pname="b" accid="n"/><beam><note dur="8" oct="3" pname="a" accid="n"/><note dur="8" oct="4" pname="c" accid="n"/></beam></layer><layer n="2"><note dur="4" oct="3" pname="a"/><note dur="4" oct="3" pname="d"/><note dur="4" oct="3" pname="g"/><note dur="4" oct="3" pname="a" accid="n"/></layer></staff></measure><measure n="2"><staff n="1"><layer n="1"><note dur="2" oct="4" pname="b" accid="f"/><note dur="4" oct="5" pname="c" accid="f"/><note dur="4" oct="4" pname="b" accid="f"/></layer><layer n="2"><note dur="4" oct="4" pname="f" accid="n"/><note dur="4" oct="4" pname="g" accid="n"/><note dur="2" oct="4" pname="g" accid="f" tie="i"/></layer></staff><staff n="2"><layer n="1"><beam><note dur="8" oct="4" pname="d" accid="n"/><note dur="8" oct="4" pname="f" accid="n"/></beam><note dur="4" oct="4" pname="e" accid="f" tie="i"/><note dur="4" oct="4" pname="e" accid.ges="f" tie="t"/><note dur="4" oct="4" pname="d" accid="f"/></layer><layer n="2"><note dur="4" oct="3" pname="d" accid="f"/><note dur="4" oct="3" pname="e" accid="f" tie="i"/><note dur="4" oct="3" pname="e" accid.ges="f" tie="t"/><note dur="4" oct="3" pname="g" accid="f"/></layer></staff></measure><measure n="3"><staff n="1"><layer n="1"><note dur="1" oct="5" pname="c" accid="f"/></layer><layer n="2"><note dur="1" oct="4" pname="g" accid.ges="f" tie="t"/></layer></staff><staff n="2"><layer n="1"><choice><reg label="Ces-dur"><note dur="1" oct="4" pname="e" accid="f"/></reg><reg label="ces-moll"><note dur="1" oct="4" pname="e" accid="ff"/></reg></choice></layer><layer n="2"><note dur="1" oct="3" pname="c" accid="f"/></layer></staff></measure></section></score></mdiv></body></music></mei>

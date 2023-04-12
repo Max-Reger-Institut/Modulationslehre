@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Vorwort</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>Information about the source</p></sourceDesc></fileDesc></teiHeader><text><body><head>Vorwort</head>
+        <!--    <p> 2016 jährt zum 100sten Mal das Todesjahr von Max Reger. Anlässlich einer Gedenkfeier
+                zu diesem Todestag wurde ein Projektseminar im Rahmen des musikwissenschaftlichen
+                Masterstudiengangs ‚Digitale Edition’ am Musikwissenschaftlichen Seminar
+                Paderborn/Detmold eine digitale, historisch-kritische und mehrsprachige Musikedition
+                mit dem Namen Beiträge der Modulationslehre ins Leben gerufen. Im Projekt waren
+                Shino Funayama, Ran Mo und Chaoling Zhang, drei MA-Studierende mit dem Schwerpunkt
+                ‚Digitale Edition’, unter der Leitung von Nikolaos Beer M. A.
+                (Musikwissenschaftlicher Mitarbeiter am Max Reger Institut in Karlsruhe und der
+                Universität Paderborn) und Benjamin Bohl M. A. (Mitarbeiter ‚Digitale Musikedition’
+                am Musikwissenschaftlichen Seminar Paderborn/Detmold) involviert. Die Materialien,
+                wie Kopien von Drucken, Briefen, Zeitschriften und mehrere Quellen (japanische und
+                englische Ausgabe und Erste Durck) wurden vom Max Reger - Institut in Karlsruhe zu
+                Verfügung gestellt. Besonders geholfen hat die Kopie eines Autographs von Max Reger
+                von der Bayerischen Staatsbibliothek in München. Wir danken Herrn Dr. Johannes
+                Kepper und Herrn Dipl. Wirt-. Inf. Daniel Röwenstrunk für die technische
+                Unterstützung. Die Qualität der Edition lässt sich wie folgt zusammenfassen: es
+                erfolgt ‚die differenzierte Bewertung des Werkcharakters musikalischer Produkte
+                einerseits und (durch) die Berücksichtigung aller verfügbarer Quellen als
+                Bestandteile des Werkes.’ ??? Übersetzung der Quelle. Vergleichen Autograph und ED
+                In unserem konkreten Fall heißt das [...](Max Regers) Beiträge zur Modulationslehre
+                wurden von Lauterbach & Kuhn abgelehnt, erfreuen sich nach ihrem Druck durch den
+                Verlag C.F. Kahnt Nachfolger aber größter Beliebtheit, die sich in einer
+                beachtlichen Zahl von Neuauflagen und Übersetzungen bis ins Japanische ausdrückt.
+                Über eine abwertende Besprechung der Modulationslehre durch Arthur Smolian erregte
+                sich Reger derart, dass er einen empörten Artikel (Ich bitte ums Wort!) schrieb, dem
+                er im nächsten Jahr einen weiteren in gleicher Angelegenheit (Mehr Licht) folgen
+                ließ; Eine digitale Edition von Max Regers Beiträge zur Modulationslehre wird mit
+                der Hilfe von Edirom-Online herausgegeben. Das ermöglicht den direkten Vergleich
+                zwischen den Quellen. Was war das eigentliche Ziel von Regers Modulationslehre mit
+                hundert Modulationsbeispielen und dazu gelegten Analysen? Die Projektgruppe
+                versuchte zum ersten Mal in den verschiedenen Bereichen, z.B. Notensatzprogramm,
+                XML-basierten Auszeichnungen nach den Regeln der Text Encoding Initiative (TEI) und
+                Music Encoding Initiative (MEI) zu arbeiten und dazu noch die für eine Online-
+                Edition nötigen Webtechnologien, wie XSLT, (x)HTML, JavaScript, CSS etc. zu
+                erlernen. Mit der Unterstützung des Max- Reger-Instituts in Karlsruhe haben wir
+                verschiedene Vorlagen, Briefe, Zeitschriften und mehrere Quellen bekommen und
+                dadurch wurde die Materialrecherche und Darstellung der wichtigsten Vorlage, die mit
+                den entstandenen TEI-XML-Dokumente durch Edirom mit einer taktweisen Konkordanz
+                verbunden ist, ermöglicht. </p> --></body></text></TEI>

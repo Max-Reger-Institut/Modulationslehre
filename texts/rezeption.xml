@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Rezeption</title><respStmt><resp>encoder</resp><name role="encoder">Chaoling Zhang</name></respStmt></titleStmt><publicationStmt><p>no publication statement available</p></publicationStmt><sourceDesc><p>no source statement available</p></sourceDesc></fileDesc><encodingDesc><projectDesc><p>Max-Regers Beiträge der Modulationslehre </p></projectDesc></encodingDesc></teiHeader><text><body>
+            <!--      <div>
+                <head>Rezeption</head>
+                <div n="1">
+                    <p> 1903 wurde in der “Neuen Musikalischen Presse“ Nr. 21, S. 377-378, eine
+                    Rezension über Max Regers Beiträge zur Modulationslehre veröffentlicht. In
+                    dieser kurzen Rezension wurde Max Reger als „Musikmensch des zwanzigsten
+                    Jahrhunderts“ kritisiert, der „ganz nach Willkür und Belieben die weite Tonwelt
+                    durchrasen kann, [...ohne...] sinnendes Aufschauen zu den schönen melodischen
+                    Linien der Natur“. Dabei hinterlässt er nur „gemordete Schönheit“. Genauer
+                    bezieht sich der Autor auf „das allzu plötzliche Ausweichen“ und den
+                    harmonischen „Querstand“ in einigen Beispielen in Regers Beiträge zur
+                    Modulationslehre. Tatsächlich hebt er die Schlagfertigkeit von Reger hervor,
+                    sagt aber, „ daß „schlagfertige“ Musiker [...] einigermaßen gefährlich werden können“. 
+                </p>
+                    <p>   
+                     Max Reger verteidigt sich in seinem Artikel beim „<ref target="xmldb:exist:///db/contents/edition-modulation/texts/reception/ich_bitte_ums_Wort.xml">Ich bitte ums Wort!</ref>“
+                    gegenüber auf einer Besprechung in der „Neuen Musikalischen Presse“ eines
+                    unbekannten Autors, der von ihm nur abschätzig Herr Referent genannt wird. In
+                    seinem Artikel nimmt Reger zum Vorwurf des „Querstands“ Stellung. Der Autor
+                    greift Reger an, indem er sagt, „[w]er [...] den Querstand in No. 26 [ eine
+                    Notenbeispiele aus Regers Beiträge zur Modulationslehre] billigen kann, für
+                    dessen, ‚Geisterohren‘ muss allerdings tönend schon ,ein neuer Tag geboren
+                    sein‘“. Deshalb erklärt Reger mit Beispielen, zunächst, was Querstand wirklich
+                    ist. Außerdem bezeichnet der Autor die Regerschen Modulationen „durch das
+                    allzuplötzliche Ausweichen“ als „schönheitsgefährlich“. Er widerspricht dendie
+                    ästhetischen Argugmenten von demdes Autors durch Beispiele , die Reger aus der
+                    klassischen Musik zitiert, wie z.B. J. S. Bach, Händel usw.. 
+                </p>
+                </div>
+                <div n="2"/>
+            </div>
+            --></body></text></TEI>

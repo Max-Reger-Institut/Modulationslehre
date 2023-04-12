@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="file:/Users/zhangchaoling/Desktop/Reger/tei-mei-master/schemata/edit-tei_mei-cmn.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title level="a">Max Regers Modulationslehre</title><author>V. Goldschmidt</author></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><bibl><author>V. GOLDSCHMIDT</author>
+                  <!-- es wird groß geschrieben --><title level="j">MATERIALIEN ZUR MUSIKLEHRE</title><publisher>Heidelberger Akten der von-portheim-Stifung</publisher><date>1925</date><pubPlace>Heidelberg</pubPlace></bibl></sourceDesc>
+         <!--  <title level="j">Materialien zur Naturphilosophie II. 4-6 </title>  wo sollte es stehen?--></fileDesc></teiHeader><text><body><head type="main"> Max Regers Modulationslehre </head><head type="sub">Analyse von Beispielen der Modulation</head><div><p>Ein richtiges und zusammenfassendes Bild der modernen Modulation dürfte in der
+               kleinen Schrift von <name type="komponist">MAX REGER</name>: <title type="works">Beiträge zur Modulationslehre</title>(<name type="ort">Leipzig</name>,
+               3. Aufl. 1906) enthalaten sein. Dieselbe wurde mir von <name type="musiker">F. W.
+                  PORGES</name>in Vorschlag gebracht. Es lohnt sich, alle 100 Beispiele des
+               Büchleins in unserer Weise zu analysieren. Hier möge eine beschränke Zahl von
+               Beispielen gegeben werden.</p><p>Bei der Auswahl und Kritik der Beispiele erfreute ich mich der Mitwirkung der
+               ausgezeichneten Musiker F.W.PORGES (München), Professor SCHOR (Moskau), K. SALOMON
+               (Heidelberg) und Direktor H. NEAL (Heidelberg), denn ich zu besonderm Dank
+               verpflichtet bin.</p><div n="1" rend="beispiel"><head>Beispiel 1. Reger Nr. 1. S. 6. Von C-Dur nach G-Dur</head><notatedMusic><mdiv xmlns="http://www.music-encoding.org/ns/mei"><score><scoreDef/></score></mdiv></notatedMusic></div></div></body></text></TEI>

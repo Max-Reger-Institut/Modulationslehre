@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../../../../../Desktop/Reger/tei-mei-master/schemata/edit-tei_mei-cmn.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Mehr Licht</title></titleStmt><publicationStmt><publisher>Max Reger</publisher><date when="1904">9. März 1904</date><authority>Neue Zeitschrift für Musik</authority></publicationStmt><sourceDesc><p>Max-Reger-Institur</p></sourceDesc></fileDesc><encodingDesc><projectDesc><p>Max Reger Modulatonslehre Projekt</p></projectDesc></encodingDesc></teiHeader><text><body><p>Eine in den "<title level="j">Blättern für Haus- und Kirchenmusik</title>" (No. 5, <date when="1904">1904</date>) stehende Besprechung meines Büchleins "<title level="m">Beiträge zur Modulationslehre</title>" (<name role="publicher">C. F. Kahnt
+               Nachf.</name> Leipzig) beweist zu meinem Bedauern, dass obige Worte Goethes
+            heutzutage noch gar nicht veraltet sind. Diese Tatsache ist um so betrübender, wenn man
+            sieht, dass in manchen Köpfen selbst über die denkbar einfachsten Frgaen der
+            musikalischen Theorie noch immer heillion Konfusion herrscht. Herr Max Arend, der mein
+            Bücherlein in dem eben erwähnten Blatte besprach, äusserte in dem Referate. Ansichten,
+            die ich nicht umhin kann, etwas näher zu beleuchten.</p><p>Zuerst sei Herr A. auf seinen "Eingangsirrtum" aufmerksam gemacht. Er schreibt da, mein
+            Bücherlein könne als ein Praktium der Riemannschen Modulationslehre und damit
+            gelichzeitig als ein Repetitorium der Riemannschen Harmonielehre bezeichnet werden. Wie
+            der Verfasser zu dieser durch nichts bewisenen Behauptung kommt, ist mir unerklärlich,
+            denn 1. Akkordbezeichnung, wende vielmehr durchgehends die allgemein gebräuchliche,
+            längst erprobte Bezeichnungsweise an, wie sie auch Richter, Helm etc. benutzen; 2.
+            benenne und bezeichne ich den Molldreiklang so, wie er in der ganzen Musikwelt genannt
+            wird: (a moll) und nicht, wie's nach Riemann heissen wurde "Unter e" (oe). Was ich von
+            Riemann entlehnte, ist einzig und allein der Begriff (aber nicht die Bezeichnung) der
+            "neapolitanischen Sexte" -- vielleicht auch der dorischen Sexte. Aber auch diese
+            Begriffe waren den Theoretikern von Riemann keine unbekannten Grössen. Tonika, Unter-
+            und Oberdominante, Parallelen sind ebenfalls längst sattsam bekannte Dinge, und auch den
+            Gebrauch der Umdeutung bei der Modulation kannte man sehr wohl schon vor Riemann. Zudem
+            muss ich hier noch nachdrücklichst erkären, dass mein Büchlein für den Musiker, welcher
+            Theorie ausschliesslich nach Riemann getrieben hat, ziemlich unverständlich sein
+            wird.</p><p> Herr A. hat weiterhin in meinem Büchlein einige "Fehler" entdeckt. Nach seiner
+            Behauptung ist z.B. mein Modulationsbeispiel (No. 30, von C dur nach eis moll) falsch! </p><notatedMusic><mei xmlns="http://www.music-encoding.org/ns/mei"><meiHead><fileDesc><titleStmt><title/></titleStmt><pubStmt/></fileDesc></meiHead><music/></mei></notatedMusic><p> Er behauptet, sämliche Akkorde dieser Modulation liegen in f moll und das Beispiel
+            hiesse eigentlich so: </p><notatedMusic/><p>Wie jeder sehen wird, befindet sich diesem mir zu Nachahmung und zum ev. Studieren
+            gegebenen Mustbeispiele des For<!--  --> Referenten ein Fehler, der in der Theoriestunde
+            als <!--  --> der schlimmsten gerügt zu werden pflegt, es ist der über<!--  -->
+            Sekundschritt der Tenors e-des (vom 1. zum 2. Akkord). Aber auserdem ist die Behauptung,
+            mein Modulationsbeispiel gehöre nach f moll, durch nichts bewiesn. Es scheint Herrn A.
+            entgangen zu sein, dass es sehr wohl möglich ist, den C dur-Dreiklang in seiner ersten
+            Versetzung (also den Sextakkord e g c) <!--  --> als e moll-Dreiklang mit Vorhalt der
+            kleinen Sexte vor der Quinte (d.i. Akkord der neapolitanischen Sexte) aufzufassen</p><p>Wenn z.B.</p><p>richtig ist, dann ist</p><notatedMusic><mei xmlns="http://www.music-encoding.org/ns/mei"><meiHead><fileDesc><titleStmt><title/></titleStmt><pubStmt/></fileDesc></meiHead><music/></mei></notatedMusic><p>ebenso richtig, direkt verständlich und absolut logisch. Weiter behauptet der Referent,
+            auf den Tritonusschritt C dur-Fis dur könne nicht ein weit ausholender Harmonieschritt
+            in derselben Richtung folgen; er begründet diese Behauptung mit Riemann "Syntaxis",
+            Leipzig 1877. Mit seiner Beruf<!--  --> auf Riemann hat Herr A. bei mir sehr wenig
+            Glück. <!--  --> sehr ich Prof. Dr. Riemann schätze, so leid tut es mir, seine
+            musikalische Theorielehre in keiner Weise für mich als bin. <!--  --> oder unfehlbar
+            ansehen zu können, abgesehen davon, dass <!--  --> "Syntaxis" schon 1877 erschienen ist.
+            Seitdem --Wagner wurde damals noch als "Erbfeind" der deutschen Kunst nur
+            <!--  -->häufig verschieen -- ist mancher nicht für möglich scheidenden Anschauungen
+            eingetreten. Ich bedaure also <!--  --> zu müssen, dass Herr A., der sich in der
+            Ver<!--  --> meines Beispiels No. 30 Auf Riemanns Lehre stützt, <!--  --> mit dieser
+            Riemannschen Lehre auf merkwürdig gespann<!--  --> Fuss leben muss, da es sonst
+            unmöglich wäre, hier Tri<!--  --> zu entdecken. Nach Riemanns Lehre von dem Akkord der
+            neapolitanischen Sexte ist der Sextakkord e g c in dem Beispiel No. 30</p><notatedMusic><mei xmlns="http://www.music-encoding.org/ns/mei"><meiHead><fileDesc><titleStmt><title/></titleStmt><pubStmt/></fileDesc></meiHead><music/></mei></notatedMusic><p><!--  --> "Unter e" (e moll) (0 h) mit dem Vorhalt der kleinen Gegen-<!--  --> vor der
+            Prim (0 h2&gt;), und ist dieses 0 h (e moll) als Mollunterdominante von h moll (resp. H
+            dur) aufzufassen, welcher Unterdominante die Duroberdominante Fis dur von h moll (resp.
+            <!--  --> dur) folgt, was man gewöhnlich Kadenz zu nennen pflegt! Wo befindet sich hier
+            nun der Tritonusschritt? Der 2. Tritonusschritt nach Herrn A.s Ansicht (Fis dur- His
+            dur) ist bei <!--  --> Nachprüfung. ebenfalls kein solcher.</p><p>Durch Umdeutung der 1. Versetzung der 1. Versetzung des Fis dur-Dreiklangs des
+            Sextakkordes ais cis fis zum ais moll Dreiklang mit Vorhalt der kleinen Sexte vor der
+            Quinte (nach Riemann 0eis2&gt;) zur Mollunterdominante von eis moll, welcher Unterdominante
+            wieder um die Duroberdominante (His dur von eis moll) folgt (Kandenz!), wird auch der 2.
+            der von Herrn A. endeckten Tritonusschritte zur Fabel.</p><p>Selbst nach der alten, gewiss höchst einfachen Akkordbezeichnung lässt sich dieses
+            Beispiel sofort klar darstellen.</p><notatedMusic><mei xmlns="http://www.music-encoding.org/ns/mei"><meiHead><fileDesc><titleStmt><title/></titleStmt><pubStmt/></fileDesc></meiHead><music/></mei></notatedMusic><p>Herr A. verzeichnet sodann in seinem Referate noch ein heiteres Intermezzo: mein
+            Büchlein enthalte nicht 100 sondern nur 99 Beispiele. Ich beeile mich, zu erklären, dass
+            der Referent mit dieser Behauptung endlich im Bechte ist. Hätte er aber mein Büchlein
+            mit etwas mehr Gründlichkeit angesehen dann wäre ihm klar geworden, dass es sich in No.
+            33 lediglich um einen Druckfehler handelt, welcher inzwischen längst zur Verbesserung
+            für die 2. Auflage dem Herrn Verleger angegeben ist, und welche Verbesserung auch schon
+            erfolgt ist. Gegen den Druckfehlteufel hilft bekanntlich kein Gebet: auch Herrn A. hat
+            dieser Unhold nicht ungestraft unter den "Plamen der entdeckten Tritonusschritte"
+            wandeln lassen. Er schreibt einmal F dur statt E dur und bietet in seinem 2.
+            "Musterbeispiel" folgendes: </p><notatedMusic><mei xmlns="http://www.music-encoding.org/ns/mei"><meiHead><fileDesc><titleStmt><title/></titleStmt><pubStmt/></fileDesc></meiHead><music/></mei></notatedMusic><p>Ob Herr A. ausserdem meine Anschauung teilt, dass der verminderte Septimenakkord stets
+            die Bedeutung der Oberdominante hat, ist mir gleich, da er (wie immer) den Beweis für
+            seine gegenteilige Ansicht schulig bleibt; ebenso wenig rechtfertigt Herr M. Arend seine
+            Behauptung, dass die No. 27 und 41 meiner Modulationsbeispiele empfindliche Härten
+            enthielten. Es ist äusserst bequem, Behauptungen aufzustellen, aber den Beweis für diese
+            Behauptungen zu bleiben. Und dass Herr A. dieser Bequemlichkeit in seinem Referate über
+            mein Büchlein mehr gehuldigt hat, als ihm vielleicht lieb ist, wird jeder Leser dieser
+            Zeilen jetzt erkennen. </p><p>Obwohl in der Musik die von vielen Seiten protegierten rückblickenden Tendenzen und
+            Bestrebungen sich immer mehr breit machen, obwohl wir gerade in der Musik über eine
+            imposante, unübersehbare Reihe von "Denkmälern deutscher Kritik" zu verfügen haben,
+            geben wir, die wir uns mit Vertrauen in den deutschen Geist und offenem, vorwärts
+            sehendem Bilck der Weiterentwicklung unserer Kunst weihen, die Hoffnung doch nicht auf,
+            dass dereinst in Erfüllung gehe Goethes Wort "Mehr Licht!"</p></body></text></TEI>

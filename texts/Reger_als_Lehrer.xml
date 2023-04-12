@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Reger als Lehrer</title><author>Shino Funayama</author></titleStmt><publicationStmt><publisher><name/><address><street>Hornsche Str. 39</street><postCode>32756</postCode><placeName><country>D</country><settlement>Detmold</settlement></placeName></address></publisher></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc></teiHeader><text><body><head><hi rend="bold">Reger als Lehrer</hi></head>
+      <!--       <p>Was ist das Ziel einerModulationslehre? Die Kenntnis der Modulation gereicht uns zum
+                Vorteil, wenn man die Musik zuhört. Wenn es zum Spielen kommt, ist das noch
+                wichtiger, sogar unvermeidbar. Für den Vortragenden wird die Analyse der Modulation
+                eine wesentliche Voraussetzung sein. Ihre Vorteil ist, dass sie uns beim Verstehen
+                Struktur eines Werks hilft. Sie macht unsere Erkenntnis über das gesamte oder
+                partielle Musikstück klarer. Für den Komponist wird "Modulation" aber hauptsächlich
+                verwendet, um die musikalische Ausdrucks erweitern. In den Beiträgen der
+                Modulationslhere von Max Reger sind 100 Beispiele der Modulation mit dem Wort von
+                Autors „kurz“ „schlagfertig“ und „logisch“ dargestellt. Das sieht wirklich so aus,
+                dass man durch Beispiele von vierstimmigen Kadenzen über Umdeutungsakkord der
+                schnellstmögliche Weg von der Ausgangstonart zum Zieltonart lernen kann. Reger ist
+                heutzutage vor allem als Organist, Komponist und Dirigent bekannt. Bei dieser
+                Gelegenheit möchte ich ihn als Lehrer betrachten und versuchen, durch Erinnerungen
+                seiner Schüler die Bedeutung der Modulationslehre für Reger uns zu vorstellen.
+                „Hundert Fugen muss man schreiben, dann kann man erst etwas.“ Die Äußerung haben
+                einige Schüler Max Reger während des Unterrichts zu hören bekommen. Er hat sich
+                nicht auf einen Komponisten beschränkt, sondern er hat sich bemüht, seine
+                kompositorischen Kenntnisse als Lehrer zu verschaffen. Er war auch einmal selber ein
+                Schuler: Er wurde zwei Jahre von Adalbert Lindner unterrichtet. Daran anschließend
+                drei Jahre gründlich Theorie- und Klavierunterricht bei Hugo Riemann. Darüber hinaus
+                hat er Privatstudien angetrieben. Unter der dogmatischen Lehre Riemanns hat Reger
+                gelitten. Ferner erinnert er sich an ihm zurück, dass Riemann musikalisch engstirnig
+                war. Weil er versagt hat, dass er Reger die Musik z. B. von Richard Wagner, Franz
+                Liszt und Anton Bruckner zu mittteilen. Ob seine eigene Erfahrung als Schuler seine
+                spätere Tätigkeit als Lehrer beeinflusst hat, kann man schwer genau sagen. Aber er
+                war ein Lehre, der nicht nur Lust und Liebe zur Mitteilsamkeit hatte, sondern zeigte
+                dem Schüler gerne alle theoretischen Geheimnisse. Eine enge Beziehung der
+                theoretischen Einsicht hatte im seinen Unterricht eine wichtige Bedeutung. Fast 300
+                Schüler soll er in Einzelunterricht, Gruppensitzung und Vorlesungen unterrichtet
+                haben. Zu seinen Schüler rechnete er nicht nur Studenten aus dem Deutschland. Er hat
+                auch noch in etwa 80 Schüler aus dem Ausland, insgesamt unterrichtete er Schüler aus
+                etwa 25 unterschiedlichen Nationen. Zum Beispiel ein Schuler aus Norwegen, Sigurd
+                Islandsmoen, er berichtete, dass Reger seinen Tag mit wenigen Pause verbrach. Er
+                soll in Zimmer Nr. 1 des Leipziger Konservatoriums in der Zeit von zwei bis acht Uhr
+                unterrichtet haben. Hin und wieder ließ er sich von einem Studenten oder Kellner
+                eine Kanne heiße Schokolade aus dem Café Hannes bringen. Bei Reger lernten nicht nur
+                junge Schüler, die gerade mit dem Studium angefangen haben, sondern auch
+                ausgebildete Kirchenmusiker, Chorleiter und Komponisten. Die manche wechselte sogar
+                von einer anderen Universität zu ihm. Es scheint, dass es ein enger Kreis seiner
+                Studenten existierte. Viele seiner Schüler wurden später zu Komponist, die anderen
+                haben sich entschieden, dass sie in dem pädagogischen Bereich tätigen. Man kann
+                einige Namen nennen wie Hermann Grabner, Joseph Haas, Karl Hasse, Arno Landmann,
+                Otmar Schoeck, Hermann Unger, Hugo Daffner und Jaromir Weinberger. Hermann Grabner
+                war als Musikpädagoge berühmt und er hat sich mit Regers Harmonik beschäftigt. Die
+                wichtigsten Wirkungsorte Regers waren das Wiesbadener Konservatorium und die
+                Konservatorien in München sowie in Leipzig. Am Wiesbadener Konservatorium
+                unterrichtete er ab 1890 Klavier und Theorie. Er hatte vorwiegend Klavierschüler ,
+                die er aber ohne Ausnahme als untalentiert einstufte. Er mochte das Unterrichten
+                dort nicht. Nach zehn Jahren fing er an, privat Klavier und Theorie zu unterrichten.
+                Sein Unterricht war beliebter und die Zahl von Schüler wurde außerordentlich
+                gestiegen. Einige Schüler verfolgten ihm außerdem in seine Urlaubsorte. Den guter
+                Ruf Regers als Lehrer brachte ihm die Position an der Münchner Königlichen Akademie
+                der Tonkunst im Jahre 1905 und er unterrichtete dort Kontrapunkt, Komposition und
+                Orgel. Allerdings verlor er wegen des Konflikts mit konservativen Traditionen die
+                Position bereits das folgende Jahr. Da gab Reger aber seine Meinung klar: „Das wäre
+                mein Ideal, an der Akademie in meiner Klasse eine Anzahl von tüchtigen Kerlen zu
+                haben, so eine Art von Hochburg, gegenüber der Immer toller sich gebärdenden
+                Reaktion in Musik, wie es der preussische Staat liebt – u. gegenüber den blinden
+                Fortschrittsfanatikern, Leuten, die nichts können, nichts gelernt haben, sich aber
+                fortschrittswütig gebärden um Aufsehen zu erregen! Hilf der Himmel unserer Musik,
+                wenn diese grünen Jungens einmal die Herrschaft gewinnen sollten!“ 1907 bekam Reger
+                in Leipzig eine Stelle eines Professors am Königlichen Konservatorium und das Amt
+                des Universitätsmusikdirektors. Die Stelle als Professor hatte Reger bis zu seinem
+                Tod beibehalten. Die Schülerzahl dort war enorm. Wie war sein Unterricht? Wie war
+                sein Verhältnis zu seinen Schülern und wie hat er sich gegenüber „begabte“ und
+                „hoffnungslose“ Schüler benommen? Im Regers Unterricht machten die Schüler vor allem
+                zahlreiche Kompositionsübungen. Reger gab nur selten rein Harmonieunterricht. In
+                Erinnerungen von einer Schüler von ihm soll Reger einmal gesagt haben, „Theorie
+                allein, des is a nix, da geht’s Ihna so wie dem Schwimmer, der hunderttausend
+                Bücheln über’s Schwimmen g’lesen hat, und wenn er in’s Wasser fallt, ersauft er
+                doch. Praxis müßen’s haben, viel komponieren müssen’s. Von diesem Wort erkennt man,
+                wie wichtig Reger die fortgesetzte Praxis dachte. Dafür bemühte er seinen Unterricht
+                so auf zu bauen, damit der Unterricht möglichst wirksam sein zu können. Ein Beispiel
+                davon ist „Schreibetüden“. Über die Schreibetüden kann man mithilfe von Erinnerungen
+                seiner Schüler heute noch nachvolziehen. Die Schreibetüden wurden für
+                instrumentalen, vokalen, sowie weltlichen und geistlichen Bereich ausgedacht, um
+                Stilgefühl zu wecken. Außerdem müssten die Schüler achtstimmige Fuga oder ein
+                komplette Stück komponieren, das von Reger geprüft werden kann. Der Zweck der Übung
+                war, dass die Schüler nicht nur ihre Phantasie darstellen, sondern ihren Willen
+                natürlich bringen. Reger war dabei der Meinung, dass nur die Person, die den
+                strengen vierstimmigen Satz sicher beherrschen und sich ungezwungen frei im Gebiet
+                der harmonischer Logik bewegen können, die Schreibetüden in der Wirklichkeit
+                nutzbringend anwenden können. Dafür beanspruchte Reger seiner Schüler bis zu 1000
+                Harmonielehreaufgabe und 500 Kanons. Wie hat Reger seine Schüler bewertet? Reger hat
+                seine Schüler immer frei von Emotionen nach ihren Leistungen bewertet. Ein Beispiel
+                kann man im Zeugnis von Islandsmoen, der aus Norwegen, sehen. „Ist gut beanlagt, hat
+                fleißig gearbeitet u. dementsprechend schöne Resultate erzielt. Eine Ouvertüre von
+                ihm wurde in den öffentlichen Prüfungen zur Aufführung gebracht.“ Noch ein anderer
+                Beispiel von den anderen Schuler lautet, „[…] zeichnete sich durch musterhafte
+                Faulheit u. Interesselosigkeit aus. Er sei der staunenden Mit- und Nachwelt
+                empfolen“ Was man von diesen beiden Kommentar der Bescheinigungen wissen kann, dass
+                Reger seine Schüler, der für die Aufgabe fleißig war und seine Begabung und
+                Entwicklungsmöglichkeit seinem Lehrer gezeigt hat, zur Aufführung ihrer Komposition
+                unterstützt hat. Er dachte, dass er die Schülerbegabung unter seinem Schutz und
+                seiner Pflege wachsen lassen soll. Hier sieht man seine Verantwortungsfreudigkeit.
+                Reger hatte aber auch Duldsamkeit gegen den „Hoffnungslosen“, der zwar nicht
+                unbedingt begabt ist, aber mindestens ihre Entschlossenheit zur Arbeit gezeigt hat.
+                Seiner Meinung nach, ist der kompositorische Einfall nicht zu lernen. Wer das nicht
+                hat, kann man das nicht entwickeln. Aber wer fleißig ist, kann man lernen, diesen
+                Einfall nützlich zu verwenden. Es ist möglich, bei der Person das zu entwickeln. Von
+                daher ist die Person Verbesserungsfähig. Wenn Reger jemand als „nicht gekonnt“
+                bewertet hat, heißt, diese Person war „ nicht fleißig gewesen“. Die Aufgaben waren
+                nicht wenig. Wenn man von Reger für fleißig gehalten werden wollen, musste man schon
+                sehr viele Menge schaffen. Er musste der große Wille zur Arbeit zeigen. Wollen und
+                Können zeigen, indem man unaufhörliche Übung mit dem Wunsch größtmöglicher
+                Fertigkeit durchzieht, war für Reger die Voraussetzung. Reger hat mit Eifer ihre
+                fehlerhaften Quinten- und Oktavenparallelen aufmerksam gemacht. Das kam von seiner
+                festen Überzeugung, dass das alle Klangfolgen so logisch sein, dass man von jeder
+                Richtung aufweisen kann. Bei dem für jede Schüler individuell orientierten
+                Unterricht können sie je nach dem Stande der kompositorischen Fertigkeit spezielle
+                Aufgabe für ihre Wissens und Könnens. Wie ein Instrumentalist, obwohl seine Schüler
+                nicht Instrumentalist waren, durch seine Schreibetüden strebten sie nach Virtuosität
+                von der technischen Fertigkeit im Komponieren. Erst nach solchen Übungen bekamen die
+                Schüler Erlaubnis von Reger, ein größeres Werk zu komponieren. Allerdings gab es
+                normalerweise davor noch eine Prüfung, dass die Schüler ein kleines Klavierstück
+                schreiben. Ein kleines Klavierstück hat ihren Umfang sehr begrenzt. Dort wurden
+                Schüler also präzise und knappe Ausdrucksweise verlangt. Die übersichtliche
+                Gliederung, trotz des sehr begrenzten Raumverhältnissen gut verteilte Kontrast waren
+                wichtig und dafür Klarheit und Logik sind zwei Unentbehrliches, die die Schüler sich
+                aneignet sein mussten. Nach Regers Ansicht waren drei Dinge bei Komposition wichtig,
+                nämlich Erfindung, formale Gestaltung und Stilgebung.</p> --></body></text></TEI>

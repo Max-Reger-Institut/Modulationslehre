@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="../sources/sounds/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><hi rend="bold">Analyse der Modulationsbeispiele.</hi></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>Erstausgabe</p></sourceDesc></fileDesc></teiHeader><facsimile><surface xml:id="edirom_surface_46ec0e45-016a-44b1-b4b7-0a525a645a3b" n="1"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_01r.jpg" xml:id="edirom_graphic_8fed18a9-9e33-4c29-8abe-1b26af570714" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_d13aade9-7a92-4bed-9476-bbf846476c75" n="2"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_01v.jpg" xml:id="edirom_graphic_a88e1f1d-8689-427e-9298-6e50b7bc4a2b" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_13993490-10ea-43c3-996f-1a203b6ead99" n="3"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_02r.jpg" xml:id="edirom_graphic_56287db9-a775-4150-a135-08af9bec3d3b" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_79880ece-cd1d-4df5-8c25-d531a2381b47" n="4"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_02v.jpg" xml:id="edirom_graphic_54c142ec-2bee-4ed3-9f00-25b4d92b7f77" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_2d32788a-b243-45df-a228-36e6ff9c999c" n="5"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_03r_s03.jpg" xml:id="edirom_graphic_06f4f75c-a0c9-497f-80c9-89d83eadd44e" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_62cd0072-48a7-4193-9350-1ed8d3e3da76" n="6"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_03v_s04.jpg" xml:id="edirom_graphic_9ff65ba5-a92f-4645-8911-f3611873a6db" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_5385b9b1-9bf2-4a74-835f-d0bf2f972328" n="7"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_04r_s05.jpg" xml:id="edirom_graphic_bcc3d8d3-6477-4d5d-bebf-a623e2e5a6a5" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_d9c9812d-072d-437b-9dbc-51e6be4400fe" n="8"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_04v_s06.jpg" xml:id="edirom_graphic_97cbdd9a-a843-4dd0-8c45-7b989417678d" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_63a90ace-d699-4c3f-9230-f8a005399d4b" n="9"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_05r_s07.jpg" xml:id="edirom_graphic_1f9606e3-fece-43ba-acb9-2dcc26b21e18" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_4c8fbe1e-b04f-41db-a7b8-ffa1c81234f4" n="10"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_05v_s08.jpg" xml:id="edirom_graphic_abcf24fe-a519-4be9-a621-5ad248605698" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_bd502a66-3b45-49c2-98c2-1a1186a000aa" n="11"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_06r_s09.jpg" xml:id="edirom_graphic_e5f1715f-3cf6-4cbf-b6ac-aa163ccf6d5a" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_12ea9d22-155f-4acc-b605-6e88af74e7e8" n="12"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_06v_s10.jpg" xml:id="edirom_graphic_82d2f2a8-6a95-4439-8ce0-b03166477e81" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_95aa5841-4c6d-4ed4-958a-699d1b941247" n="13"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_07r_s11.jpg" xml:id="edirom_graphic_2e850ef7-5267-4cf2-a726-e0860904e2a0" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_d2288549-7141-43e2-818e-3b49d8de00e4" n="14"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_07v_s12.jpg" xml:id="edirom_graphic_2930f679-97c1-418e-b37d-e893ff2db20e" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_0a2aaee9-d2c0-4dc9-b936-b9594e4d56b6" n="15"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_08r_s13.jpg" xml:id="edirom_graphic_71d70d64-a494-438c-9c69-e50aff0f313c" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_9f80b7d6-c36c-47fe-9f0c-9eab35e09599" n="16"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_08v_s14.jpg" xml:id="edirom_graphic_f2d41a1f-b378-4607-9b7e-e020283792b9" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_9cbd0698-83de-4fa9-b2bf-faeee135cbbb" n="17"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_09r_s15.jpg" xml:id="edirom_graphic_8dd1ecda-4f3f-4dc4-9d4f-8b2418248443" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_40cc92c2-1877-479d-bf8a-7ad390fe022c" n="18"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_09v_s16.jpg" xml:id="edirom_graphic_a4220356-acda-484e-bdf6-947069c39120" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_d82474c8-4cd0-49eb-a433-27061de85c18" n="19"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_10r_s17.jpg" xml:id="edirom_graphic_5db9b414-4946-48ad-a3d5-b9e859aa4600" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_d7710457-570a-4b0d-a85c-999e02e015bd" n="20"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_10v_s18.jpg" xml:id="edirom_graphic_248b7bf9-36a7-484f-ad2b-c32aadbf567a" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_5d9d4906-09ab-408e-975a-4b3655b08edc" n="21"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_11r_s19.jpg" xml:id="edirom_graphic_ec9cb835-ad6e-4399-9a5a-505a76bedd70" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_c482a409-92da-4b71-81c8-586e5bd8cd79" n="22"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_11v_s20.jpg" xml:id="edirom_graphic_01f2dbd3-890c-44fd-82cd-13ef03998882" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_ba23eff0-b908-425e-8be3-3a196279645d" n="23"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_12r_s21.jpg" xml:id="edirom_graphic_71b79d36-a1cc-4567-a885-a3673b3d08d0" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_823b7899-fc11-4f22-a3f5-3be763b9adb0" n="24"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_12v_s22.jpg" xml:id="edirom_graphic_8fbfcb8b-6acf-489e-8082-ff204b5343b0" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_d335ee1b-da40-45f3-80c1-0ee83f9ae8e8" n="25"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_13r_s23.jpg" xml:id="edirom_graphic_cfc23780-2388-4c30-97bc-a45bb7bf7531" width="667px" height="1044px"/><zone xml:id="edirom_zone_c136a78f-6a75-49ea-bab7-994117e98607" type="measure" ulx="94" uly="294" lrx="577" lry="406"/><zone xml:id="edirom_zone_b9c6b50c-b5bf-465f-a184-d7cd0a39e8d9" type="measure" ulx="90" uly="404" lrx="585" lry="564"/><zone xml:id="edirom_zone_96517829-0e32-4993-bdb4-e2ce675c61d1" type="measure" ulx="94" uly="564" lrx="568" lry="724"/><zone xml:id="edirom_zone_4ef33faa-e1ea-48d0-8a05-930e4356ef71" type="measure" ulx="95" uly="719" lrx="563" lry="854"/></surface><surface xml:id="edirom_surface_5e717fc6-b379-4469-8d5d-ba78a1a4120c" n="26"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_13v_s24.jpg" xml:id="edirom_graphic_fec09b7f-ec6e-44c2-9783-38af5245e947" width="667px" height="1044px"/><zone xml:id="edirom_zone_78672df3-80ed-40b3-a47d-2b2fec8cdea8" type="measure" ulx="125" uly="90" lrx="607" lry="251"/><zone xml:id="edirom_zone_b14deb7e-1f8a-4fb8-96af-7ef42826522e" type="measure" ulx="121" uly="248" lrx="609" lry="445"/><zone xml:id="edirom_zone_577e0838-155d-4425-895a-1ef7a855505b" type="measure" ulx="118" uly="436" lrx="597" lry="503"/></surface><surface xml:id="edirom_surface_e6f55f28-2d29-49a9-8524-8b6a1e63a04d" n="27"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_14r_s25.jpg" xml:id="edirom_graphic_a34de012-912e-4911-a927-e12f0fabfef6" width="667px" height="1044px"/><zone xml:id="edirom_zone_84fa3fca-27b6-412d-a3d9-7f7262d1bc47" type="measure" ulx="114" uly="91" lrx="559" lry="261"/><zone xml:id="edirom_zone_365aa43e-b725-4be8-bd4f-451e9efd6202" type="measure" ulx="86" uly="258" lrx="556" lry="479"/><zone xml:id="edirom_zone_ca9a275a-bb19-4e81-a071-b4a025935cad" type="measure" ulx="83" uly="479" lrx="562" lry="746"/><zone xml:id="edirom_zone_43d19b44-1eb9-4687-815a-65f4913b371c" type="measure" ulx="82" uly="744" lrx="555" lry="861"/></surface><surface xml:id="edirom_surface_7043b8c3-01be-49f0-b791-a09b15b02871" n="28"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_14v_s26.jpg" xml:id="edirom_graphic_492ace90-3dcb-4d61-b68c-0251e9ee8cab" width="667px" height="1044px"/><zone xml:id="edirom_zone_820fcce1-b521-49c8-9ee3-44850ddcacd2" type="measure" ulx="149" uly="79" lrx="599" lry="266"/><zone xml:id="edirom_zone_c8ee56f0-462e-4d9f-a07c-6214b9ae0f22" type="measure" ulx="121" uly="266" lrx="605" lry="545"/><zone xml:id="edirom_zone_a0244730-77f3-4a4c-bb2b-67c7933a30af" type="measure" ulx="130" uly="539" lrx="609" lry="872"/><zone xml:id="edirom_zone_93f111af-9563-45c3-9cc1-b2b1c199ffb3" type="measure" ulx="131" uly="871" lrx="604" lry="959"/></surface><surface xml:id="edirom_surface_c4069517-8142-4549-8ccb-5db1325ca7cf" n="29"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_15r_s27.jpg" xml:id="edirom_graphic_26201e2a-af23-4110-980d-dcc5850eb5ea" width="667px" height="1044px"/><zone xml:id="edirom_zone_7545aecf-5b53-446c-90fa-2e5b1d240109" type="measure" ulx="97" uly="90" lrx="547" lry="184"/><zone xml:id="edirom_zone_404d07d7-941b-491b-b1a1-170d8e0f2efe" type="measure" ulx="75" uly="181" lrx="566" lry="315"/><zone xml:id="edirom_zone_55c49031-ea92-4038-be85-0f661700d206" type="measure" ulx="75" uly="311" lrx="559" lry="472"/><zone xml:id="edirom_zone_d3e29704-1bc6-4130-a10d-9468dad35099" type="measure" ulx="78" uly="469" lrx="560" lry="665"/><zone xml:id="edirom_zone_8dfe4333-943d-4ff9-8eb8-a215f4e9b0f0" type="measure" ulx="78" uly="659" lrx="554" lry="834"/></surface><surface xml:id="edirom_surface_36459939-f04d-4f44-bf8b-1b9a3d54dcfe" n="30"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_15v_s28.jpg" xml:id="edirom_graphic_7a0b0017-92ca-4d27-9480-9a73c10b1146" width="667px" height="1044px"/><zone xml:id="edirom_zone_36107a65-b0a5-4970-8345-11899f492cdf" type="measure" ulx="121" uly="87" lrx="614" lry="299"/><zone xml:id="edirom_zone_56d51a1a-6d2b-452f-95b6-f36b3eb6f9ca" type="measure" ulx="119" uly="290" lrx="609" lry="513"/><zone xml:id="edirom_zone_d844e359-aa9a-4977-8786-aa5a496456ea" type="measure" ulx="121" uly="508" lrx="603" lry="781"/><zone xml:id="edirom_zone_9616d914-765d-4af4-9d57-3391d7e1734d" type="measure" ulx="115" uly="784" lrx="599" lry="956"/></surface><surface xml:id="edirom_surface_cbfe939e-5721-421d-8280-8d976071990c" n="31"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_16r_s29.jpg" xml:id="edirom_graphic_c244bb01-3b70-4dec-b2fe-3ef83db6eab7" width="667px" height="1044px"/><zone xml:id="edirom_zone_7496fca3-57ca-4b9f-9d66-630f623d6fbe" type="measure" ulx="97" uly="100" lrx="554" lry="275"/><zone xml:id="edirom_zone_280b8644-ed7d-41ea-b534-cc5027de67a7" type="measure" ulx="72" uly="266" lrx="554" lry="441"/><zone xml:id="edirom_zone_40226be2-2b26-4dcf-aa4b-90693d739761" type="measure" ulx="73" uly="430" lrx="554" lry="576"/><zone xml:id="edirom_zone_e690d359-c2c3-4d18-9f7e-8f10261a27ff" type="measure" ulx="67" uly="572" lrx="555" lry="736"/><zone xml:id="edirom_zone_2dab4fc3-c6f7-4fe4-93b8-35bb49b012b5" type="measure" ulx="66" uly="732" lrx="550" lry="905"/><zone xml:id="edirom_zone_6d0acc14-3e5f-4602-9696-1239a64cc632" type="measure" ulx="73" uly="887" lrx="552" lry="974"/></surface><surface xml:id="edirom_surface_3c7aa016-afb2-4f27-a680-38a3f98bbda8" n="32"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_16v_s30.jpg" xml:id="edirom_graphic_defd0955-0a53-4dbd-8691-f4166f721d7a" width="667px" height="1044px"/><zone xml:id="edirom_zone_97d4248b-16a1-4084-abec-f813a4c8f382" type="measure" ulx="163" uly="100" lrx="613" lry="281"/><zone xml:id="edirom_zone_94a9d849-5094-4eec-b7d3-51438691f083" type="measure" ulx="119" uly="273" lrx="613" lry="545"/><zone xml:id="edirom_zone_fe0e9964-ea91-46a4-a741-b4fd88852ffd" type="measure" ulx="131" uly="547" lrx="616" lry="798"/><zone xml:id="edirom_zone_0c594849-dc7b-42bd-b9bf-14e04f0f6913" type="measure" ulx="131" uly="792" lrx="618" lry="964"/></surface><surface xml:id="edirom_surface_ed19966e-2982-4046-aeee-95686266d03e" n="33"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_17r_s31.jpg" xml:id="edirom_graphic_0e3dd534-e163-48c3-b10a-795ed2535c6a" width="667px" height="1044px"/><zone xml:id="edirom_zone_5a38703d-cac9-48c1-9048-27ee7047979e" type="measure" ulx="102" uly="91" lrx="558" lry="215"/><zone xml:id="edirom_zone_9843aaa2-1778-4bcd-a7e0-2bc682d9d141" type="measure" ulx="67" uly="208" lrx="566" lry="517"/><zone xml:id="edirom_zone_bb68c135-a5b4-47d8-8baa-0fdd60a19d12" type="measure" ulx="76" uly="511" lrx="558" lry="877"/><zone xml:id="edirom_zone_f4dbec98-2bd1-4bd6-a71e-0673ac6117af" type="measure" ulx="72" uly="877" lrx="557" lry="976"/></surface><surface xml:id="edirom_surface_87baa01c-5ad9-43ea-8325-49200c5d2f85" n="34"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_17v_s32.jpg" xml:id="edirom_graphic_d750cdff-5b96-41df-ae0e-76d4213e0083" width="667px" height="1044px"/><zone xml:id="edirom_zone_532faa9f-181c-4864-9ec5-dd72473e9306" type="measure" ulx="151" uly="91" lrx="613" lry="190"/><zone xml:id="edirom_zone_5bc2d40d-5799-477f-b149-29200e91e103" type="measure" ulx="118" uly="251" lrx="606" lry="430"/><zone xml:id="edirom_zone_e798534b-5205-41d5-9879-536d3cda5140" type="measure" ulx="114" uly="420" lrx="613" lry="559"/><zone xml:id="edirom_zone_3c5f3183-9997-405b-afce-2e1e05ebb743" type="measure" ulx="121" uly="553" lrx="608" lry="667"/><zone xml:id="edirom_zone_e1954ce7-2d6f-4bf1-be74-9414c60fcd89" type="measure" ulx="127" uly="657" lrx="612" lry="793"/><zone xml:id="edirom_zone_3c3c7be7-b135-4958-9046-e005af5d1829" type="measure" ulx="121" uly="787" lrx="599" lry="826"/></surface><surface xml:id="edirom_surface_eea4ff0b-91ff-4ffd-8c80-83855885709f" n="35"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_18r_s33.jpg" xml:id="edirom_graphic_9be2500d-2c62-4aa5-963f-ecfddffb3722" width="667px" height="1044px"/><zone xml:id="edirom_zone_39c32f4e-4964-44dc-af5f-774fc92d9649" type="measure" ulx="103" uly="84" lrx="553" lry="263"/><zone xml:id="edirom_zone_e930d733-c64c-464a-b212-79023ac73df1" type="measure" ulx="69" uly="255" lrx="551" lry="475"/><zone xml:id="edirom_zone_a6b713db-dcea-4d54-a6f0-de34f3d4183d" type="measure" ulx="75" uly="467" lrx="551" lry="746"/><zone xml:id="edirom_zone_e8ca44cc-70d7-437f-9869-a714f2597f08" type="measure" ulx="70" uly="738" lrx="552" lry="949"/></surface><surface xml:id="edirom_surface_fb61a253-30e5-4104-8f04-220392eacf74" n="36"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_18v_s34.jpg" xml:id="edirom_graphic_465e0ddb-039c-43da-943e-e53ce628f72a" width="667px" height="1044px"/><zone xml:id="edirom_zone_a87a1fde-83a1-459c-9442-f7732607121d" type="measure" ulx="121" uly="84" lrx="597" lry="335"/><zone xml:id="edirom_zone_50cc44d5-03be-4f1e-8839-f348cd1205f5" type="measure" ulx="119" uly="355" lrx="603" lry="814"/><zone xml:id="edirom_zone_ebbfad82-c874-43a9-84f5-ed115d5d5a18" type="measure" ulx="119" uly="809" lrx="601" lry="963"/></surface><surface xml:id="edirom_surface_294be549-5f05-478e-a495-92dc4a6b61ef" n="37"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_19r_s35.jpg" xml:id="edirom_graphic_c57c6070-f3c9-41c9-81b7-daefdba67d81" width="667px" height="1044px"/><zone xml:id="edirom_zone_1d92bc2c-a72a-45db-8d32-eb0213b855ad" type="measure" ulx="121" uly="85" lrx="578" lry="318"/><zone xml:id="edirom_zone_925bf70b-fb36-4753-a4cb-8eafcdfcba30" type="measure" ulx="75" uly="314" lrx="575" lry="737"/><zone xml:id="edirom_zone_f635263e-8f28-491b-b3af-e66cdc02d911" type="measure" ulx="71" uly="728" lrx="565" lry="957"/></surface><surface xml:id="edirom_surface_57c70590-9cba-456d-8cd6-ff913dff5f9c" n="38"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_19v_s36.jpg" xml:id="edirom_graphic_5dfb7c6f-5a05-4f05-ab99-8afa9d305fbc" width="667px" height="1044px"/><zone xml:id="edirom_zone_24a3b0b9-9c31-4359-9a6c-14de205b5e64" type="measure" ulx="138" uly="95" lrx="589" lry="293"/><zone xml:id="edirom_zone_662fd4ac-1491-4b17-8a33-076272cdc0e8" type="measure" ulx="105" uly="291" lrx="593" lry="647"/><zone xml:id="edirom_zone_1146085b-bf64-44c4-8e82-77db882ee1d6" type="measure" ulx="113" uly="896" lrx="599" lry="957"/></surface><surface xml:id="edirom_surface_e2dea9da-16a6-437f-b8e9-91858ee55647" n="39"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_20r_s37.jpg" xml:id="edirom_graphic_366c539f-24a9-4d79-a843-5ea423937b6c" width="667px" height="1044px"/><zone xml:id="edirom_zone_cbc964f5-5143-47fb-b37f-88f769967fbf" type="measure" ulx="121" uly="101" lrx="570" lry="196"/><zone xml:id="edirom_zone_dfc135b1-cd02-48fb-8fe3-998dae37b2ab" type="measure" ulx="83" uly="188" lrx="565" lry="328"/><zone xml:id="edirom_zone_58809eed-311e-44fb-a9da-99058b7eb120" type="measure" ulx="87" uly="322" lrx="565" lry="547"/><zone xml:id="edirom_zone_e032c731-6317-4d67-9aad-2136a1407ff1" type="measure" ulx="89" uly="534" lrx="567" lry="773"/><zone xml:id="edirom_zone_6b6dea8e-d270-47b4-966b-1f5731fe8cc7" type="measure" ulx="87" uly="769" lrx="571" lry="961"/></surface><surface xml:id="edirom_surface_63e13600-3351-4c8d-9bc0-59b974a29119" n="40"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_20v_s38.jpg" xml:id="edirom_graphic_9f867b01-6c74-4cf3-b783-09f1668abb50" width="667px" height="1044px"/><zone xml:id="edirom_zone_2c77e511-131e-489e-a7df-25203655191b" type="measure" ulx="127" uly="109" lrx="582" lry="226"/><zone xml:id="edirom_zone_dabe7d3a-d88e-47ac-a9c8-8e23f99f0cfb" type="measure" ulx="101" uly="221" lrx="589" lry="395"/><zone xml:id="edirom_zone_a1bb2dcb-2209-4188-a9ef-3e39a8f5f25c" type="measure" ulx="103" uly="395" lrx="587" lry="597"/><zone xml:id="edirom_zone_432bb96a-cdc9-4712-92bc-42d60d65cec1" type="measure" ulx="103" uly="589" lrx="597" lry="961"/></surface><surface xml:id="edirom_surface_3c191e37-2670-4af4-ba68-ced9b570177d" n="41"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_21r_s39.jpg" xml:id="edirom_graphic_51d430a8-1f49-431d-a757-5e38a83f304a" width="667px" height="1044px"/><zone xml:id="edirom_zone_6029e406-e3ab-4af3-aadd-3ce7e02cdb3b" type="measure" ulx="117" uly="101" lrx="566" lry="164"/><zone xml:id="edirom_zone_6b9a6cab-18e5-4293-8209-b011465ba8d4" type="measure" ulx="81" uly="158" lrx="567" lry="300"/><zone xml:id="edirom_zone_3ee0d386-8d8b-4da4-9fac-6e1554fffebe" type="measure" ulx="79" uly="289" lrx="575" lry="512"/><zone xml:id="edirom_zone_9339ccdf-0707-4f06-85eb-8ef0cecb057a" type="measure" ulx="77" uly="502" lrx="563" lry="678"/><zone xml:id="edirom_zone_54c3acc7-e6b7-463a-b225-608901c896b7" type="measure" ulx="83" uly="664" lrx="565" lry="907"/><zone xml:id="edirom_zone_23a7a3ad-b8ce-4f2e-b565-73066d153108" type="measure" ulx="81" uly="898" lrx="563" lry="977"/></surface><surface xml:id="edirom_surface_1f768d98-ce82-401a-bf20-533e5c58b519" n="42"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_21v_s40.jpg" xml:id="edirom_graphic_f5d55f1d-6763-4336-ac3b-f7924ee8dba8" width="667px" height="1044px"/><zone xml:id="edirom_zone_11159081-f9aa-4821-a340-ab21b824a19d" type="measure" ulx="150" uly="101" lrx="591" lry="245"/><zone xml:id="edirom_zone_0c82a9cf-be4e-4460-9687-1c86e968c475" type="measure" ulx="110" uly="239" lrx="594" lry="433"/><zone xml:id="edirom_zone_9044a84e-371a-43ac-8473-a025bcea5859" type="measure" ulx="107" uly="433" lrx="602" lry="632"/><zone xml:id="edirom_zone_a41c0fbc-3b8c-4dc2-a3f9-ffd5a0fb0cfb" type="measure" ulx="118" uly="616" lrx="603" lry="885"/><zone xml:id="edirom_zone_03238101-041a-4539-8597-ce3201781846" type="measure" ulx="113" uly="876" lrx="602" lry="980"/></surface><surface xml:id="edirom_surface_7dd1e273-4a0f-4bb1-a8bc-76bfba8c2a04" n="43"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_22r_s41.jpg" xml:id="edirom_graphic_f5717846-6543-4c7a-9096-919ef73fc1af" width="667px" height="1044px"/><zone xml:id="edirom_zone_f6aa0c49-ca88-42a0-93fd-fb2c2b126c10" type="measure" ulx="115" uly="93" lrx="561" lry="229"/><zone xml:id="edirom_zone_1efdf2d5-b272-4c8c-8ab8-b3aebf3edced" type="measure" ulx="78" uly="222" lrx="560" lry="491"/><zone xml:id="edirom_zone_de8c4614-4a5b-44f7-89be-b7faa180fa5c" type="measure" ulx="82" uly="486" lrx="564" lry="827"/><zone xml:id="edirom_zone_bcc2485b-dc5d-4d15-9fc7-b740dfc30c22" type="measure" ulx="86" uly="820" lrx="562" lry="962"/></surface><surface xml:id="edirom_surface_a2e6973e-913c-48da-a15a-ad8cedc3fe62" n="44"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_22v_s42.jpg" xml:id="edirom_graphic_2fd2f2a0-1efa-4024-a7cb-dcbb3e64903b" width="667px" height="1044px"/><zone xml:id="edirom_zone_a0732ff4-b85e-44e3-8ecd-07176678a8af" type="measure" ulx="119" uly="94" lrx="599" lry="242"/><zone xml:id="edirom_zone_1528b5fc-3c20-479b-8682-a671615e474e" type="measure" ulx="116" uly="236" lrx="597" lry="405"/><zone xml:id="edirom_zone_6d1e6f1b-b553-4846-878f-6573c3219138" type="measure" ulx="120" uly="399" lrx="598" lry="550"/><zone xml:id="edirom_zone_e3ea630f-c18a-4f10-b26e-867e69c0a69b" type="measure" ulx="116" uly="532" lrx="593" lry="664"/><zone xml:id="edirom_zone_3774fd5a-7a4a-42b6-bf34-dc1e7434d2c8" type="measure" ulx="111" uly="636" lrx="599" lry="786"/><zone xml:id="edirom_zone_c3a48147-2db7-49a1-8510-41126ac3bcf9" type="measure" ulx="112" uly="773" lrx="586" lry="899"/></surface><surface xml:id="edirom_surface_e9ad2a7d-f208-43fe-b2d4-a35c01a35770" n="45"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_23r_s43.jpg" xml:id="edirom_graphic_5335f38b-c7a1-4d1f-a4e6-e08049541c72" width="667px" height="1044px"/><zone xml:id="edirom_zone_99d535a5-d02a-47d5-8953-73257b38f8c0" type="measure" ulx="95" uly="103" lrx="544" lry="192"/><zone xml:id="edirom_zone_6e041be0-8feb-47b1-a778-0c5dde39f9c4" type="measure" ulx="68" uly="192" lrx="549" lry="439"/><zone xml:id="edirom_zone_d12f07ec-37fd-4fba-8bfc-0a7d39c0d648" type="measure" ulx="68" uly="437" lrx="549" lry="686"/><zone xml:id="edirom_zone_a829796f-22f9-4ddc-80c6-36d9a7791076" type="measure" ulx="69" uly="686" lrx="557" lry="905"/><zone xml:id="edirom_zone_e0c90c44-e7b5-4487-a923-bba429e946ed" type="measure" ulx="71" uly="904" lrx="552" lry="968"/></surface><surface xml:id="edirom_surface_90f02125-62bc-4e27-b62b-72fb984eface" n="46"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_23v_s44.jpg" xml:id="edirom_graphic_99ef453b-9da0-471a-a7e7-e40a306ffc3c" width="667px" height="1044px"/><zone xml:id="edirom_zone_e6dafb7d-6b9c-42d0-b14c-5f654db07e3f" type="measure" ulx="147" uly="103" lrx="605" lry="323"/><zone xml:id="edirom_zone_21cb46df-03cc-4632-a437-7524db570f8e" type="measure" ulx="119" uly="322" lrx="599" lry="656"/><zone xml:id="edirom_zone_ffb964c5-6d8c-47fb-8d3d-b5dac2721ed9" type="measure" ulx="115" uly="650" lrx="600" lry="792"/><zone xml:id="edirom_zone_7fe7b39e-30e1-455a-bf6e-0f12074340c1" type="measure" ulx="116" uly="788" lrx="594" lry="956"/></surface><surface xml:id="edirom_surface_ea2d9536-eadc-4ff8-90c7-5d931434bfad" n="47"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_24r_s45.jpg" xml:id="edirom_graphic_b589615c-ac62-4226-b833-291499af0daf" width="667px" height="1044px"/><zone xml:id="edirom_zone_eb84cee6-2c8f-4243-88ae-8688a3319059" type="measure" ulx="74" uly="92" lrx="550" lry="262"/><zone xml:id="edirom_zone_bdc63ecb-8c67-41d3-967c-a8eef09be6da" type="measure" ulx="66" uly="262" lrx="554" lry="485"/><zone xml:id="edirom_zone_d70b9391-e472-4ab6-aeab-eea159192e8c" type="measure" ulx="74" uly="481" lrx="555" lry="728"/><zone xml:id="edirom_zone_af5070e6-2a99-452d-b752-f56234c0b129" type="measure" ulx="78" uly="724" lrx="556" lry="952"/></surface><surface xml:id="edirom_surface_8b20974a-985e-4ee2-8af5-1078a077ab28" n="48"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_24v_s46.jpg" xml:id="edirom_graphic_d25c2fb0-b24e-4ad0-b991-df8f14ffeec2" width="667px" height="1044px"/><zone xml:id="edirom_zone_4c047279-9825-44e5-ae29-bd15c79159ef" type="measure" ulx="127" uly="81" lrx="605" lry="344"/><zone xml:id="edirom_zone_f7befcb8-639c-46ce-baa7-56df134a3e11" type="measure" ulx="110" uly="331" lrx="606" lry="643"/><zone xml:id="edirom_zone_15161e58-d6f7-4336-b65f-d4ff67e1e7b8" type="measure" ulx="120" uly="667" lrx="601" lry="948"/></surface><surface xml:id="edirom_surface_222a4c45-68ae-46a5-b0f3-dc67ee875ae0" n="49"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_25r_s47.jpg" xml:id="edirom_graphic_f32ceb13-777d-4c6e-92b6-2fb31f506e97" width="667px" height="1044px"/><zone xml:id="edirom_zone_e096db83-e2d0-4f4c-a592-ed6bfffbad93" type="measure" ulx="99" uly="83" lrx="553" lry="291"/><zone xml:id="edirom_zone_9a7aa530-81f7-41c6-b152-befc27562ed0" type="measure" ulx="70" uly="287" lrx="552" lry="728"/><zone xml:id="edirom_zone_86623fe9-0608-4db1-b832-49aa603f8e1a" type="measure" ulx="68" uly="722" lrx="551" lry="943"/></surface><surface xml:id="edirom_surface_b68c7350-7468-48ad-bbbf-65c0096d782a" n="50"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_25v_s48.jpg" xml:id="edirom_graphic_66ecaf0d-ccde-4a75-ab67-c080fe781803" width="667px" height="1044px"/><zone xml:id="edirom_zone_a659ef89-4f19-42d3-8c3d-84702e0c4d67" type="measure" ulx="160" uly="90" lrx="601" lry="305"/><zone xml:id="edirom_zone_70432360-1467-415a-9395-b162df8a82e8" type="measure" ulx="121" uly="331" lrx="599" lry="697"/><zone xml:id="edirom_zone_d5ee6c48-2068-46da-b761-c9b6a0b76152" type="measure" ulx="119" uly="695" lrx="599" lry="949"/></surface><surface xml:id="edirom_surface_bd806afb-f1e0-4b4f-bb75-2f6c6f8ba4b7" n="51"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_26r_s49.jpg" xml:id="edirom_graphic_2dc5bfb4-32c5-4ae5-b722-4d602bf4d50b" width="667px" height="1044px"/><zone xml:id="edirom_zone_e5f70bff-dcf6-4372-a526-ab6864758aa2" type="measure" ulx="124" uly="84" lrx="573" lry="211"/><zone xml:id="edirom_zone_abd7e2d1-51db-4c18-9ffc-97438c99a297" type="measure" ulx="96" uly="207" lrx="576" lry="599"/><zone xml:id="edirom_zone_9b67fb6f-6aad-4271-a5cf-1a067334ba2d" type="measure" ulx="91" uly="595" lrx="572" lry="957"/></surface><surface xml:id="edirom_surface_9b863b80-b275-48fe-b85e-b31925dc6b4d" n="52"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_26v_s50.jpg" xml:id="edirom_graphic_d12cf340-b9b4-4320-923b-23c3a1b04ffb" width="667px" height="1044px"/><zone xml:id="edirom_zone_b7299f26-5b15-46bc-99d2-1e5ad59eec51" type="measure" ulx="114" uly="99" lrx="598" lry="494"/><zone xml:id="edirom_zone_12140dd0-6a63-4872-a7b8-1676d9f40d82" type="measure" ulx="113" uly="488" lrx="596" lry="906"/><zone xml:id="edirom_zone_ca5de811-53bf-47f7-ba00-6661596769b3" type="measure" ulx="117" uly="925" lrx="603" lry="961"/></surface><surface xml:id="edirom_surface_88ddb93b-f9e8-4d09-8938-6a83a2b7ed00" n="53"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_27r_s51.jpg" xml:id="edirom_graphic_76e4f69f-5d2b-4473-b82d-beaa24a475f9" width="667px" height="1044px"/><zone xml:id="edirom_zone_ff65ba20-beaf-4715-b3de-1719c6bb268a" type="measure" ulx="117" uly="95" lrx="565" lry="426"/><zone xml:id="edirom_zone_622412ed-43e0-4d11-bf84-0579574d2a6a" type="measure" ulx="86" uly="422" lrx="559" lry="820"/><zone xml:id="edirom_zone_12f583a4-090f-4595-9474-2704c947d682" type="measure" ulx="83" uly="817" lrx="563" lry="953"/></surface><surface xml:id="edirom_surface_0d5a7895-c3ed-46c9-ab98-21c0318bff60" n="54"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_27v_s52.jpg" xml:id="edirom_graphic_0b0f1b96-f98c-4ac6-a716-38afbd1edae6" width="667px" height="1044px"/><zone xml:id="edirom_zone_27b97f28-19c6-4c84-a1af-68041d995236" type="measure" ulx="150" uly="101" lrx="595" lry="401"/><zone xml:id="edirom_zone_9c3cd1c0-0542-4a61-8a3a-34ef1581ef00" type="measure" ulx="112" uly="393" lrx="593" lry="911"/><zone xml:id="edirom_zone_c1a40170-2281-424c-a591-a3cd91cf6d22" type="measure" ulx="120" uly="899" lrx="592" lry="957"/></surface><surface xml:id="edirom_surface_88516b22-4e98-4425-933d-d99239f64c51" n="55"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_28r_s53.jpg" xml:id="edirom_graphic_4aba7eb9-1291-471a-a377-b8400f17010e" width="667px" height="1044px"/><zone xml:id="edirom_zone_68d09448-e4d2-44d8-9e83-e2e538fa8d40" type="measure" ulx="116" uly="97" lrx="564" lry="579"/><zone xml:id="edirom_zone_60546c3a-fee5-44e1-997a-23f0e7a82cf4" type="measure" ulx="77" uly="579" lrx="562" lry="959"/></surface><surface xml:id="edirom_surface_05e667be-1239-437e-a73b-55005add8920" n="56"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_28v_s54.jpg" xml:id="edirom_graphic_993e8f7b-113b-484b-ab99-b61487a99284" width="667px" height="1044px"/><zone xml:id="edirom_zone_d10fad8f-8050-4a7d-a264-c6610a98f8d8" type="measure" ulx="147" uly="92" lrx="592" lry="298"/></surface><surface xml:id="edirom_surface_a3516787-aec9-4a88-8780-f19fefe3a9e2" n="57"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_29r.jpg" xml:id="edirom_graphic_607d78be-cde5-4715-9f2e-967bea667094" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_7fcdc662-27f7-4234-a82b-6d7fe1c2d9bd" n="58"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_29v.jpg" xml:id="edirom_graphic_59f4f168-8177-4054-b9cf-873de3257d14" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_963e94cf-1418-4d3a-8819-41b4f0061547" n="59"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_30r.jpg" xml:id="edirom_graphic_e51c393f-00ca-4e5c-8683-5da63f124196" width="667px" height="1044px"/></surface><surface xml:id="edirom_surface_49edbec6-5841-43ed-8277-54268588a34d" n="60"><graphic url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_30v.jpg" xml:id="edirom_graphic_ae48e88f-6af8-45a8-8d19-65b6fc7b4545" width="667px" height="1044px"/></surface></facsimile>
+   <!--<facsimile>
+      <surface xml:id="edirom_surface_46ec0e45-016a-44b1-b4b7-0a525a645a3b" n="1" ulx="1044"
+         uly="667">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_01r.jpg"
+            xml:id="edirom_graphic_8fed18a9-9e33-4c29-8abe-1b26af570714"/>
+      </surface>
+      <surface xml:id="edirom_surface_d13aade9-7a92-4bed-9476-bbf846476c75" n="2">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_01v.jpg"
+            xml:id="edirom_graphic_a88e1f1d-8689-427e-9298-6e50b7bc4a2b"/>
+      </surface>
+      <surface xml:id="edirom_surface_13993490-10ea-43c3-996f-1a203b6ead99" n="3">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_02r.jpg"
+            xml:id="edirom_graphic_56287db9-a775-4150-a135-08af9bec3d3b" />
+      </surface>
+      <surface xml:id="edirom_surface_79880ece-cd1d-4df5-8c25-d531a2381b47" n="4">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_02v.jpg"
+            xml:id="edirom_graphic_54c142ec-2bee-4ed3-9f00-25b4d92b7f77"/>
+      </surface>
+      <surface xml:id="edirom_surface_2d32788a-b243-45df-a228-36e6ff9c999c" n="5">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_03r_s03.jpg"
+            xml:id="edirom_graphic_06f4f75c-a0c9-497f-80c9-89d83eadd44e"/>
+      </surface>
+      <surface xml:id="edirom_surface_62cd0072-48a7-4193-9350-1ed8d3e3da76" n="6">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_03v_s04.jpg"
+            xml:id="edirom_graphic_9ff65ba5-a92f-4645-8911-f3611873a6db"/>
+      </surface>
+      <surface xml:id="edirom_surface_5385b9b1-9bf2-4a74-835f-d0bf2f972328" n="7">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_04r_s05.jpg"
+            xml:id="edirom_graphic_bcc3d8d3-6477-4d5d-bebf-a623e2e5a6a5"/>
+      </surface>
+      <surface xml:id="edirom_surface_d9c9812d-072d-437b-9dbc-51e6be4400fe" n="8">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_04v_s06.jpg"
+            xml:id="edirom_graphic_97cbdd9a-a843-4dd0-8c45-7b989417678d"/>
+      </surface>
+      <surface xml:id="edirom_surface_63a90ace-d699-4c3f-9230-f8a005399d4b" n="9">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_05r_s07.jpg"
+            xml:id="edirom_graphic_1f9606e3-fece-43ba-acb9-2dcc26b21e18"/>
+      </surface>
+      <surface xml:id="edirom_surface_4c8fbe1e-b04f-41db-a7b8-ffa1c81234f4" n="10">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_05v_s08.jpg"
+            xml:id="edirom_graphic_abcf24fe-a519-4be9-a621-5ad248605698"/>
+      </surface>
+      <surface xml:id="edirom_surface_bd502a66-3b45-49c2-98c2-1a1186a000aa" n="11">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_06r_s09.jpg"
+            xml:id="edirom_graphic_e5f1715f-3cf6-4cbf-b6ac-aa163ccf6d5a"/>
+      </surface>
+      <surface xml:id="edirom_surface_12ea9d22-155f-4acc-b605-6e88af74e7e8" n="12">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_06v_s10.jpg"
+            xml:id="edirom_graphic_82d2f2a8-6a95-4439-8ce0-b03166477e81" />
+      </surface>
+      <surface xml:id="edirom_surface_95aa5841-4c6d-4ed4-958a-699d1b941247" n="13">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_07r_s11.jpg"
+            xml:id="edirom_graphic_2e850ef7-5267-4cf2-a726-e0860904e2a0"/>
+      </surface>
+      <surface xml:id="edirom_surface_d2288549-7141-43e2-818e-3b49d8de00e4" n="14">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_07v_s12.jpg"
+            xml:id="edirom_graphic_2930f679-97c1-418e-b37d-e893ff2db20e" />
+      </surface>
+      <surface xml:id="edirom_surface_0a2aaee9-d2c0-4dc9-b936-b9594e4d56b6" n="15">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_08r_s13.jpg"
+            xml:id="edirom_graphic_71d70d64-a494-438c-9c69-e50aff0f313c" />
+      </surface>
+      <surface xml:id="edirom_surface_9f80b7d6-c36c-47fe-9f0c-9eab35e09599" n="16">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_08v_s14.jpg"
+            xml:id="edirom_graphic_f2d41a1f-b378-4607-9b7e-e020283792b9" />
+      </surface>
+      <surface xml:id="edirom_surface_9cbd0698-83de-4fa9-b2bf-faeee135cbbb" n="17">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_09r_s15.jpg"
+            xml:id="edirom_graphic_8dd1ecda-4f3f-4dc4-9d4f-8b2418248443" 
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_40cc92c2-1877-479d-bf8a-7ad390fe022c" n="18">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_09v_s16.jpg"
+            xml:id="edirom_graphic_a4220356-acda-484e-bdf6-947069c39120" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_d82474c8-4cd0-49eb-a433-27061de85c18" n="19">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_10r_s17.jpg"
+            xml:id="edirom_graphic_5db9b414-4946-48ad-a3d5-b9e859aa4600" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_d7710457-570a-4b0d-a85c-999e02e015bd" n="20">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_10v_s18.jpg"
+            xml:id="edirom_graphic_248b7bf9-36a7-484f-ad2b-c32aadbf567a" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_5d9d4906-09ab-408e-975a-4b3655b08edc" n="21">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_11r_s19.jpg"
+            xml:id="edirom_graphic_ec9cb835-ad6e-4399-9a5a-505a76bedd70" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_c482a409-92da-4b71-81c8-586e5bd8cd79" n="22">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_11v_s20.jpg"
+            xml:id="edirom_graphic_01f2dbd3-890c-44fd-82cd-13ef03998882" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_ba23eff0-b908-425e-8be3-3a196279645d" n="23">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_12r_s21.jpg"
+            xml:id="edirom_graphic_71b79d36-a1cc-4567-a885-a3673b3d08d0" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_823b7899-fc11-4f22-a3f5-3be763b9adb0" n="24">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_12v_s22.jpg"
+            xml:id="edirom_graphic_8fbfcb8b-6acf-489e-8082-ff204b5343b0" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_d335ee1b-da40-45f3-80c1-0ee83f9ae8e8" n="25">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_13r_s23.jpg"
+            xml:id="edirom_graphic_cfc23780-2388-4c30-97bc-a45bb7bf7531" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_c136a78f-6a75-49ea-bab7-994117e98607" type="measure" ulx="94"
+            uly="294" lrx="577" lry="406"> </zone>
+         <zone xml:id="edirom_zone_b9c6b50c-b5bf-465f-a184-d7cd0a39e8d9" type="measure" ulx="90"
+            uly="404" lrx="585" lry="564"/>
+         <zone xml:id="edirom_zone_96517829-0e32-4993-bdb4-e2ce675c61d1" type="measure" ulx="94"
+            uly="564" lrx="568" lry="724"/>
+         <zone xml:id="edirom_zone_4ef33faa-e1ea-48d0-8a05-930e4356ef71" type="measure" ulx="95"
+            uly="719" lrx="563" lry="854"/>
+      </surface>
+      <surface xml:id="edirom_surface_5e717fc6-b379-4469-8d5d-ba78a1a4120c" n="26">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_13v_s24.jpg"
+            xml:id="edirom_graphic_fec09b7f-ec6e-44c2-9783-38af5245e947" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_78672df3-80ed-40b3-a47d-2b2fec8cdea8" type="measure" ulx="125"
+            uly="90" lrx="607" lry="251"/>
+         <zone xml:id="edirom_zone_b14deb7e-1f8a-4fb8-96af-7ef42826522e" type="measure" ulx="121"
+            uly="248" lrx="609" lry="445"/>
+         <zone xml:id="edirom_zone_577e0838-155d-4425-895a-1ef7a855505b" type="measure" ulx="118"
+            uly="436" lrx="597" lry="503"/>
+      </surface>
+      <surface xml:id="edirom_surface_e6f55f28-2d29-49a9-8524-8b6a1e63a04d" n="27">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_14r_s25.jpg"
+            xml:id="edirom_graphic_a34de012-912e-4911-a927-e12f0fabfef6" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_84fa3fca-27b6-412d-a3d9-7f7262d1bc47" type="measure" ulx="114"
+            uly="91" lrx="559" lry="261"/>
+         <zone xml:id="edirom_zone_365aa43e-b725-4be8-bd4f-451e9efd6202" type="measure" ulx="86"
+            uly="258" lrx="556" lry="479"/>
+         <zone xml:id="edirom_zone_ca9a275a-bb19-4e81-a071-b4a025935cad" type="measure" ulx="83"
+            uly="479" lrx="562" lry="746"/>
+         <zone xml:id="edirom_zone_43d19b44-1eb9-4687-815a-65f4913b371c" type="measure" ulx="82"
+            uly="744" lrx="555" lry="861"/>
+      </surface>
+      <surface xml:id="edirom_surface_7043b8c3-01be-49f0-b791-a09b15b02871" n="28">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_14v_s26.jpg"
+            xml:id="edirom_graphic_492ace90-3dcb-4d61-b68c-0251e9ee8cab" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_820fcce1-b521-49c8-9ee3-44850ddcacd2" type="measure" ulx="149"
+            uly="79" lrx="599" lry="266"/>
+         <zone xml:id="edirom_zone_c8ee56f0-462e-4d9f-a07c-6214b9ae0f22" type="measure" ulx="121"
+            uly="266" lrx="605" lry="545"/>
+         <zone xml:id="edirom_zone_a0244730-77f3-4a4c-bb2b-67c7933a30af" type="measure" ulx="130"
+            uly="539" lrx="609" lry="872"/>
+         <zone xml:id="edirom_zone_93f111af-9563-45c3-9cc1-b2b1c199ffb3" type="measure" ulx="131"
+            uly="871" lrx="604" lry="959"/>
+      </surface>
+      <surface xml:id="edirom_surface_c4069517-8142-4549-8ccb-5db1325ca7cf" n="29">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_15r_s27.jpg"
+            xml:id="edirom_graphic_26201e2a-af23-4110-980d-dcc5850eb5ea" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_7545aecf-5b53-446c-90fa-2e5b1d240109" type="measure" ulx="97"
+            uly="90" lrx="547" lry="184"/>
+         <zone xml:id="edirom_zone_404d07d7-941b-491b-b1a1-170d8e0f2efe" type="measure" ulx="75"
+            uly="181" lrx="566" lry="315"/>
+         <zone xml:id="edirom_zone_55c49031-ea92-4038-be85-0f661700d206" type="measure" ulx="75"
+            uly="311" lrx="559" lry="472"/>
+         <zone xml:id="edirom_zone_d3e29704-1bc6-4130-a10d-9468dad35099" type="measure" ulx="78"
+            uly="469" lrx="560" lry="665"/>
+         <zone xml:id="edirom_zone_8dfe4333-943d-4ff9-8eb8-a215f4e9b0f0" type="measure" ulx="78"
+            uly="659" lrx="554" lry="834"/>
+      </surface>
+      <surface xml:id="edirom_surface_36459939-f04d-4f44-bf8b-1b9a3d54dcfe" n="30">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_15v_s28.jpg"
+            xml:id="edirom_graphic_7a0b0017-92ca-4d27-9480-9a73c10b1146" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_36107a65-b0a5-4970-8345-11899f492cdf" type="measure" ulx="121"
+            uly="87" lrx="614" lry="299"/>
+         <zone xml:id="edirom_zone_56d51a1a-6d2b-452f-95b6-f36b3eb6f9ca" type="measure" ulx="119"
+            uly="290" lrx="609" lry="513"/>
+         <zone xml:id="edirom_zone_d844e359-aa9a-4977-8786-aa5a496456ea" type="measure" ulx="121"
+            uly="508" lrx="603" lry="781"/>
+         <zone xml:id="edirom_zone_9616d914-765d-4af4-9d57-3391d7e1734d" type="measure" ulx="115"
+            uly="784" lrx="599" lry="956"/>
+      </surface>
+      <surface xml:id="edirom_surface_cbfe939e-5721-421d-8280-8d976071990c" n="31">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_16r_s29.jpg"
+            xml:id="edirom_graphic_c244bb01-3b70-4dec-b2fe-3ef83db6eab7" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_7496fca3-57ca-4b9f-9d66-630f623d6fbe" type="measure" ulx="97"
+            uly="100" lrx="554" lry="275"/>
+         <zone xml:id="edirom_zone_280b8644-ed7d-41ea-b534-cc5027de67a7" type="measure" ulx="72"
+            uly="266" lrx="554" lry="441"/>
+         <zone xml:id="edirom_zone_40226be2-2b26-4dcf-aa4b-90693d739761" type="measure" ulx="73"
+            uly="430" lrx="554" lry="576"/>
+         <zone xml:id="edirom_zone_e690d359-c2c3-4d18-9f7e-8f10261a27ff" type="measure" ulx="67"
+            uly="572" lrx="555" lry="736"/>
+         <zone xml:id="edirom_zone_2dab4fc3-c6f7-4fe4-93b8-35bb49b012b5" type="measure" ulx="66"
+            uly="732" lrx="550" lry="905"/>
+         <zone xml:id="edirom_zone_6d0acc14-3e5f-4602-9696-1239a64cc632" type="measure" ulx="73"
+            uly="887" lrx="552" lry="974"/>
+      </surface>
+      <surface xml:id="edirom_surface_3c7aa016-afb2-4f27-a680-38a3f98bbda8" n="32">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_16v_s30.jpg"
+            xml:id="edirom_graphic_defd0955-0a53-4dbd-8691-f4166f721d7a" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_97d4248b-16a1-4084-abec-f813a4c8f382" type="measure" ulx="163"
+            uly="100" lrx="613" lry="281"/>
+         <zone xml:id="edirom_zone_94a9d849-5094-4eec-b7d3-51438691f083" type="measure" ulx="119"
+            uly="273" lrx="613" lry="545"/>
+         <zone xml:id="edirom_zone_fe0e9964-ea91-46a4-a741-b4fd88852ffd" type="measure" ulx="131"
+            uly="547" lrx="616" lry="798"/>
+         <zone xml:id="edirom_zone_0c594849-dc7b-42bd-b9bf-14e04f0f6913" type="measure" ulx="131"
+            uly="792" lrx="618" lry="964"/>
+      </surface>
+      <surface xml:id="edirom_surface_ed19966e-2982-4046-aeee-95686266d03e" n="33">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_17r_s31.jpg"
+            xml:id="edirom_graphic_0e3dd534-e163-48c3-b10a-795ed2535c6a" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_5a38703d-cac9-48c1-9048-27ee7047979e" type="measure" ulx="102"
+            uly="91" lrx="558" lry="215"/>
+         <zone xml:id="edirom_zone_9843aaa2-1778-4bcd-a7e0-2bc682d9d141" type="measure" ulx="67"
+            uly="208" lrx="566" lry="517"/>
+         <zone xml:id="edirom_zone_bb68c135-a5b4-47d8-8baa-0fdd60a19d12" type="measure" ulx="76"
+            uly="511" lrx="558" lry="877"/>
+         <zone xml:id="edirom_zone_f4dbec98-2bd1-4bd6-a71e-0673ac6117af" type="measure" ulx="72"
+            uly="877" lrx="557" lry="976"/>
+      </surface>
+      <surface xml:id="edirom_surface_87baa01c-5ad9-43ea-8325-49200c5d2f85" n="34">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_17v_s32.jpg"
+            xml:id="edirom_graphic_d750cdff-5b96-41df-ae0e-76d4213e0083" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_532faa9f-181c-4864-9ec5-dd72473e9306" type="measure" ulx="151"
+            uly="91" lrx="613" lry="190"/>
+         <zone xml:id="edirom_zone_5bc2d40d-5799-477f-b149-29200e91e103" type="measure" ulx="118"
+            uly="251" lrx="606" lry="430"/>
+         <zone xml:id="edirom_zone_e798534b-5205-41d5-9879-536d3cda5140" type="measure" ulx="114"
+            uly="420" lrx="613" lry="559"/>
+         <zone xml:id="edirom_zone_3c5f3183-9997-405b-afce-2e1e05ebb743" type="measure" ulx="121"
+            uly="553" lrx="608" lry="667"/>
+         <zone xml:id="edirom_zone_e1954ce7-2d6f-4bf1-be74-9414c60fcd89" type="measure" ulx="127"
+            uly="657" lrx="612" lry="793"/>
+         <zone xml:id="edirom_zone_3c3c7be7-b135-4958-9046-e005af5d1829" type="measure" ulx="121"
+            uly="787" lrx="599" lry="826"/>
+      </surface>
+      <surface xml:id="edirom_surface_eea4ff0b-91ff-4ffd-8c80-83855885709f" n="35">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_18r_s33.jpg"
+            xml:id="edirom_graphic_9be2500d-2c62-4aa5-963f-ecfddffb3722" width="667" height="1044"/>
+         <zone xml:id="edirom_zone_39c32f4e-4964-44dc-af5f-774fc92d9649" type="measure" ulx="103"
+            uly="84" lrx="553" lry="263"/>
+         <zone xml:id="edirom_zone_e930d733-c64c-464a-b212-79023ac73df1" type="measure" ulx="69"
+            uly="255" lrx="551" lry="475"/>
+         <zone xml:id="edirom_zone_a6b713db-dcea-4d54-a6f0-de34f3d4183d" type="measure" ulx="75"
+            uly="467" lrx="551" lry="746"/>
+         <zone xml:id="edirom_zone_e8ca44cc-70d7-437f-9869-a714f2597f08" type="measure" ulx="70"
+            uly="738" lrx="552" lry="949"/>
+      </surface>
+      <surface xml:id="edirom_surface_fb61a253-30e5-4104-8f04-220392eacf74" n="36">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_18v_s34.jpg"
+            xml:id="edirom_graphic_465e0ddb-039c-43da-943e-e53ce628f72a" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_a87a1fde-83a1-459c-9442-f7732607121d" type="measure" ulx="121"
+            uly="84" lrx="597" lry="335"/>
+         <zone xml:id="edirom_zone_50cc44d5-03be-4f1e-8839-f348cd1205f5" type="measure" ulx="119"
+            uly="355" lrx="603" lry="814"/>
+         <zone xml:id="edirom_zone_ebbfad82-c874-43a9-84f5-ed115d5d5a18" type="measure" ulx="119"
+            uly="809" lrx="601" lry="963"/>
+      </surface>
+      <surface xml:id="edirom_surface_294be549-5f05-478e-a495-92dc4a6b61ef" n="37">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_19r_s35.jpg"
+            xml:id="edirom_graphic_c57c6070-f3c9-41c9-81b7-daefdba67d81" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_1d92bc2c-a72a-45db-8d32-eb0213b855ad" type="measure" ulx="121"
+            uly="85" lrx="578" lry="318"/>
+         <zone xml:id="edirom_zone_925bf70b-fb36-4753-a4cb-8eafcdfcba30" type="measure" ulx="75"
+            uly="314" lrx="575" lry="737"/>
+         <zone xml:id="edirom_zone_f635263e-8f28-491b-b3af-e66cdc02d911" type="measure" ulx="71"
+            uly="728" lrx="565" lry="957"/>
+      </surface>
+      <surface xml:id="edirom_surface_57c70590-9cba-456d-8cd6-ff913dff5f9c" n="38">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_19v_s36.jpg"
+            xml:id="edirom_graphic_5dfb7c6f-5a05-4f05-ab99-8afa9d305fbc" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_24a3b0b9-9c31-4359-9a6c-14de205b5e64" type="measure" ulx="138"
+            uly="95" lrx="589" lry="293"/>
+         <zone xml:id="edirom_zone_662fd4ac-1491-4b17-8a33-076272cdc0e8" type="measure" ulx="105"
+            uly="291" lrx="593" lry="647"/>
+         <zone xml:id="edirom_zone_1146085b-bf64-44c4-8e82-77db882ee1d6" type="measure" ulx="113"
+            uly="896" lrx="599" lry="957"/>
+      </surface>
+      <surface xml:id="edirom_surface_e2dea9da-16a6-437f-b8e9-91858ee55647" n="39">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_20r_s37.jpg"
+            xml:id="edirom_graphic_366c539f-24a9-4d79-a843-5ea423937b6c" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_cbc964f5-5143-47fb-b37f-88f769967fbf" type="measure" ulx="121"
+            uly="101" lrx="570" lry="196"/>
+         <zone xml:id="edirom_zone_dfc135b1-cd02-48fb-8fe3-998dae37b2ab" type="measure" ulx="83"
+            uly="188" lrx="565" lry="328"/>
+         <zone xml:id="edirom_zone_58809eed-311e-44fb-a9da-99058b7eb120" type="measure" ulx="87"
+            uly="322" lrx="565" lry="547"/>
+         <zone xml:id="edirom_zone_e032c731-6317-4d67-9aad-2136a1407ff1" type="measure" ulx="89"
+            uly="534" lrx="567" lry="773"/>
+         <zone xml:id="edirom_zone_6b6dea8e-d270-47b4-966b-1f5731fe8cc7" type="measure" ulx="87"
+            uly="769" lrx="571" lry="961"/>
+      </surface>
+      <surface xml:id="edirom_surface_63e13600-3351-4c8d-9bc0-59b974a29119" n="40">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_20v_s38.jpg"
+            xml:id="edirom_graphic_9f867b01-6c74-4cf3-b783-09f1668abb50" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_2c77e511-131e-489e-a7df-25203655191b" type="measure" ulx="127"
+            uly="109" lrx="582" lry="226"/>
+         <zone xml:id="edirom_zone_dabe7d3a-d88e-47ac-a9c8-8e23f99f0cfb" type="measure" ulx="101"
+            uly="221" lrx="589" lry="395"/>
+         <zone xml:id="edirom_zone_a1bb2dcb-2209-4188-a9ef-3e39a8f5f25c" type="measure" ulx="103"
+            uly="395" lrx="587" lry="597"/>
+         <zone xml:id="edirom_zone_432bb96a-cdc9-4712-92bc-42d60d65cec1" type="measure" ulx="103"
+            uly="589" lrx="597" lry="961"/>
+      </surface>
+      <surface xml:id="edirom_surface_3c191e37-2670-4af4-ba68-ced9b570177d" n="41">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_21r_s39.jpg"
+            xml:id="edirom_graphic_51d430a8-1f49-431d-a757-5e38a83f304a" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_6029e406-e3ab-4af3-aadd-3ce7e02cdb3b" type="measure" ulx="117"
+            uly="101" lrx="566" lry="164"/>
+         <zone xml:id="edirom_zone_6b9a6cab-18e5-4293-8209-b011465ba8d4" type="measure" ulx="81"
+            uly="158" lrx="567" lry="300"/>
+         <zone xml:id="edirom_zone_3ee0d386-8d8b-4da4-9fac-6e1554fffebe" type="measure" ulx="79"
+            uly="289" lrx="575" lry="512"/>
+         <zone xml:id="edirom_zone_9339ccdf-0707-4f06-85eb-8ef0cecb057a" type="measure" ulx="77"
+            uly="502" lrx="563" lry="678"/>
+         <zone xml:id="edirom_zone_54c3acc7-e6b7-463a-b225-608901c896b7" type="measure" ulx="83"
+            uly="664" lrx="565" lry="907"/>
+         <zone xml:id="edirom_zone_23a7a3ad-b8ce-4f2e-b565-73066d153108" type="measure" ulx="81"
+            uly="898" lrx="563" lry="977"/>
+      </surface>
+      <surface xml:id="edirom_surface_1f768d98-ce82-401a-bf20-533e5c58b519" n="42">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_21v_s40.jpg"
+            xml:id="edirom_graphic_f5d55f1d-6763-4336-ac3b-f7924ee8dba8" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_11159081-f9aa-4821-a340-ab21b824a19d" type="measure" ulx="150"
+            uly="101" lrx="591" lry="245"/>
+         <zone xml:id="edirom_zone_0c82a9cf-be4e-4460-9687-1c86e968c475" type="measure" ulx="110"
+            uly="239" lrx="594" lry="433"/>
+         <zone xml:id="edirom_zone_9044a84e-371a-43ac-8473-a025bcea5859" type="measure" ulx="107"
+            uly="433" lrx="602" lry="632"/>
+         <zone xml:id="edirom_zone_a41c0fbc-3b8c-4dc2-a3f9-ffd5a0fb0cfb" type="measure" ulx="118"
+            uly="616" lrx="603" lry="885"/>
+         <zone xml:id="edirom_zone_03238101-041a-4539-8597-ce3201781846" type="measure" ulx="113"
+            uly="876" lrx="602" lry="980"/>
+      </surface>
+      <surface xml:id="edirom_surface_7dd1e273-4a0f-4bb1-a8bc-76bfba8c2a04" n="43">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_22r_s41.jpg"
+            xml:id="edirom_graphic_f5717846-6543-4c7a-9096-919ef73fc1af" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_f6aa0c49-ca88-42a0-93fd-fb2c2b126c10" type="measure" ulx="115"
+            uly="93" lrx="561" lry="229"/>
+         <zone xml:id="edirom_zone_1efdf2d5-b272-4c8c-8ab8-b3aebf3edced" type="measure" ulx="78"
+            uly="222" lrx="560" lry="491"/>
+         <zone xml:id="edirom_zone_de8c4614-4a5b-44f7-89be-b7faa180fa5c" type="measure" ulx="82"
+            uly="486" lrx="564" lry="827"/>
+         <zone xml:id="edirom_zone_bcc2485b-dc5d-4d15-9fc7-b740dfc30c22" type="measure" ulx="86"
+            uly="820" lrx="562" lry="962"/>
+      </surface>
+      <surface xml:id="edirom_surface_a2e6973e-913c-48da-a15a-ad8cedc3fe62" n="44">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_22v_s42.jpg"
+            xml:id="edirom_graphic_2fd2f2a0-1efa-4024-a7cb-dcbb3e64903b" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_a0732ff4-b85e-44e3-8ecd-07176678a8af" type="measure" ulx="119"
+            uly="94" lrx="599" lry="242"/>
+         <zone xml:id="edirom_zone_1528b5fc-3c20-479b-8682-a671615e474e" type="measure" ulx="116"
+            uly="236" lrx="597" lry="405"/>
+         <zone xml:id="edirom_zone_6d1e6f1b-b553-4846-878f-6573c3219138" type="measure" ulx="120"
+            uly="399" lrx="598" lry="550"/>
+         <zone xml:id="edirom_zone_e3ea630f-c18a-4f10-b26e-867e69c0a69b" type="measure" ulx="116"
+            uly="532" lrx="593" lry="664"/>
+         <zone xml:id="edirom_zone_3774fd5a-7a4a-42b6-bf34-dc1e7434d2c8" type="measure" ulx="111"
+            uly="636" lrx="599" lry="786"/>
+         <zone xml:id="edirom_zone_c3a48147-2db7-49a1-8510-41126ac3bcf9" type="measure" ulx="112"
+            uly="773" lrx="586" lry="899"/>
+      </surface>
+      <surface xml:id="edirom_surface_e9ad2a7d-f208-43fe-b2d4-a35c01a35770" n="45">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_23r_s43.jpg"
+            xml:id="edirom_graphic_5335f38b-c7a1-4d1f-a4e6-e08049541c72" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_99d535a5-d02a-47d5-8953-73257b38f8c0" type="measure" ulx="95"
+            uly="103" lrx="544" lry="192"/>
+         <zone xml:id="edirom_zone_6e041be0-8feb-47b1-a778-0c5dde39f9c4" type="measure" ulx="68"
+            uly="192" lrx="549" lry="439"/>
+         <zone xml:id="edirom_zone_d12f07ec-37fd-4fba-8bfc-0a7d39c0d648" type="measure" ulx="68"
+            uly="437" lrx="549" lry="686"/>
+         <zone xml:id="edirom_zone_a829796f-22f9-4ddc-80c6-36d9a7791076" type="measure" ulx="69"
+            uly="686" lrx="557" lry="905"/>
+         <zone xml:id="edirom_zone_e0c90c44-e7b5-4487-a923-bba429e946ed" type="measure" ulx="71"
+            uly="904" lrx="552" lry="968"/>
+      </surface>
+      <surface xml:id="edirom_surface_90f02125-62bc-4e27-b62b-72fb984eface" n="46">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_23v_s44.jpg"
+            xml:id="edirom_graphic_99ef453b-9da0-471a-a7e7-e40a306ffc3c" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_e6dafb7d-6b9c-42d0-b14c-5f654db07e3f" type="measure" ulx="147"
+            uly="103" lrx="605" lry="323"/>
+         <zone xml:id="edirom_zone_21cb46df-03cc-4632-a437-7524db570f8e" type="measure" ulx="119"
+            uly="322" lrx="599" lry="656"/>
+         <zone xml:id="edirom_zone_ffb964c5-6d8c-47fb-8d3d-b5dac2721ed9" type="measure" ulx="115"
+            uly="650" lrx="600" lry="792"/>
+         <zone xml:id="edirom_zone_7fe7b39e-30e1-455a-bf6e-0f12074340c1" type="measure" ulx="116"
+            uly="788" lrx="594" lry="956"/>
+      </surface>
+      <surface xml:id="edirom_surface_ea2d9536-eadc-4ff8-90c7-5d931434bfad" n="47">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_24r_s45.jpg"
+            xml:id="edirom_graphic_b589615c-ac62-4226-b833-291499af0daf" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_eb84cee6-2c8f-4243-88ae-8688a3319059" type="measure" ulx="74"
+            uly="92" lrx="550" lry="262"/>
+         <zone xml:id="edirom_zone_bdc63ecb-8c67-41d3-967c-a8eef09be6da" type="measure" ulx="66"
+            uly="262" lrx="554" lry="485"/>
+         <zone xml:id="edirom_zone_d70b9391-e472-4ab6-aeab-eea159192e8c" type="measure" ulx="74"
+            uly="481" lrx="555" lry="728"/>
+         <zone xml:id="edirom_zone_af5070e6-2a99-452d-b752-f56234c0b129" type="measure" ulx="78"
+            uly="724" lrx="556" lry="952"/>
+      </surface>
+      <surface xml:id="edirom_surface_8b20974a-985e-4ee2-8af5-1078a077ab28" n="48">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_24v_s46.jpg"
+            xml:id="edirom_graphic_d25c2fb0-b24e-4ad0-b991-df8f14ffeec2" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_4c047279-9825-44e5-ae29-bd15c79159ef" type="measure" ulx="127"
+            uly="81" lrx="605" lry="344"/>
+         <zone xml:id="edirom_zone_f7befcb8-639c-46ce-baa7-56df134a3e11" type="measure" ulx="110"
+            uly="331" lrx="606" lry="643"/>
+         <zone xml:id="edirom_zone_15161e58-d6f7-4336-b65f-d4ff67e1e7b8" type="measure" ulx="120"
+            uly="667" lrx="601" lry="948"/>
+      </surface>
+      <surface xml:id="edirom_surface_222a4c45-68ae-46a5-b0f3-dc67ee875ae0" n="49">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_25r_s47.jpg"
+            xml:id="edirom_graphic_f32ceb13-777d-4c6e-92b6-2fb31f506e97" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_e096db83-e2d0-4f4c-a592-ed6bfffbad93" type="measure" ulx="99"
+            uly="83" lrx="553" lry="291"/>
+         <zone xml:id="edirom_zone_9a7aa530-81f7-41c6-b152-befc27562ed0" type="measure" ulx="70"
+            uly="287" lrx="552" lry="728"/>
+         <zone xml:id="edirom_zone_86623fe9-0608-4db1-b832-49aa603f8e1a" type="measure" ulx="68"
+            uly="722" lrx="551" lry="943"/>
+      </surface>
+      <surface xml:id="edirom_surface_b68c7350-7468-48ad-bbbf-65c0096d782a" n="50">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_25v_s48.jpg"
+            xml:id="edirom_graphic_66ecaf0d-ccde-4a75-ab67-c080fe781803" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_a659ef89-4f19-42d3-8c3d-84702e0c4d67" type="measure" ulx="160"
+            uly="90" lrx="601" lry="305"/>
+         <zone xml:id="edirom_zone_70432360-1467-415a-9395-b162df8a82e8" type="measure" ulx="121"
+            uly="331" lrx="599" lry="697"/>
+         <zone xml:id="edirom_zone_d5ee6c48-2068-46da-b761-c9b6a0b76152" type="measure" ulx="119"
+            uly="695" lrx="599" lry="949"/>
+      </surface>
+      <surface xml:id="edirom_surface_bd806afb-f1e0-4b4f-bb75-2f6c6f8ba4b7" n="51">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_26r_s49.jpg"
+            xml:id="edirom_graphic_2dc5bfb4-32c5-4ae5-b722-4d602bf4d50b" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_e5f70bff-dcf6-4372-a526-ab6864758aa2" type="measure" ulx="124"
+            uly="84" lrx="573" lry="211"/>
+         <zone xml:id="edirom_zone_abd7e2d1-51db-4c18-9ffc-97438c99a297" type="measure" ulx="96"
+            uly="207" lrx="576" lry="599"/>
+         <zone xml:id="edirom_zone_9b67fb6f-6aad-4271-a5cf-1a067334ba2d" type="measure" ulx="91"
+            uly="595" lrx="572" lry="957"/>
+      </surface>
+      <surface xml:id="edirom_surface_9b863b80-b275-48fe-b85e-b31925dc6b4d" n="52">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_26v_s50.jpg"
+            xml:id="edirom_graphic_d12cf340-b9b4-4320-923b-23c3a1b04ffb" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_b7299f26-5b15-46bc-99d2-1e5ad59eec51" type="measure" ulx="114"
+            uly="99" lrx="598" lry="494"/>
+         <zone xml:id="edirom_zone_12140dd0-6a63-4872-a7b8-1676d9f40d82" type="measure" ulx="113"
+            uly="488" lrx="596" lry="906"/>
+         <zone xml:id="edirom_zone_ca5de811-53bf-47f7-ba00-6661596769b3" type="measure" ulx="117"
+            uly="925" lrx="603" lry="961"/>
+      </surface>
+      <surface xml:id="edirom_surface_88ddb93b-f9e8-4d09-8938-6a83a2b7ed00" n="53">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_27r_s51.jpg"
+            xml:id="edirom_graphic_76e4f69f-5d2b-4473-b82d-beaa24a475f9" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_ff65ba20-beaf-4715-b3de-1719c6bb268a" type="measure" ulx="117"
+            uly="95" lrx="565" lry="426"/>
+         <zone xml:id="edirom_zone_622412ed-43e0-4d11-bf84-0579574d2a6a" type="measure" ulx="86"
+            uly="422" lrx="559" lry="820"/>
+         <zone xml:id="edirom_zone_12f583a4-090f-4595-9474-2704c947d682" type="measure" ulx="83"
+            uly="817" lrx="563" lry="953"/>
+      </surface>
+      <surface xml:id="edirom_surface_0d5a7895-c3ed-46c9-ab98-21c0318bff60" n="54">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_27v_s52.jpg"
+            xml:id="edirom_graphic_0b0f1b96-f98c-4ac6-a716-38afbd1edae6" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_27b97f28-19c6-4c84-a1af-68041d995236" type="measure" ulx="150"
+            uly="101" lrx="595" lry="401"/>
+         <zone xml:id="edirom_zone_9c3cd1c0-0542-4a61-8a3a-34ef1581ef00" type="measure" ulx="112"
+            uly="393" lrx="593" lry="911"/>
+         <zone xml:id="edirom_zone_c1a40170-2281-424c-a591-a3cd91cf6d22" type="measure" ulx="120"
+            uly="899" lrx="592" lry="957"/>
+      </surface>
+      <surface xml:id="edirom_surface_88516b22-4e98-4425-933d-d99239f64c51" n="55">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_28r_s53.jpg"
+            xml:id="edirom_graphic_4aba7eb9-1291-471a-a377-b8400f17010e" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_68d09448-e4d2-44d8-9e83-e2e538fa8d40" type="measure" ulx="116"
+            uly="97" lrx="564" lry="579"/>
+         <zone xml:id="edirom_zone_60546c3a-fee5-44e1-997a-23f0e7a82cf4" type="measure" ulx="77"
+            uly="579" lrx="562" lry="959"/>
+      </surface>
+      <surface xml:id="edirom_surface_05e667be-1239-437e-a73b-55005add8920" n="56">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_28v_s54.jpg"
+            xml:id="edirom_graphic_993e8f7b-113b-484b-ab99-b61487a99284" type="facsimile"
+            width="667" height="1044"/>
+         <zone xml:id="edirom_zone_d10fad8f-8050-4a7d-a264-c6610a98f8d8" type="measure" ulx="147"
+            uly="92" lrx="592" lry="298"/>
+      </surface>
+      <surface xml:id="edirom_surface_a3516787-aec9-4a88-8780-f19fefe3a9e2" n="57">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_29r.jpg"
+            xml:id="edirom_graphic_607d78be-cde5-4715-9f2e-967bea667094" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_7fcdc662-27f7-4234-a82b-6d7fe1c2d9bd" n="58">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_29v.jpg"
+            xml:id="edirom_graphic_59f4f168-8177-4054-b9cf-873de3257d14" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_963e94cf-1418-4d3a-8819-41b4f0061547" n="59">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_30r.jpg"
+            xml:id="edirom_graphic_e51c393f-00ca-4e5c-8683-5da63f124196" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+      <surface xml:id="edirom_surface_49edbec6-5841-43ed-8277-54268588a34d" n="60">
+         <graphic
+            url="edition-Modulationslehre/edirom_source_60717468-9e23-487d-b8cd-e76c948c7ff9/Modulation_ED_30v.jpg"
+            xml:id="edirom_graphic_ae48e88f-6af8-45a8-8d19-65b6fc7b4545" type="facsimile"
+            width="667" height="1044"/>
+      </surface>
+   </facsimile>--><text><body><div><head> a) Von <hi rend="bold">C</hi> -dur nach: </head><div xml:id="t_a-1"><head>1)<hi rend="bold"> G</hi>-dur.</head><p>Tonika C-dur; Umdeutung dieser C-dur zur Unterdominante von G-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, (= G<hi rend="superscript">IV</hi>), G<hi rend="superscript"><hi rend="underline" n="1">II</hi></hi>,*)<!-- *) - unter der römische Ziffer = 1. Versetzung (= Umkehrung) = Sextaccord. = unter der römischen Zahl = 2. Versetzung (= Umkehrung) = Quartsextaccord. -->
+                     G<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, G<hi rend="superscript">V</hi>, | G<hi rend="superscript"><hi rend="underline" n="1">I</hi></hi>] </p></div><div xml:id="t_a-2"><head>2)<hi rend="bold"> D</hi>-dur.</head><p> Tonika C-Dur; Parallele (e-moll) der Oberdominante (G-dur) von C-Dur; Umdeutung
+                  dieses e-moll (1. Versetzung) zur Parallele der Unterdominante (G-dur) von D-dur.
+                  (Cadenz!) </p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript"><hi rend="underline n=1">III</hi></hi> (= D<hi rend="superscript"><hi rend="underline n=1">II</hi></hi>, D<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, D<hi rend="superscript">V</hi>,|D<hi rend="superscript">1</hi>] </p></div><div xml:id="t_a-3"><head>3)<hi rend="bold"> A</hi>-dur.</head><p>Tonika C-dur; Parallele (d-moll) der Unterdominante (F-dur) von C-dur; Umdeutung
+                  dieses d-moll zur <hi rend="spaced_out">Moll</hi>unterdominante von A-dur.
+                  (Cadenz!) </p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">II</hi> (= A<hi rend="superscript">IV<hi rend="subscript">♮</hi></hi>), | A<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, A<hi rend="superscript">V</hi>, | A<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-4"><head>4)<hi rend="bold"> E</hi>-dur.</head><p>Tonika C-dur; Parallele (a-moll) der Tonika C-dur; Umdeutung dieses a-moll zur <hi rend="spaced_out">Moll</hi>-unterdominante von E-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">VI</hi> (= E<hi rend="superscript">IV<hi rend="subscript">♮</hi></hi>), E<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, E<hi rend="superscript">V</hi>, | E<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-5"><head>5)<hi rend="bold"> H</hi>-dur.</head><p>Tonika C-dur; Parallele (e-moll) der Oberdominante (G-dur) von C-dur; Umdeutung
+                  dieses e-moll zur <hi rend="spaced_out">Moll</hi>unterdominante von H-dur.
+                  (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">III</hi> (= H<hi rend="superscript">IV<hi rend="subscript">o</hi>)</hi>, H<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi> H<hi rend="superscript">V</hi>, | H<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-6"><head>6)<hi rend="bold"> Fis</hi>-dur.</head><p>Tonika C-dur; Oberdominante G-dur, deren 1. Versetzung (der Sextaccord) (h d g)
+                  zum Accord der <hi rend="spaced_out">neapolitanischen</hi> Sexte
+                  *)<!-- *) <p>Unter "Accord der neapolitanischen Sexte" verstehe ich die Moll- Unterdominante einer Dur- oder Molltonart mit dem frei eintretenden Vorhalt der <hi rend="spaced_out">kleinen</hi> Sexte vor der Qinte, welcher Vorhalt nicht unbedingt nach der Quinte der Mollunterdominante aufgelöst zu werden braucht! "Neapolitanisch" nenne ich diesen Accord deshalb, weil A. Scarlatti in Neapel diese Art der Unterdominante zuerst "bewusst" anwandte; ich schliesse mich in der Benennung dieses Accordes an die Lehre Dr. H. Riemanns an. Z.B. in A-dur oder a-moll die Cadenz mit dem Accord der neapolitanischen Sexte: </p>
+                     <P><MEI Teil></p>
+                     <p>NB. Im Interesse einer glatten und fehlerlosen Stimmführung ist dem Schüler sehr zu empfehlen, <hi rend="spaced_out">stets</hi> die <hi rend="spaced_out">Prim</hi> dieses Sextaccordes zu verdoppeln! </p>-->
+                  von Fis-dur umgedeutet wird. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= Fis<hi rend="superscript">IV<hi rend="subscript">♮</hi><hi rend="superscript">6♮</hi></hi>, Fis<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, Fis<hi rend="superscript">V</hi>, | Fis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-7"><head>7)<hi rend="bold"> Cis</hi>-dur.</head><p>Tonika C-dur; Parallele (e-moll) der Oberdominante (G-dur) von C-dur; Umdeutung
+                  dieses e-moll zur <hi rend="spaced_out">Moll</hi>unterdominante von H-dur;
+                  Oberdominante Fis-dur von H-dur; Umdeutung dieses Fis-dur zur Unterdominante von
+                  Cis-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">III</hi>, (H<hi rend="superscript">IV</hi>♮) H<hi rend="superscript">V</hi>(= Cis<hi rend="superscript">IV</hi>), Cis<hi rend="superscript">V</hi> | Cis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-8"><head>8)<hi rend="bold"> Gis</hi>-dur.</head><p>Tonika C-dur; Parallele d-moll der Unterdominante F-dur von C-dur; Oberdominante
+                  A-dur von d-moll; Umdeutung der 1. Versetzung dieses A-dur (des Sextaccordes cis e
+                  a )zum Accord der neapolitanischen Sexte von Gis-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">II</hi>, (= d<hi rend="superscript">I</hi>*)<!-- *)<hi rend="spaced_out">Kleine</hi> Buchstaben bedeuten stets <hi rend="spaced_out">Moll</hi>tonart, resp. Molldreiklang. <hi rend="spaced_out">Grosse</hi>Buchstaben bedeuten stets <hi rend="spaced_out">Durtonart</hi>,resp. Durdreiklang. -->
+                     d<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♯</hi></hi></hi>, (= Gis<hi rend="superscript">IV<hi rend="subscript">♮</hi><hi rend="suberscript">♮</hi></hi>) |
+                     Gis<hi rend="superscript">V×</hi> Gis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-9"><head>9)<hi rend="bold"> Dis</hi>-dur.</head><p>Tonika C-dur; Parallele (d-moll) der Unterdominante (F-dur) von C-dur; Umdeutung
+                  dieses d-moll zur Unterdominante von a-moll; Oberdominante E-dur von a-moll;
+                  Umdeutung der 1. Versetzung dieses E-dur, des Sextaccordes gis h e zum Accord der
+                  neapolitanischen Sexte von Dis-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">II</hi> (= a<hi rend="superscript">IV</hi>), a<hi rend="superscript">V<hi rend="subscript">♯</hi></hi>, a<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♯</hi></hi></hi> (= Dis<hi rend="superscript">IV<hi rend="subscript"> ♮</hi><hi rend="superscript">6♮</hi></hi>) | Dis<hi rend="superscript">V</hi> Dis<hi rend="superscript">V× <!-- &#215 --></hi> Dis<hi rend="superscript">I</hi>] </p></div><div xml:id="t_a-10"><head>10)<hi rend="bold"> Ais</hi>-dur.</head><p>Tonika C-dur; Parallele (a-moll) der Tonika C-dur; Umdeutung dieses a-moll zur
+                  Unterdominante von e-moll; Dominante H-dur von e-moll; Umdeutung der 1. Versetzung
+                  dieses H-dur, des Sextaccordes dis fis h zum Accord der neapolinatnischen Sexte
+                  von Ais-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">VI</hi> (= e<hi rend="superscript">IV</hi>), e<hi rend="superscript">V<hi rend="subscript">♯</hi></hi>, e<hi rend="superscript">V<hi rend="subscript">♯</hi></hi> (= Ais<hi rend="superscript">IV<hi rend="subscript">♯</hi><hi rend="superscript">6♮</hi></hi>)| Ais<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, Ais<hi rend="superscript">V<hi rend="superscript">×</hi></hi>, Ais<hi rend="superscript">I</hi>.]</p></div><div xml:id="t_a-11"><head>11)<hi rend="bold"> Eis</hi>-dur.</head><p>Tonika C-dur; Parallele (e-moll) der Oberdominante (G-dur) von C-dur; Umdeutung
+                  dieses e-moll zur Unterdominante in h-moll; Oberdominante Fis-dur von h-moll;
+                  Umdeutung der 1. Versetzung dieses Fis-dur des Sextaccordes ais cis fis zum Accord
+                  der neapolitanischen Sexte von Eis-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">III</hi> (= h<hi rend="superscript">IV</hi>), h<hi rend="superscript">V<hi rend="subscript">♯</hi></hi>, h<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♯</hi></hi> (= Eis<hi rend="superscript">IV<hi rend="subscript">♯</hi><hi rend="superscript">6♯</hi></hi>), | Eis<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, Eis<hi rend="superscript">V<hi rend="subscript">×</hi></hi> Eis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-12"><head>12)<hi rend="bold"> His</hi>-dur.</head><p>Tonika C-dur; Parallele (e-moll) der Oberdominante (G-dur) von C-dur; Umdeutung
+                  dieses e-moll zur Unterdominante von h-moll; Oberdominante Fis-dur von h-moll;
+                  Umdeutung dieses Fis-dur zur Tonika in Fis-dur, Ober-dominante (Cis-dur) (1.
+                  Versetzung) von Fis-dur, welcher Sextaccord (eis gis cis) zum Accord der
+                  neapolitanischen Sexte von His-dur umgedeutet wird. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi> C<hi rend="superscript">III</hi> (= h<hi rend="superscript">IV</hi>) h<hi rend="superscript">V<hi rend="subscript">♯</hi></hi> (= Fis<hi rend="superscript">I</hi>) Fis<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= His<hi rend="superscript">IV<hi rend="subscript">♯</hi><hi rend="superscript">6♯</hi></hi><hi rend="subscript"/>) | His<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, His<hi rend="superscript">V<hi rend="subscript">×</hi></hi> His<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-13"><head>13)<hi rend="bold"> F</hi>-dur.</head><p>Tonika C-dur; Parallele (d-moll) der Unterdominante (F-dur) von C-dur; Umdeutung
+                  dieses d-moll zur Parallele der Tonika F-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">II</hi> (= F<hi rend="superscript">VI</hi>), F<hi rend="superscript">II<hi rend="superscript">7</hi></hi>, F<hi rend="superscript">V</hi>, | F<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-14"><head>14)<hi rend="bold"> B</hi>-dur.</head><p>Tonika C-dur; Umdeutung dieses C-dur zur <hi rend="bold">2.</hi>
+                  Oberdominante*)<!-- <p>Die 2. Oberdominante ist in Dur- und Molltonarten <hi rend="spaced_out">stets</hi> ein Durdreiklang, vertritt gewöhnlich die Stelle der <hi rend="bold">Unter</hi>dominante, daher Cadenz in C-dur mit 2. Oberdominante:</p>
+                     <p> [C<hi rend="superscript">V<hi rend="superscript">v</hi></hi> = D-dur, C<hi rend="superscript">V</hi> = G-dur, C<hi rend="superscript">I</hi> = C-dur.]</p> -->
+                  von B-dur, Oberdominante F-dur von B-dur; Tonika B-dur.</p><p>[C<hi rend="superscript">I</hi> (= B<hi rend="superscript">V<hi rend="superscript">v</hi></hi>), B<hi rend="superscript">V<hi rend="superscript">7</hi></hi>,
+                     B<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-15"><head>15)<hi rend="bold"> Es</hi>-dur.</head><p>Tonika C-dur; <hi rend="spaced_out">Moll</hi>unterdominante (f-moll, 1.
+                  Versetzung) von C-dur; Umdeutung dieses f-moll zur Parallele der Unterdominante
+                  (As-dur) von Es-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV♭<!-- &#9837 --></hi>, (= Es<hi rend="superscript">II</hi>) Es<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, Es<hi rend="superscript">V<hi rend="subscript">3</hi><hi rend="superscript">5</hi></hi>, | Es<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-16"><head>16)<hi rend="bold"> As</hi>-dur.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C-dur; Umdeutung
+                  dieses Sextaccordes (f as des) zur 1. Versetzung der Unterdominante (Des-dur) von
+                  As-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= As<hi rend="superscript"><hi rend="underline" n="1">IV</hi></hi>), As<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, As<hi rend="superscript">V<hi rend="subscript">3</hi><hi rend="superscript">5</hi></hi>, | As<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-17"><head>17)<hi rend="bold"> Des</hi>-dur.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C-dur; Umdeutung
+                  dieses Sextaccordes (f as des) zur 1. Versetzung der Tonika von Des-dur.
+                  (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= Des<hi rend="superscript"><hi rend="underline" n="1">I</hi></hi>), Des<hi rend="superscript">IV</hi>, Des<hi rend="superscript">V</hi>, | Des<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-18"><head>18)<hi rend="bold"> Ges</hi>-dur.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C-dur; Umdeutung
+                  dieses Sextaccordes (f as des) zur 1. Versetzung der Oberdominante Des-dur von
+                  Ges-dur. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= Ges<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>, | Ges<hi rend="superscript"><hi rend="underline" n="1">IV</hi></hi>, Ges<hi rend="superscript">V</hi>, | Ges<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-19"><head>19)<hi rend="bold"> Ces</hi>-dur.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C- dur; Umdeutung
+                  dieses Sextaccordes (f as des) zur 1. Versetzung der 2. Oberdominante Des-dur von
+                  Ces-dur; Oberdominante Ges-dur (<hi rend="superscript">6</hi><hi rend="subscript">4</hi><hi rend="superscript">5</hi><hi rend="subscript">3</hi>) von Ces-dur; Tonika
+                  Ces-dur.</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= Ces<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">v</hi></hi></hi>), Ces<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, Ces<hi rend="superscript">V<hi rend="subscript">3</hi><hi rend="superscript">5</hi></hi>, | Ces<hi rend="superscript">I</hi> ]</p></div><div xml:id="t_a-20"><head>20)<hi rend="bold"> Fes</hi>-dur.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C-dur; Umdeutung
+                  dieses Sextaccordes (f as des) zur 1. Versetzung der Oberdominante Des-dur von
+                  ges-moll; Umdeutung dieses ges-moll zur Parallele der Unterdominante Heses-dur von
+                  Fes-dur; Oberdominante Ces-dur; Tonika Fes-dur.</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= ges<hi rend="superscript">V</hi>♮ <!-- &#9838 -->), ges<hi rend="superscript">I</hi>,
+                  (= Fes<hi rend="superscript">II</hi>) | Fes<hi rend="superscript">V</hi> Fes<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-21"><head>21)<hi rend="bold"> Heses</hi>-dur.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C-dur; Umdeutung
+                  dieses Sextaccordes (f as des) zur 1. Versetzung (Sextaccord) der Oberdominante
+                  (Des-dur) von Ges-dur; Umdeutung dieses Ges-dur zur Oberdominante von ces-moll;
+                  Umdeutung dieses ces-moll zur Parallele der Unterdominante Eses- dur von
+                  Heses-dur, Oberdominante <hi rend="superscript">6</hi><hi rend="subscript">4</hi><hi rend="superscript">5</hi><hi rend="subscript">3</hi> (Fes-dur) von Heses-dur;
+                  Tonika Heses-dur.</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= Ges<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>), Ges<hi rend="superscript">I</hi> (= ces<hi rend="superscript">V</hi>),
+                     ces<hi rend="superscript">I</hi> (= Heses<hi rend="superscript">II</hi>) |
+                     Heses<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, Heses<hi rend="superscript">V<hi rend="subscript">3</hi><hi rend="superscript">5</hi></hi> Heses<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-22"><head>22)<hi rend="bold"> a</hi>-moll.</head><p>Tonika C-dur; Parallele (d-moll) der Unterdominante F-dur von C-dur; Umdeutung
+                  dieses d-moll zur Unterdominante von a-moll. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">II</hi> (= a<hi rend="superscript">IV</hi>) a<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi> a<hi rend="superscript">V<hi rend="subscript">♯</hi></hi> | a<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-23"><head>23)<hi rend="bold"> e</hi>-moll.</head><p>Tonika C-dur; Parallele (a-moll) der Tonika C-dur; Umdeutung dieses a-moll zur
+                  Unterdominante in e-moll. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">VI</hi> (= e<hi rend="superscript">IV</hi>), e<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi> e<hi rend="superscript">V<hi rend="subscript">♯</hi></hi>| e<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-24"><head>24)<hi rend="bold"> h</hi>-moll.</head><p>Tonika C-dur; die 1. Versetzung dieses C-dur, der Sextaccord e g c wird zum Accord
+                  der neapolitanischen Sexte von h-moll umgedeutet. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi><hi rend="underline" n="1"> C</hi><hi rend="superscript">I</hi> = (h<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>) h<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi> h<hi rend="superscript">V<hi rend="subscript">♯</hi></hi>
+                  | h<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-25"><head>25)<hi rend="bold"> fis</hi>-moll.</head><p>Tonika C-dur; 1. Versetzung der Oberdominante G-dur von C-dur; Umdeutung dieses
+                  Sextaccordes (h d g) zur neapolitanischen Sexte von Fis-moll. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= fis<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>, fis<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, fis<hi rend="superscript">V<hi rend="subscript">♯</hi><hi rend="superscript">7</hi></hi>, | fis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-26"><head>26)<hi rend="bold"> cis</hi>-moll.</head><p>Tonika C-dur; Oberdominante (G-dur) von C-dur; Umdeutung dieses G-dur zur
+                  Unterdominante in D-dur, welches D-dur (als <hi rend="spaced_out">Sext</hi>accord
+                  gesetzt) als Accord der neapolitanischen Sexte (fis a d) von Cis-moll aufgefasst
+                  wird. (Cadenz!) </p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">V</hi> (= D<hi rend="superscript">IV</hi>), D<hi rend="superscript"><hi rend="underline" n="1">I</hi></hi> (= cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>) cis<hi rend="superscript">V<hi rend="subscript">♯</hi></hi> | cis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-27"><head>27)<hi rend="bold"> gis</hi>-moll.</head><p>Tonika C-dur; Parallele (d-moll) der Unterdominante von C-dur; Umdeutung dieses
+                  d-moll zur Tonika in d-moll; darauf Dominante (A-dur) von d-moll; dieses A-dur
+                  (als <hi rend="spaced_out">Sextaccord, cis e a gesetzt</hi>) wird zum Accord der
+                  neapolitanischen Sexte von gis-moll umgedeutet. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">II</hi> (= d<hi rend="superscript">I</hi>), d<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♯</hi></hi></hi> (= gis<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>), gis<hi rend="superscript">V<hi rend="subscript">×</hi></hi>, | gis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-28"><head>28)<hi rend="bold"> dis</hi>-moll.</head><p>Tonika C-dur; Parallele (a- moll) von C-dur; Umdeutung dieses a-moll zur Tonika in
+                  a-moll; Oberdominante (E-dur) von a-moll (als Sextaccord), welcher Sextaccord (gis
+                  h e) zum Accord der neapolitanischen Sexte von dis-moll umgedeutet wird.
+                  (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">VI</hi>, (= a <hi rend="superscript">I</hi>), a<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♯</hi></hi></hi> (= dis<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>) dis<hi rend="superscript">V<hi rend="subscript">×</hi></hi>, | dis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-29"><head>29)<hi rend="bold"> ais</hi>-moll.</head><p>Tonika C-dur; Parallele (a-moll) der Tonika (C-dur); Umdeutung dieses a-moll zur
+                  Unterdominante von e-moll; Oberdominante
+                  H-dur<!-- "-" hinzugefügt. Ich vermute das ist bloß Druckfehler. --> von e-moll;
+                  Umdeutung der 1. Versetzung dieses H-dur, des Sextaccordes dis fis h zum Accord
+                  der neapolitanischen Sexte von ais-moll. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">VI</hi> (= e<hi rend="superscript">IV</hi>) e<hi rend="superscript">V<hi rend="subscript">♯</hi></hi>, e<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♯</hi></hi></hi> (= ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>) | ais<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi> ais<hi rend="superscript">V<hi rend="subscipt">×</hi></hi> ais<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-30"><head>30)<hi rend="bold"> eis</hi>-moll.</head><p>Tonika C-dur; erste Versetzung (Sextaccord) davon; Umdeutung dieses Sextaccordes
+                  (e g c) zum Accord der neapolitanischen Sexte in H-dur; Dominante (Fis-dur) von
+                  H-dur; dieses Fis-dur in seiner 1. Versetzung (Sextaccord) ais cis fis, d. h.
+                  dieser Sextacord wird zum Accord der neapolitanischen Sexte von eis-moll
+                  umgedeutet. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript"><hi rend="underline" n="1">I</hi></hi>, (= H<hi rend="superscript">IV<hi rend="subscript">♮</hi><hi rend="superscript">6♮</hi></hi> H<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= eis<hi rend="superscript">IV<hi rend="subscript">3♯</hi><hi rend="superscript">6♯</hi></hi>), eis<hi rend="superscript">V<hi rend="subscript">×</hi></hi>, | eis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-31"><head>31)<hi rend="bold"> his</hi>-moll.</head><p>Tonika C-dur; Dominante (G-dur) von C-dur; dieses G-dur als Sextaccord gesetzt,
+                  welcher Sextaccord (h d g) zum Accord der neapolitanischen Sexte von Fis-dur
+                  umgedeutet wird, Oberdominante Cis-dur (von Fis-dur), welches Cis-dur in seine 1.
+                  Versetzung (als Sextacord [eis gis cis]) umgewandelt wird; Umdeutung dieses
+                  Sextaccordes (eis gis cis) zum Accord der neapolitanischen Sexte von his-moll.
+                  (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= Fis<hi rend="superscript">IV<hi rend="subscirpt">♮</hi><hi rend="superscript">6♮</hi></hi>), Fis<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= his<hi rend="superscript">IV<hi rend="subscript">3♯</hi><hi rend="superscript">6♯</hi></hi>) his<hi rend="superscript">V<hi rend="subscript">×</hi></hi> | his<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-32"><head>32)<hi rend="bold"> d</hi>-moll.</head><p>Tonika C-dur = Oberdominante von F-dur; die Parallele g-moll der Unterdominante
+                  von F-dur, welches g-moll zur Unterdominante von d-moll umgedeutet wird.
+                  (Cadenz!)</p><p>[C<hi rend="superscript">I</hi> (= F<hi rend="superscript">V</hi>), F<hi rend="superscript">II</hi> (= d<hi rend="superscript">IV</hi>) d<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi> d<hi rend="superscript">V<hi rend="subscript">♯</hi></hi> |
+                     d<hi rend="superscript">I</hi>]</p><p><!-- MEI Teil --> (phrygisch!)</p>
+               <!-- Wie schreibe ich die Nnotenbeispiel? --></div><div xml:id="t_a-33"><head>33)<hi rend="bold"> g</hi>-moll.</head><p>Tonika C-dur, welches C-dur zum Accord der <hi rend="spaced_out">dorischen</hi>*)<!-- *) Dorische Sexte ist die stets aufwärts zuführende (zum Leitetone) <hi rend="spaced_out">grosse</hi> Sexte in Moll; z.B fis in a-moll, welches fis sowohl als Terz im D-dur, als auch als Quinte im h-molldreiklang aufgefasst werden kann ! (Daher D-dur und h-moll: Accorde der <hi rend="spaced_out">dorischen</hi> Sexte in a-moll!) -->Sexte
+                  von g-moll umgedeutet wird; Oberdominante D-dur mit 7 (2. Versetzung) von
+                  g-moll.</p><p>[C<hi rend="superscript">I</hi> (= g<hi rend="superscript">IV<hi rend="subscript">3♮</hi></hi>) g<hi rend="superscript"><hi rend="underline" n="2">V</hi><hi rend="superscript">7</hi><hi rend="subscript">♯</hi></hi>
+                     g<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-34"><head>34)<hi rend="bold"> c</hi>-moll.</head><p>Tonika C-dur; Mollunterdominante (f-moll) von C-dur; Umdeutung dieses F-moll zur
+                  Unterdominante in c-moll. (Cadenz!)</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi></hi> (= c<hi rend="superscript">IV</hi>) c<hi rend="superscript">V<hi rend="subscript">4</hi><hi rend="superscript">6</hi></hi>, c<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>,
+                  | c<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-35"><head>35)<hi rend="bold"> f</hi>-moll.</head><p>Tonika C-dur wird zur Oberdominante in f-moll umgedeutet; dann Cadenz.</p><p>[C<hi rend="superscript">I</hi> (= f<hi rend="superscript">V<hi rend="subscript">♮</hi></hi> ), f<hi rend="superscript">I</hi>, f<hi rend="superscript"><hi rend="underline" n="1">II</hi></hi>, f<hi rend="superscript">V<hi rend="subscript">♮</hi></hi> | f<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-36"><head>36)<hi rend="bold"> b</hi>-moll.</head><p>Tonika C-dur wird zur <hi rend="bold">2.</hi> Oberdominante in b-moll umgedeutet;
+                  Oberdominante (f a c [es]) von b-moll.</p><p>[C<hi rend="superscript">I</hi> (= b<hi rend="superscript">V<hi rend="superscript">v</hi></hi>) b<hi rend="superscript">V<hi rend="superscript">7</hi><hi rend="subscript">♮</hi></hi>, b<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-37"><head>37)<hi rend="bold"> es</hi>-moll.</head><p>Tonika C-dur; Mollunterdominante (f-moll) von C-dur; Umdeutung dieses f-moll (f as
+                     <hi rend="bold">c</hi>) zum Accord der <hi rend="spaced_out">dorischen</hi>
+                  Sexte von es-moll; Oberdominante (B-dur) von es-moll und Tonika es-moll.</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi></hi>, (= es<hi rend="superscript">II<hi rend="superscript">5♮</hi></hi>) es<hi rend="superscript">V<hi rend="subscript">♮</hi><hi rend="superscript">(7)</hi></hi>, | es<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-38"><head>38)<hi rend="bold"> as</hi>-moll.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (<hi rend="bold">f</hi> as des)
+                  von C-dur, welcher Sextaccord (f as des) als Accord der <hi rend="spaced_out">dorischen</hi> Sexte (Des-dur als Sextaccord) in as-moll aufgefasst wird;
+                  Oberdominante (Es-dur) und Tonika von as-moll.</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= as<hi rend="superscript"><hi rend="underline" n="1">IV<hi rend="subscript">♮</hi></hi></hi>), as<hi rend="superscript">V<hi rend="subscript">♮</hi></hi> | as<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-39"><head>39)<hi rend="bold"> des</hi>-moll.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C-dur, welcher
+                  Sextaccord (f as des) zur Unterdominante von As-dur umgedeutet wird; Oberdominante
+                  (Es-dur) von As-dur; Tonika As-dur mit kleiner Septime, welcher As-Septaccord (as
+                  c es ges) als Oberdominante von des-moll aufgefasst wird.</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV<hi rend="subscript">6♭</hi><hi rend="superscript">6♭</hi></hi> (= As<hi rend="superscript"><hi rend="underline" n="1">IV</hi></hi>), As<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="superscript">7</hi></hi>, As<hi rend="superscript">I<hi rend="superscript">7♭</hi></hi> (= des<hi rend="superscript">V<hi rend="superscript">7♭</hi></hi>) | des<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-40"><head>40)<hi rend="bold"> ges</hi>-moll.</head><p>Tonika C-dur; Accord der neapolitanischen Sexte (f as des) von C-dur, welcher
+                  Sextaccord zur 1. Versetzung der Oberdominante Des-dur (mit Septime ces) (also <hi rend="superscript">6</hi><hi rend="subscript">5</hi>) von ges-moll umgedeutet
+                  wird; Tonika ges-moll.</p><p>[C<hi rend="superscript">I</hi> C<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= ges<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♮</hi></hi></hi>, ges<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="superscript">7</hi><hi rend="subscript">♮</hi></hi> , | ges<hi rend="superscript">I</hi>]</p></div><div xml:id="t_a-41"><head>41) <hi rend="bold">ces</hi>-moll</head><p>Tonika C-dur; Accord der neapolitanischen Sexte(f as des) von C-dur, welcher
+                  Sextaccord zur Oberdominante (Des-dur mit Septime ces, als <hi rend="superscript">6</hi><hi rend="subscript">5</hi>) von Ges-dur, und dieses Ges-dur wieder zur
+                  Oberdominante von ces-moll umgedeutet wird; Toniak ces-moll.</p><p>[C<hi rend="superscript">I</hi>, C<hi rend="superscript">IV <hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi> (= Ges <hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="superscript">(7♭)</hi></hi>), Ges <hi rend="superscript">I</hi> (= ces <hi rend="superscript"><hi rend="underline">V</hi></hi><hi rend="subscript">♭</hi>) | ces <hi rend="superscript">I</hi>]</p></div></div><div><head>b) Von <hi rend="bold">C</hi>is-dur nach:</head><div xml:id="t_b-42"><head> 42) <hi rend="bold">Es</hi>-dur(oder es-moll).</head><p>Tonika Cis-dur; Accord der neapolitansichen Sexte (fis a d) von Cis-dur; Umdeutung
+                  deises Sextaccordes zur 1. Versetzung von D-dur als 2. Oberdominante von c-moll,
+                  Oberdominante G-dur von c-moll, Unterdominante (f-moll) von c-moll; Umdeutung
+                  dieses f-moll zur Parallele der Unterdominante As-dur von Es-dur. (Cadenz!) </p><p>NB. Nach es-moll modulierend: wird das f-moll (f as c) als Accord der dorischen
+                  Sexte von es-moll aufgefasst; Dominante B-dur von es-moll. (Cadenz!)</p><p><supplied>[</supplied>Cis<hi rend="superscript">I</hi>, Cis <hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi>♮</hi></hi>(=c<hi rend="superscript">V<hi rend="superscript"><hi rend="underline">V</hi><hi rend="superscript">5♮</hi><hi rend="subscript">#</hi></hi></hi>),
+                     c<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>, c<hi rend="superscript">IV</hi>(=Es<hi rend="superscript">II</hi>), Es<hi rend="superscript">V</hi>,| Es<hi rend="superscript">I</hi>]</p><p><supplied>[</supplied>Cis<hi rend="superscript">I</hi>, Cis <hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi>♮</hi></hi>(=c<hi rend="superscript">V<hi rend="superscript"><hi rend="underline">V</hi><hi rend="superscript">5♮</hi><hi rend="subscript">#</hi></hi></hi>),
+                     c<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>, c<hi rend="superscript">IV</hi>(= es<hi rend="superscript">II<hi rend="superscript">5♮</hi></hi>), es<hi rend="superscript">V♮</hi>| es<hi rend="superscript">I</hi>]</p></div><div xml:id="t_b-43"><head> 43) <hi rend="bold">As</hi>-dur (oder as-moll). </head><p>Tonika Cis-dur; Accord der neapolitansichen Sexte (fis a d) von Cis-dur; Umdeutug
+                  deieses Sextaccordes zur 1. Versetzung von D-dur als 2. Oberdominante in c-moll;
+                  Dominatnte (G-dur), Tonika c-moll von c-moll; Umdeutung deises c-moll zur
+                  Parallele der Oberdominante (Es-dur) von As-dur (resp. as-moll); Tonika As-dur
+                  (resp. as-moll!)</p><p>[Cis<hi rend="superscript">I</hi>, Cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>(= c
+                     <hi rend="superscript">V<hi rend="superscript">v5♮<hi rend="subscript">#</hi></hi></hi>) c<hi rend="superscript">V</hi><hi rend="subscript">♮</hi>, c<hi rend="superscript">I</hi>(= As<hi rend="superscript">III</hi>) As<hi rend="superscript">V</hi>, | As<hi rend="superscript">I</hi>]</p><p>[Cis<hi rend="superscript">I</hi>, Cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>(= c
+                     <hi rend="superscript">V<hi rend="superscript">v 5♮<hi rend="subscript">#</hi></hi></hi>) c <hi rend="superscript">V</hi><hi rend="subscript">♮</hi>, c<hi rend="superscript">I</hi>(= As<hi rend="superscript">III</hi>) as<hi rend="superscript">V<hi rend="subscript">(&#160;♮)</hi></hi>|
+                     as<hi rend="superscript">I</hi>]</p></div><div xml:id="t_b-44"><head>44) <hi rend="bold">Des</hi>-dur (des-moll).</head><p>Tonika Cis-dur; Accord der neapolitanischen Sexte (fis a d) von Cis-dur; Umdeutung
+                  dieses Sexteaccordes (fis a d) zur 2. Oberdominante von c-moll (1. Versetzung
+                  deiser 2. Oberdominante); Oberdominate (G-dur), Tonika (c-moll) von c-moll;
+                  Unterdominante (f-moll) von c-moll, welches f-moll zur Parallele der Oberdominante
+                  (As-dur) von Des-dur (resp. des-moll) umgedeutet wird; Oberdominante As-dur von
+                  Des-dur (des-moll); Tonika Des-dur (des-moll). </p><p>[Cis<hi rend="superscript">I</hi>, Cis<hi rend="superscript">IV<hi rend="superscript">6&#160;♮</hi><hi rend="subscript">&#160;♮</hi></hi>(=
+                     c<hi rend="superscript">V<hi rend="superscript">v5♮<hi rend="subscript">#</hi></hi></hi>),c<hi rend="superscript">V<hi rend="subscript">&#160;♮</hi></hi>, c<hi rend="superscript">I</hi>, c<hi rend="superscript"><hi rend="underline">IV</hi></hi>(= Des<hi rend="superscript"><hi rend="underline">III</hi></hi>) Des<hi rend="superscript">V</hi>| Des<hi rend="superscript">I</hi>]</p><p>[Cis<hi rend="superscript">I</hi>, Cis<hi rend="superscript">IV<hi rend="superscript">6&#160;♮</hi><hi rend="subscript">&#160;♮</hi></hi>(=
+                     c<hi rend="superscript">V<hi rend="superscript">v5♮<hi rend="subscript">#</hi></hi></hi>),c<hi rend="superscript">V<hi rend="subscript">&#160;♮</hi></hi>, c<hi rend="superscript">I</hi>, c<hi rend="superscript"><hi rend="underline">IV</hi></hi>(= Des<hi rend="superscript"><hi rend="underline">III</hi></hi>) des<hi rend="superscript">V<hi rend="subscript">&#160;♮</hi></hi>| des<hi rend="superscript">I</hi>]</p></div><div xml:id="t_b-45"><head>45) <hi rend="bold">Ges</hi>-dur (ges-moll)</head><p>Tonika Cis-dur; Accord der neapolitanischen Sexte (fis a d) von Cis-dur;
+                  Undeuttung dieses Sextaccordes zur 2. Oberdominante (1. Versetzung dieser 2.
+                  Oberdominante von c-moll; Umdeutung dieses f-moll zur Parallele der Oberdonimante
+                  (As-dur) von Des-dur; Unterdominante (Ges-dur) von Des-dur; Umdeutung der Tonika
+                  mit 7<hi rend="superscript">♭</hi> (Des-dur) zur Oberdominante von Ges-dur
+                  (ges-moll). </p><p>[Cis<hi rend="superscript">I</hi>, Cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>(=
+                     c<hi rend="superscript">V<hi rend="superscript"><hi rend="underline">v</hi><hi rend="subscript">#</hi><hi rend="superscript">♮</hi></hi></hi>)
+                     c<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>, c<hi rend="superscript">IV</hi>(= Des<hi rend="superscript">III</hi>| Des<hi rend="superscript">IV</hi>, Des<hi rend="superscript">I♭</hi>(= Ges<hi rend="superscript">V<hi rend="superscript">7♭</hi></hi> Ges<hi rend="superscript">I</hi></p><p> [Cis<hi rend="superscript">I</hi>, Cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>(=
+                     c<hi rend="superscript">V<hi rend="superscript"><hi rend="underline">v</hi><hi rend="subscript">#</hi><hi rend="superscript">♮</hi></hi></hi>)
+                     c<hi rend="superscript">V<hi rend="subscript">&#160;♮</hi></hi>, c<hi rend="superscript">IV</hi>(= Des<hi rend="superscript">III</hi>| Des<hi rend="superscript">IV</hi>, Des<hi rend="superscript">I♭</hi>(= ges<hi rend="superscript">V<hi rend="superscript">7♭</hi><hi rend="subscript">♮</hi></hi> ges<hi rend="superscript">I</hi></p></div><div xml:id="t_b-46"><head> 46) <hi rend="bold">Ces</hi>-dur (ces-moll) </head><p>Tonika Cis-dur; Accord der neapolitanischen Sexte (fis a d) von Cis-dur; Umdeutung
+                  dieses Sextaccordes (fis a d) zur 2. Oberdominante (1. Versetzung) von c-moll;
+                  Unterdominante (f-moll) von c-moll; Umdeutung dieses f-moll zur Parallele der
+                  Oberdominante (As-dur) von Des-dur; Unterdominante (Ges-dur) von Des-dur;
+                  Umdeutung dieses Ges-dur zur Oberdominante von Ces-dur (ces-moll).</p><p>[Cis<hi rend="superscript">I</hi> Cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>(=
+                     c<hi rend="superscript"><hi rend="underline">V</hi><hi rend="superscript">v<hi rend="superscript">5♮</hi><hi rend="subscript">#</hi></hi></hi>)
+                     c<hi rend="superscript">V</hi> c<hi rend="superscript">IV</hi>(= Des<hi rend="superscript">III</hi>) Des<hi rend="superscript">IV</hi> (= Ces<hi rend="superscript">V</hi>)| Ces<hi rend="superscript">I</hi>] </p><p>[Cis<hi rend="superscript">I</hi> Cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>(=
+                     c<hi rend="superscript"><hi rend="underline">V</hi><hi rend="superscript">v<hi rend="superscript">5♮</hi><hi rend="subscript">#</hi></hi></hi>)
+                     c<hi rend="superscript">V</hi> c<hi rend="superscript">IV</hi>(= Des<hi rend="superscript">III</hi>) Des<hi rend="superscript">IV</hi> (= ces<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>)|ces<hi rend="superscript">I</hi>]</p><p>NB. Die Modulationen in Nr. 43, 44, 45, 46 nach as-, des-, ges-, und ces-moll sind
+                  weniger empfehlenswert, da in diesen die Durterz der endgültig erreichten Tonika
+                  als natürlicher erscheint!</p><p>(In Nr. 42 ist die dorische Sexte c von es-moll aber ganz natürlich und auch
+                  richtig zur Modulation benützt!)</p></div></div><div><head>c) Von <hi rend="bold">a</hi>-moll nach:</head><div xml:id="t_c-47"><head>47) <hi rend="bold">e</hi>-moll</head><p>Tonika a-moll, welche sogleich zur Unterdonimante von e-moll umgedeutet
+                  wird.(Cadenz!)</p><p>[a <hi rend="superscript">I</hi> (= e<hi rend="superscript">IV</hi>), e<hi rend="superscript">II<hi rend="superscript">7</hi></hi> e <hi rend="superscript">V <hi rend="superscript">6</hi><hi rend="subscript">4</hi></hi> e <hi rend="superscript">V<hi rend="superscript">7</hi><hi rend="subscript">#</hi></hi>| e<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-48"><head>48) <hi rend="bold">h</hi>-moll.</head><p>Tonika a-moll, Molloberdominante e-moll, welches e-moll zur Unterdominante in
+                  h-moll umgedeutet wird. (Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">V♮</hi> (= h<hi rend="superscript">IV</hi>), h<hi rend="superscript">V<hi rend="superscript">6</hi><hi rend="subscript">4</hi></hi>, h <hi rend="superscript">V</hi><hi rend="subscript">#</hi>,| h<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-49"><head>49) <hi rend="bold">fis</hi>-moll</head><p>Tonika a-moll; 1. Versetzung (Sextaccord) des verminderten Dreiklangs (gis h
+                     d)(a<hi rend="superscript">VII</hi>); Umdeutung dieses Sextaccordes (h d gis)
+                  zu fis<hi rend="superscript"><hi rend="underline">II</hi></hi>(verminderter
+                  Dreiklang gis h d [1. Verssetzung] [in fis-moll] auf 2. Stufe).(Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript"><hi rend="underline">VII</hi></hi>, (= fis <hi rend="superscript"><hi rend="underline">II</hi></hi>) fis<hi rend="superscript">V<hi rend="superscript">6</hi><hi rend="subscript">4</hi></hi>, fis<hi rend="superscript">V</hi><hi rend="subscript">#</hi>,| fis<hi rend="superscript">I</hi></p></div><div xml:id="t_c-50"><head>50) <hi rend="bold">cis</hi>-moll</head><p>Tonika a-moll; 1. Versetzung (Sextaccord) des verminderten Dreiklangs (gis h d)
+                     (a<hi rend="superscript">VII</hi>); Umdeutung dieses Sextaccordes zu fis<hi rend="superscript"><hi rend="underline">II</hi></hi> (1.Versetzung!); Tonika
+                  fis-moll; Umdeutung dieses fis-moll zur Untedominante von cis-moll.(Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript"><hi rend="underline">VII</hi></hi>, (= fis<hi rend="superscript"><hi rend="underline">II</hi></hi>), fis<hi rend="superscript">I</hi> (= cis<hi rend="superscript">IV</hi>), cis<hi rend="superscript">V<hi rend="subscript">#</hi></hi>,| cis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-51"><head> 51) <hi rend="bold">gis</hi>-moll</head><p>Tonika a-moll; Umdeutung des Sextaccordes (h d gis) (a<hi rend="superscript"><hi rend="underline">VII</hi></hi>); zu fis<hi rend="superscript"><hi rend="underline">II</hi></hi>; Oberdominante Cis-dur (von fis-moll);
+                  Umdeutung dieses Cis-dur zum Accord der dorischen Sexte (cis <hi rend="bold">eis</hi> gis) von gis-moll; Oberdominante (Dis-dur) von gis-moll; Tonika
+                  gis-moll! (Man beachte die stete Führung der dorischen Sexte zum Leittone!)</p><p> [a<hi rend="superscript">I</hi>, a<hi rend="superscript"><hi rend="underline">VII</hi></hi>(=fis<hi rend="superscript"><hi rend="underline">II</hi></hi>), fis<hi rend="superscript">V</hi><hi rend="subscript">#</hi>(=gis<hi rend="superscript"><hi rend="underline">IV</hi></hi><hi rend="subscript">#</hi>,gis<hi rend="superscript">V<hi rend="superscript">
+                        ˟</hi></hi>,| gis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-52"><head>52) <hi rend="bold">dis</hi>-moll </head><p> Tonika a-moll; Oberdominante E-dur; (1, Versetzung); Umdeutung dieses
+                  Sextaccordes (gis h e) zum Accord der neapolitanischen Sexte von dis-moll.
+                  (Candenz.)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript"><hi rend="underline">V</hi></hi><hi rend="subscript">#</hi>(= dis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">4♮</hi></hi>),dis
+                     <hi rend="superscript">V<hi rend="superscript">6</hi><hi rend="subscript">4</hi></hi>, dis <hi rend="superscript">V<hi rend="superscript">˟</hi></hi>, dis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-53"><head>53) <hi rend="bold">ais</hi>-moll.</head><p>Tonika a-moll; Oberdominante E-dur; 2. Oberdominante H-dur (1. Versetzung);
+                  Umdeutung dieses Sextaccordes (dis fis h) zum Accord der neapolitanischen Sexte
+                  von ais-moll.(Candenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">V<hi rend="subscript">#</hi></hi>, a<hi rend="superscript"><hi rend="underline">V</hi><hi rend="superscript">v<hi rend="subscript">#</hi></hi></hi>(= ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">3#</hi></hi>), ais<hi rend="superscript">V<hi rend="superscript">6</hi><hi rend="subscript">4</hi></hi>, ais <hi rend="superscript">V<hi rend="superscript">˟</hi></hi>,| ais <hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-54"><head>54) <hi rend="bold">eis</hi>-moll.</head><p>Tonika a-moll; Oberdominante E-dur (1. Verstzung). Umdeutung dieses Sextaccordes
+                  gis h e zum Accord der neapolitansichen Sexte von dis-moll; Oberdominante Ais-dur
+                  von dis-moll; Umdeutung dieses Dreiklanges ais <hi rend="bold">cisis</hi> eis zum
+                  Accord der dorischen Sexte von eis-moll, Oberdominante His-dur (von eis-moll), als
+                  Septaccord (verminderter) der 7. Stufe von eis-moll gesetzt, Tonika eis-moll.</p><p>NB. Der verminderte Septimenaccord (in Moll auf der 7. Stufe stehend) vertritt
+                  stets die Stelle der Oberdominante!</p><p>[a<hi rend="superscript">I</hi> a <hi rend="superscript"><hi rend="underline">V</hi><hi rend="subscript">#</hi></hi>(=dis <hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi> dis
+                     <hi rend="superscript">IV<hi rend="superscript">˟</hi></hi>(= eis<hi rend="superscript">IV<hi rend="superscript">˟</hi></hi>) eis <hi rend="superscript"><hi rend="underline">VII</hi><hi rend="superscript">7</hi></hi>| eis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-55"><head>55) <hi rend="bold">d</hi>-moll.</head><p>Tonika a-moll; Unterdominante d-moll; Umdeutung dieses d-moll zur Tonika in
+                  d-moll.(Cadenz!)</p><p><supplied>[</supplied>a<hi rend="superscript">I</hi> a<hi rend="superscript">IV</hi>(= d<hi rend="superscript">I</hi>) d<hi rend="superscript"><hi rend="underline">II</hi></hi> d <hi rend="superscript">V<hi rend="subscript">#</hi></hi>| d<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-56"><head>56) <hi rend="bold">g</hi>-moll.</head><p>Tonika a-moll; Umdeutung dieses a-moll (a c <hi rend="bold">e</hi>) zum Accord der
+                  dorischen Sexte von g-moll; Oberdonimante von g-moll( vertreten durch 1. Versetung
+                  des verminderten Dreklangs auf der VII. Stufe in g-moll; also a c fis); Tonika
+                  g-moll.</p><p>[a <hi rend="superscript">I</hi>(= g<hi rend="superscript">IV<hi rend="superscript">5♮</hi></hi>) g <hi rend="superscript"><hi rend="underline">VII</hi></hi>| g<hi rend="superscript">I</hi></p></div><div xml:id="t_c-57"><head>57) <hi rend="bold">c</hi>-moll.</head><p>Tonika a-moll; Unterdominante d-moll; Unterdeutung dieses d-moll (d f <hi rend="bold">a</hi>) zum Accord der dorischen Sexte von c-moll; Oberdominante
+                  (G-dur), Tonika c-moll. </p><p>[a<hi rend="superscript">I</hi>,a<hi rend="superscript">IV</hi>(=c<hi rend="superscript">II<hi rend="superscript">5</hi>♮</hi>) c <hi rend="superscript">V<hi rend="superscript">7</hi></hi><hi rend="subscript">♮</hi> c<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-58"><head>58) <hi rend="bold">f</hi>-moll.</head><p>Tonika a-moll; Accord der neapolitansischen Sexte (d f b) von a-moll; Umdeutung
+                  dieses Sextaccordes <hi rend="bold">d</hi> f b zum Accord der dorischen Sexte von
+                  f-moll; Oberdominante von f-moll; Oberdominante von f-moll (vertreten druch den
+                  verminderten Septimenaccord auf der VII. Stufe (e g b des) von f-moll!) </p><p>[a<hi rend="superscript">I</hi> a<hi rend="superscript">IV<hi rend="superscript">6</hi><hi rend="subscript">♭</hi></hi>(= f<hi rend="superscript"><hi rend="underline">IV</hi><hi rend="subscript">♮</hi></hi>) f<hi rend="superscript">VII<hi rend="superscript">7</hi></hi>f<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-59"><head>59) <hi rend="bold">b</hi>-moll</head><p>Tnoika a-moll; Unterdominante d-moll; Parallele der Tonika (C-dur von a-moll);
+                  Umdeutung dieses C-dur zur 2. Oberdominante von b-moll; Oberdominante (F-dur) (mit
+                  Septime es) von b-moll.</p><p>[a<hi rend="superscript">I</hi> a<hi rend="superscript">IV</hi> a<hi rend="superscript">III<hi rend="superscript">(5♮)</hi></hi>(= f<hi rend="superscript">V<hi rend="superscript">v</hi><hi rend="subscript">♮</hi></hi>) f<hi rend="superscript">V<hi rend="superscript">7♭</hi></hi>| b<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-60"><head>60) <hi rend="bold">es</hi>-moll.</head><p>Tonika a-moll; Accord der neapolitanishchen Sexte (d f b) von a-moll; Umdeutung
+                  dieses Sextaccordes (d f b) zur 1. Versetzung der Oberdominante (B-dur) von
+                  es-moll; (mit Septime; Quintsextaccord!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi>,(= es<hi rend="superscript"><hi rend="underline">V</hi></hi><hi rend="subscript">♮</hi> es <hi rend="superscript"><hi rend="underline">V</hi></hi><hi rend="superscript">7♭</hi>, | es<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-61"><head>61) <hi rend="bold">as</hi>-moll.</head><p>Tonika a-moll; Accord der neapolitanischen Sexte (d f b) von a-moll; Umdeutung
+                  dieses Sexteaacordes d f b zur 1. Versetzung der 2. Oberdominante (B-dur) von
+                  as-moll; Oberdominante (mit7<hi rend="superscript">♭</hi>) (Es-dur) von
+                  as-moll.</p><p>[a <hi rend="superscript">I</hi>, a<hi rend="superscript">IV</hi><hi rend="superscript">6♭</hi>(=as <hi rend="superscript">V<hi rend="superscript"><hi rend="underline">V</hi></hi><hi rend="subscript">♮</hi></hi>), as<hi rend="superscript">V<hi rend="superscript">7(♭)</hi></hi><hi rend="subscript">♮</hi>, as<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-62"><head>62) <hi rend="bold">des</hi>-moll.</head><p>Tonika a-moll; Accord der neapolitanischen Sexte (d f b) von a-moll; Umdeutung
+                  dieses Sextaccordes (d f b) zur 1. Versetzung der 2. Oberdominante (B-dur) von
+                  As-dur; Oberdominante (Es-dur mit 7<hi rend="superscript">♭</hi>) von
+                  As-dur; Tonika As-dur; Umdeutung dieses As-dur zur Oberdominant (mit 7<hi rend="superscript">♭</hi>) von des-moll.</p><p>[a <hi rend="superscript">I</hi>, a <hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi>(= As<hi rend="superscript">V<hi rend="superscript"><hi rend="underline">V</hi></hi></hi>),As<hi rend="superscript">V<hi rend="superscript">7(♭)</hi></hi> As<hi rend="superscript">I</hi>(= des<hi rend="superscript">V<hi rend="superscript">(7♭)</hi></hi><hi rend="subscript">♮</hi>| des<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-63"><head>63) <hi rend="bold">ges</hi>-moll</head><p>Wie in Nr. 62; Umdeutung des As-dur zur Oberdominante von <hi rend="bold">Des-dur</hi>; Umdeutung dieses Des-dur (mit 7<hi rend="superscript">♭</hi> zur Oberdominante von ges-moll.</p><p>[a <hi rend="superscript">I</hi>, a<hi rend="superscript">IV<hi rend="sueprscript">6♭</hi></hi>(= As<hi rend="superscript">V<hi rend="superscript"><hi rend="underline">v</hi></hi></hi>), As<hi rend="superscript">V<hi rend="superscript">(7♭)</hi></hi>, A<hi rend="superscript">I</hi>(=Des<hi rend="superscript">V<hi rend="superscript">7♭</hi></hi>,|
+                     Des<hi rend="superscript">I</hi> (=ges<hi rend="superscript">V<hi rend="superscript">7♭</hi></hi><hi rend="subscript">♮</hi>),
+                     ges<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-64"><head>64) <hi rend="bold">ces</hi>-moll.</head><p>Tonika a-moll; Parallele (F-dur) der Unterdominante (d-moll) von a-moll; Accord
+                  der neapolitanischen Sexte (b des ges) von F-dur; Umdeutung dieses Sextaccordes (b
+                  des ges) zur 1. Versetzung der Oberdominante (Ges-dur) von ces-moll; Oberdominante
+                  Ges-dur (mit7<hi rend="superscript">♭</hi>) von ces-moll; Tonika ces-moll.
+                  (Siehe Nr. 65.)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript"><hi rend="underline">VI</hi></hi>(= F<hi rend="superscript"><hi rend="underline">I</hi></hi>),
+                     F<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>(= ces<hi rend="superscript"><hi rend="underline">V</hi></hi><hi rend="subscript">♭</hi>, ces<hi rend="superscript">V<hi rend="superscript">7♭</hi></hi><hi rend="subscript">♭</hi>,| ces<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-65"><head>65) <hi rend="bold">fes</hi>-moll.</head><p>Tonika a-moll; Parallele (F-dur) der Unterdominante (d-moll) von a-moll; Umdeutung
+                  dieses F-dur zur Tonika. (Dies auch in Nr. 64 an gleicher Stelle); Accord der
+                  neapolitanischen Sexte (b des ges) von F-dur; Umdeutung dieses Sextaccordes (b des
+                  ges) zur 1. Versetzung der Oberdominante (Ges-dur) von Ces-dur; Tonika Ces-dur
+                  (mit 7<hi rend="superscript">♭♭</hi>), welches Ces-dur zur
+                  Oberdominante (mit 7<hi rend="superscript">♭♭</hi>) von fes-moll
+                  umgedeutet wird.</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript"><hi rend="underline">VI</hi></hi>(= <hi rend="underline">F</hi><hi rend="superscript"><hi rend="underline">I</hi></hi>),F<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>(=Ces<hi rend="superscript">V</hi>), Ces<hi rend="superscript">I(7♭♭)</hi>,(= fes<hi rend="superscript">V<hi rend="superscript">7♭♭</hi></hi><hi rend="subscript">♭</hi>,| fes<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-66"><head>66) <hi rend="bold">C</hi>-dur.</head><p>Tonika a-moll; Underdominante (d-moll); Umdeutung dieses d-moll zur Parallele der
+                  Unterdominante (F-dur) von C-dur. (Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV</hi>, (= C<hi rend="superscript">II</hi>) C<hi rend="superscript">V</hi>, C<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-67"><head>67) <hi rend="bold">G</hi>-moll</head><p>Tonika a-moll; Umdeutung dieses a-moll zur Parallele der Unterdominante (C-dur)
+                  von G-dur. (Candenz!)</p><p>[a<hi rend="superscript">I</hi>, a <hi rend="superscript"><hi rend="underline">I</hi></hi>,(= G<hi rend="superscript">II</hi>), G<hi rend="superscript">V<hi rend="superscript">6</hi><hi rend="subscript">4</hi></hi>,G<hi rend="superscript">V<hi rend="superscript">(#)</hi></hi>,|G <hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-68"><head>68) <hi rend="bold">D</hi>-dur.</head><p>Tonika a-moll; Molloberdominante (e-moll) von a-moll; Umdeutung dieses e-moll zur
+                  Parallele der Unterdominante von D-dur!(Candenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">V<hi rend="superscript">♮</hi></hi>,(= D<hi rend="superscript">II</hi>) D<hi rend="superscript">V<hi rend="superscript">6#</hi><hi rend="subscript">4</hi></hi>, D<hi rend="superscript">V(#)</hi>| D<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-69"><head>69) <hi rend="bold">A</hi>-dur.</head><p>Tonika a-moll; Unterdominante (d-moll) von a-moll; Umdeutung dieses d-moll zur
+                  Mollunterdominante von A-dur. (Candenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV</hi>,(=A<hi rend="superscript">IV<hi rend="superscript">♮</hi></hi>), A<hi rend="superscript">V<hi rend="superscript">6#</hi><hi rend="subscript">4</hi></hi>, A<hi rend="superscript">V<hi rend="superscript">5</hi><hi rend="subscript">#</hi></hi>|A<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-70"><head>70) <hi rend="bold">E</hi>-dur.</head><p>Tonika a-moll; Umdeutung dieses a-moll; Umdeutung dieses a-moll zur
+                  Mollunderdominante von E-dur. (Candenz!)</p><p>[a<hi rend="superscript">I</hi>(= E<hi rend="superscript">IV<hi rend="superscript">♮</hi></hi>),( E<hi rend="superscript">V<hi rend="superscript">5</hi><hi rend="superscript">#</hi><hi rend="subscript">#</hi>)</hi>E<hi rend="superscript">I</hi>]</p>
+               <!-- ??? --></div><div xml:id="t_c-71"><head>71) <hi rend="bold">H</hi>-moll.</head><p>Tonika a-moll; Molloberdominante (e-moll) von a-moll; Umdeutung dieses e-moll zur
+                  Mollunterdominante (e-moll) von a-moll; Umdeutung dieses e-moll zur
+                  Mollunterdominante von H-dur. (Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">V<hi rend="superscript">♮</hi></hi>(=H<hi rend="superscript">IV</hi><hi rend="subscript">♮</hi>)*), H<hi rend="superscript">V<hi rend="superscript">6</hi><hi rend="subscript">4</hi></hi>, H<hi rend="superscript">V<hi rend="superscript">5</hi><hi rend="subscript">3</hi></hi>,| H<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-72"><head>72) <hi rend="bold">Fis</hi>-dur.</head><p>Tonika a-moll; Molloberdominante (e-moll) von a-moll; Umdeutung dieses e-moll zur
+                  Mollunterdomiante von H-dur; Tonika H-dur; Umdeutung dieses H-dur zur
+                  Unterdominante von Fis-dur. (Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>(= H<hi rend="superscript">IV<hi rend="subscript">♮</hi></hi>), H<hi rend="superscript">I</hi>(= Fis<hi rend="superscript">IV</hi>) Fis<hi rend="superscript">V</hi>| Fis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-73"><head>73) <hi rend="bold">Cis</hi>-dur.</head><p>Tonika a-moll; Accord der dorischen Sexte (<hi rend="bold">fis</hi> a d) von
+                  a-moll; Umdeutung dieses Sextaccordes (fis a d) zum Accord der neapolitansischen
+                  Sexte von Cis-dur. (Cadenz!)</p><p>NB. Man beachte die Fürhrung des Basses von fis nach gis! (Dorsiche Sexte verlangt
+                  Führung nach aufwärts!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">III#</hi>,(= Cis<hi rend="superscript">IV<hi rend="superscrirpt">6♮</hi><hi rend="subscript">♮</hi></hi>), Cis<hi rend="superscript">V<hi rend="superscript">7</hi></hi>,| Cis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-74"><head>74) <hi rend="bold">Gis</hi>-dur.</head><p>Tonika a-moll; Oberdominante E-dur; Umdeutung der 1. Versetzung dieses E-dur (des
+                  Sextaccordes gis h e) zum Accord der neapolitanischen Sexte von Dis-dur;
+                  Oberdomiante Ais-dur (von Dis-dur); Tonika Dis-dur umgedeutet zur Oberdominante
+                  von Gis-dur.</p><p><supplied>[</supplied>a, a<hi rend="superscript"><hi rend="underline">V</hi><hi rend="superscript">#</hi></hi>(= Dis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>,Dis<hi rend="superscript">V<hi rend="superscript">˟</hi></hi>,D<hi rend="superscript">I<hi rend="superscript">˟</hi></hi>(= Gis<hi rend="superscript">V</hi>),| Gis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-75"><head>75) <hi rend="bold">Dis</hi>-dur.</head><p>Tonika a-moll; Oberdominante E-dur; Umdeutung der 1. Versetzung dieses E-dur ( des
+                  Sextaccordes gis h e) zum Accord der neapolitanischen Sexte von Dis-dur;
+                  Oberdominante Ais-dur von Dis-dur; Tonika Dis-dur umgedeutet zur Oberdominante von
+                  Gis-dur. </p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript"><hi rend="underline">V</hi><hi rend="superscript">#</hi></hi>, (=Dis <hi rend="superscript">IV<hi rend="superscript">6<hi rend="superscript">&#160;♮</hi><hi rend="subscript">&#160;♮</hi></hi></hi>) Dis<hi rend="superscript">V<hi rend="superscript">˟</hi></hi>,Dis<hi rend="superscript">I</hi>] </p></div><div xml:id="t_c-76"><head>76) <hi rend="bold">Ais</hi>-dur.</head><p>Tonika a-moll; Molloberdominante e-moll von a-moll; Umdeutung dieses e-moll zur
+                  Mollunterdominante von H-dur; Tonika H-dur; Umdeutung der 1. Versetzung dieses
+                  H-dur (des Sextaccordes dis fis h) zum Accord der neapolitanischen Sexte von
+                  Ais-dur.(Cadenz!)</p><p>[a <hi rend="superscript">I</hi> a<hi rend="superscript">V<hi rend="superscript">♮</hi></hi>,(= H<hi rend="superscript">IV<hi rend="superscript">♮</hi></hi>)H<hi rend="superscript"><hi rend="underline">I</hi></hi>,
+                     (=Ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi>) Ais<hi rend="superscript">˟V</hi>,|Ais<hi rend="superscript">I</hi>]</p></div>
+            <!----><div xml:id="t_c-77"><head>77) <hi rend="bold">Eis</hi>-dur.</head><p>Tonika a-moll; Molloberdominante (e-moll) von a-moll; Umdeutung dieses e-moll zur
+                  Mollunterdominante von H-dur; Umdeutung der 1. Versetzung dieses H-dur (des
+                  Sextaccordes dis fis h) zum Accord der neapolitanischen Sexte von Ais-dur;
+                  Oberdominante Eis-dur von Ais-dur; Umdeutung dieses Eis-dur zur Tonika,
+                  Oberdominante His-dur von Eis-dur; Tonika Eis-dur.</p><p n="2">[a<hi rend="superscript">I</hi>, a<hi rend="superscript">v♮</hi>, (=
+                     H<hi rend="superscript">IV♮</hi>) H<hi rend="superscript"><hi rend="underline" n="1">I</hi></hi>, (=Ais<hi rend="superscript">IV<hi rend="subscript">#</hi><hi rend="superscript">6♮</hi></hi>) Ais<hi rend="superscript">V</hi> (Eis<hi rend="superscript">I</hi>), | Eis<hi rend="superscript">V</hi>, Eis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-78"><head>78) <hi rend="bold">F</hi>-dur.</head><p>Tonika a-moll; Unterdominante d-moll von a-moll; Umdeutung dieses d-moll zur
+                  Parallele von F-dur. (Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV</hi> (=F<hi rend="superscript">VI</hi>), F<hi rend="superscript">II<hi rend="superscript">7</hi></hi>, F<hi rend="superscript">V</hi>, | F<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-79"><head>79) <hi rend="bold">B</hi>-dur.</head><p>Tonika a-moll; Parallele (F-dur) der Unterdominante (d-moll) von a-moll; Umdeutung
+                  dieses F-dur (mit 7♭) zur Oberdominante von B-Dur.</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">VI</hi> (=B<hi rend="superscript">V(<hi rend="superscript">7♭</hi>)</hi>), B<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-80"><head>80) <hi rend="bold">Es</hi>-dur.</head><p>Tonika a-moll; Accord der neapolitanischen Sexte (d f <hi rend="bold">b</hi>) von
+                  a-moll; Umdeutung dieses Sextaccordes (d f b) zur 1. Versetzung der Oberdominante
+                  (B-dur) von Es-dur.</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (=Es<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>), Es<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-81"><head>81) <hi rend="bold">As</hi>-dur.</head><p>Tonika a-moll; Accord der neapolitanischen Sexte (d f <hi rend="bold">b</hi>) von
+                  a-moll; Umdeutung dieses Sextaccordes (d f b) zur 1. Versetzung der 2.
+                  Oberdominante (B-dur) von As-dur; Oberdominante Es-dur (mit 7<hi rend="superscript">♭</hi>) von As-dur; Tonika As-dur.</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= As<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>), As<hi rend="superscript">V(<hi rend="superscript">7♭</hi>)</hi>, As<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-82"><head>82) <hi rend="bold">Des</hi>-dur.</head><p>Tonika a-moll; Accord der neapolitanischen Sexte (d f b) von a-moll; Umdeutung
+                  dieses Sextaccordes (d f b) zur 1. Versetzung der Oberdominante (B-dur) von
+                  es-moll; Umdeutung dieses es-moll zur Parallele der Unterdominante (Ges-dur) von
+                  Des-dur. (Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= es<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi>), es<hi rend="superscript">I</hi> (= Des<hi rend="superscript">II</hi>), Des<hi rend="superscript">V</hi>
+                  | Des<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-83"><head>83) <hi rend="bold">Ges</hi>-dur.</head><p>Tonika a-moll; Accord der neapolitanischen Sexte (d f b) von a-moll; Umdeutung
+                  dieses Sextaccordes zur 1. Versetzung der Oberdominante (B-dur) von es-moll;
+                  Umdeutung dieses es-moll zur Parallele der Tonika Ges-dur. (Cadenz!)</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= es<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi>), es<hi rend="superscript">I</hi> (= Ges<hi rend="superscript">VI</hi>), Ges<hi rend="superscript"><hi rend="underline" n="1">II</hi></hi>, –Ges<hi rend="superscript">V</hi>,
+                     Ges<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-84"><head>84) <hi rend="bold">Ces</hi>-dur.</head><p>Tonika a-moll; Parallele (F-dur) der Unterdominante d-moll von a-moll; Umdeutung
+                  dieses F-dur zur Tonika; Accord der neapolitanischen Sexte b des ges von F-dur;
+                  Umdeutung dieses Sextaccordes b des ges zur 1. Versetzung der Oberdominante
+                  Ges-dur von Ces-dur; Tonika Ces-dur.</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">VI</hi> (= F<hi rend="superscript">I</hi>), F<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi>, (= Ces<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>), Ces<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-85"><head>85) <hi rend="bold">Fes</hi>-dur.</head><p>Tonika a-moll; Parallele (F-dur) der Unterdominante (d-moll) von a-moll; Accord
+                  der neapolitanischen Sexte (b des ges) von F-dur, das zur Tonika umgedeutet wird;
+                  Umdeutung dieses Sextaccordes (b des ges) zur 1. Versetzung der 2. Oberdominante
+                  (Ges-dur) von Fes-dur; Oberdominante (Ces-dur); Tonika Fes-dur</p><p>[a<hi rend="superscript">I</hi>, a<hi rend="superscript">VI</hi> (= F<hi rend="superscript">I</hi>), F<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi> (= Fes<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>) | Fes<hi rend="superscript">V</hi>, Fes<hi rend="superscript">I</hi>]</p></div></div><div xml:id="t_d-Ces-dur"><head>d) Von <hi rend="bold">Ces</hi>-dur nach:</head><div xml:id="t_d-86"><head>86) <hi rend="bold">Fis</hi>-dur (<hi rend="bold">fis</hi>-moll).</head><p>Tonika Ces-dur; Oberdominante (Ges-dur) von Ces-dur; Umdeutung der 1. Versetzung
+                  dieses Ges-dur; des Sextaccordes b des ges, zum Accord der neapolitanischen Sexte
+                  in F-dur; Oberdominante C-dur von F-dur; Umdeutung der 1. Versetzung dieses C-dur;
+                  des Sextaccordes e g c, zum Accord der neapolitanischen Sexte in H-dur; Tonika
+                  H-dur; welches H-dur zur Unterdominante in Fis-dur – resp. bei der Modulation nach
+                  fis-moll zum Accord der dorischen Sexte in fis-moll umgedeutet wird. (Cadenz!)</p><p>[Ces<hi rend="superscript">I</hi>, Ces<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= F<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi>), F<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= H<hi rend="superscript">IV<hi rend="subscript">♮</hi><hi rend="superscript">6♮</hi></hi> H<hi rend="superscript">I</hi> (= Fis<hi rend="superscript">IV</hi> | Fis<hi rend="subscript">(VII)</hi><hi rend="superscript">V</hi> Fis<hi rend="superscript">I</hi>]</p><p>[Ces<hi rend="superscript">I</hi>, Ces<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= F<hi rend="superscript">IV<hi rend="subscript">♭</hi><hi rend="superscript">6♭</hi></hi>), F<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= H<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi> H<hi rend="superscript">I</hi> (= fis<hi rend="superscript">IV<hi rend="subscript">#</hi></hi> | fis<hi rend="superscript">V#</hi><hi rend="subscript">(VII#)</hi> fis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-87"><head>87) <hi rend="bold">Cis</hi>-dur (<hi rend="bold">cis</hi>-moll).</head><p>Tonika Ces-dur; Oberdominante Ges-dur von Ces-dur; Umdeutung der 1. Versetzung
+                  dieses Ges-dur, des Sextaccordes b des ges, zum Accord der neapolitanischen Sexte
+                  von F-dur; Oberdominante C-dur von F-dur; Umdeutung der 1. Versetzung dieses
+                  C-dur; des Sextaccordes e g c, zum Accord der neapolitanischen Sexte von H-dur;
+                  Tonika H-dur; Oberdominante Fis-dur von H-dur; Umdeutung dieses Fis-dur von H-dur;
+                  Umdeutung dieses Fis-dur zur Unterdominante (resp. zum Accord der <hi rend="spaced_out">dorischen</hi> Sexte in cis-moll) von Cis-dur. (Cadenz!)</p><p>[Ces<hi rend="superscript">I</hi>, Ces<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= F<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi> F<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= H<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>) H<hi rend="superscript">I</hi> | H<hi rend="superscript">V</hi>(= Cis<hi rend="superscript">IV</hi>) Cis<hi rend="superscript">V</hi> Cis<hi rend="superscript">I</hi>]</p><p>[Ces<hi rend="superscript">I</hi>, Ces<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= F<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi> F<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= H<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>) H<hi rend="superscript">I</hi> | H<hi rend="superscript">V</hi>(= cis<hi rend="superscript">IV<hi rend="subscript">#</hi></hi>) cis<hi rend="superscript">V<hi rend="subscript">#</hi></hi> cis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-88"><head>88) <hi rend="bold">Gis</hi>-dur (<hi rend="bold">gis</hi>-moll).</head><p>Tonika Ces-dur; Oberdominante Ges-dur von Ces-dur; Umdeutung der 1. Versetzung
+                  dieses Ges-dur, des Sextaccordes b des ges zum Accord der neapolitanischen Sexte
+                  von F-dur; Tonika F-dur, Parallele (d-moll) der Tonika d-moll; Umdeutng dieses
+                  d-moll zur Tonika; Oberdominante A-dur von d-moll; Umdeutung der 1. Versetzung
+                  dieses A-dur; des Sextaccordes cis e a zum Accord der neapolitanischen Sexte von
+                  Gis-dur (gis-moll). (Cadenz!)</p><p>[Ces<hi rend="superscript">I</hi>, Ces<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= F<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi><!-- Kontrollieren --></hi>)
+                     F<hi rend="superscript">I</hi>, F<hi rend="superscript">VI</hi> (= d<hi rend="superscript">I</hi>) d<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="superscript">#</hi></hi> (= Gis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>) |
+                     Gis<hi rend="superscript">V</hi> Gis<hi rend="superscript">I</hi>]</p><p>[Ces<hi rend="superscript">I</hi>, Ces<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (= F<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi><!-- Kontrollieren --></hi>)
+                     F<hi rend="superscript">I</hi>, F<hi rend="superscript">VI</hi> (= d<hi rend="superscript">I</hi>) d<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="superscript">#</hi></hi> (= gis<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>) | gis<hi rend="superscript">V<hi rend="superscript">X</hi></hi> gis<hi rend="superscript">I</hi>]</p></div></div><div><head>e) Von <hi rend="bold">des</hi>-moll nach:</head><div xml:id="t_c-89"><head>89) <hi rend="bold">E</hi>-dur (<hi rend="bold">e</hi>-moll).</head><p>Tonika des-moll; Oberdominante As-dur von des-moll; Umdeutung der 1. Versetzung
+                  dieses As-dur, des Sextaccordes c es as, zum Accord der neapolitanischen Sexte in
+                     <hi rend="bold">G</hi>-dur; Oberdominante D-dur von G-dur; Umdeutung dieses
+                  D-dur zur Parallele der <hi rend="spaced_out">Moll</hi>oberdominante (h-moll) von
+                  E-dur (e-moll); Mollunterdominante (h-moll) von E-dur (e-moll). (Cadenz!)</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi>, (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">3♭</hi></hi> G<hi rend="superscript">V</hi>(= E♮<hi rend="superscript">VII</hi>) E<hi rend="superscript">IV<hi rend="subscript">♮</hi><!-- Kotrollieren --></hi> E<hi rend="superscript">V</hi> |
+                     E<hi rend="suprscript">I</hi>]</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi>, (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">3♭</hi></hi> G<hi rend="superscript">V</hi>(= E♮<hi rend="superscript">VII</hi>) E<hi rend="superscript">IV<hi rend="subscript">♮</hi><!-- Kotrollieren --></hi> e<hi rend="superscript">V<hi rend="subscript">#</hi></hi> | e<hi rend="suprscript">I</hi>] </p></div><div xml:id="t_c-90"><head>90) <hi rend="bold">H</hi>-dur (<hi rend="bold">h</hi>-moll).</head><p>Tonika des-moll; Oberdominante As-dur von des-moll; Umdeutung der 1. Versetzung
+                  dieses As-dur, des Sextaccordes c es as, zum Accord der neapolitanischen Sexte in
+                  G-dur; Oberdominante D-dur von G-dur; Umdeutung dieses D-dur zur Parallele der
+                  Tonika h-moll; Oberdominante Fis-dur von H-dur (h-moll); Tonika H-dur
+                  (h-moll).</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>, G<hi rend="superscript">V</hi> (= h<hi rend="superscript">III♮<!-- Kontroll --></hi>), h<hi rend="superscript">V<hi rend="subscript">#</hi></hi> (=H<hi rend="superscript">V</hi>), H<hi rend="superscript">I</hi>]</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>, G<hi rend="superscript">V</hi> (= h<hi rend="superscript">III5<hi rend="superscript">♮</hi><!-- Kontroll --></hi>), h<hi rend="superscript">V<hi rend="subscript">#</hi></hi> (=H<hi rend="superscript">V</hi>), h<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-91"><head>91) <hi rend="bold">Cis</hi>-dur (<hi rend="bold">cis</hi>-moll).</head><p>Tonika des-moll; Oberdominante As-dur von des-moll; Umdeutung der 1. Versetzung
+                  dieses As-dur, des Sextaccordes c es as, zum Accord der neapolitanischen Sexte in
+                  G-dur; Oberdominante D-dur von G-dur; Umdeutung der 1. Versetzung diese D-dur des
+                  Sextaccordes fis a d zum Accord der neapolitanischen Sexte von Cis-dur (cis-moll).
+                  (Cadenz!)</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♮</hi></hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi> G<hi rend="superscript">V</hi>, G<hi rend="superscript">III</hi> (= Fis<hi rend="superscript">IV♭<!-- Kontroll --></hi>), Fis<hi rend="superscript">V</hi>, | FisI]</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">♮</hi></hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi> G<hi rend="superscript">V</hi>, G<hi rend="superscript">III</hi> (= fis<hi rend="superscript">IV</hi>), fis<hi rend="superscript">V<hi rend="subscript">#</hi></hi> (Fis#<hi rend="superscript">VII<hi rend="superscript">7</hi><hi rend="subscript">♮</hi></hi>), | fis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-92"><head>92) <hi rend="bold">Cis</hi>-dur (<hi rend="bold">cis</hi>-moll).</head><p>Tonika des-moll; Oberdominante As-dur von des-moll; Umdeutung der 1. Versetzung
+                  dieses As-dur, des Sextaccordes c es as, zum Accord der neapolitanischen Sexte in
+                  G-dur; Oberdominante D-dur von G-dur; Umdeutung der 1. Versetzung dieses D-dur des
+                  Sextaccordes fis a d zum Accord der neapolitanischen Sexte von Cis-dur (cis-moll).
+                  (Cadenz!)</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>), G<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (=Cis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi>), Cis<hi rend="superscript">V</hi>, | Cis<hi rend="superscript">I</hi>]</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>), G<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> (=cis<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>), cis<hi rend="superscript">V<hi rend="subscript">#</hi></hi>, | cis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-93"><head>93) <hi rend="bold">Gis</hi>-dur (<hi rend="bold">gis</hi>-moll).</head><p>Tonika des-moll, Oberdominante As-dur von des-moll; Umdeutung der 1. Versetzung
+                  dieses As-dur, des Sextaccordes c es as, zum Accord der neapolitanischen Sexte von
+                  G-dur; Oberdominante D-dur von G-dur; Umdeutung dieses D-dur zur Tonika;
+                  Oberdominante A-dur von D-dur; Umdeutung der 1. Versetzung dieses A-dur, des
+                  Sextaccordes cis e a, zum Accord der neapolitanischen Sexte in Gis-dur
+                  (gis-moll).</p><p><supplied>[</supplied>des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (=
+                     G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>), G<hi rend="superscript">V</hi> (= D<hi rend="superscript">I</hi>), D<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> ≠ (Gis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">3♮</hi></hi>), | Gis<hi rend="superscript">V</hi>, Gis<hi rend="superscript">I</hi>]</p><p><supplied>[</supplied>des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (=
+                     G<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi></hi>), G<hi rend="superscript">V</hi> (= D<hi rend="superscript">I</hi>), D<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> = (gis<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>), | gis<hi rend="superscript">V<hi rend="superscript">X</hi></hi>, gis<hi rend="superscript">I</hi>]</p></div><div xml:id="t_c-94"><head>94) <hi rend="bold">Dis</hi>-dur (<hi rend="bold">dis</hi>-moll).</head><p>Tonika des-moll; Oberdominante As-dur von des-moll; Umdeutung der 1. Versetzung
+                  dieses As-dur, des Sextaccordes c es as, zum Accord der neapolitanischen Sexte in
+                  G-dur; Oberdominante D-dur von G-dur; Verwandlung des D-dur in d-moll und
+                  Umdeutung des d-moll zur Unterdominante von a-moll; Oberdominante E-dur; Umdeutung
+                  der 1. Versetzung dieses E-dur, des Sextaccordes gis h e, zum Accord der
+                  neapolitanischen Sexte von Dis-dur (dis-moll). (Cadenz!)</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6𘁓</hi><hi rend="subscript">♭</hi></hi>), G<hi rend="superscript">V</hi> (G<hi rend="superscript">V<hi rend="subscript">♮</hi></hi> = a<hi rend="superscript">IV</hi>),
+                     a<hi rend="superscript"><hi rend="underline" n="1">V</hi>#<!-- kontroll --></hi> (Dis<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi>), | Dis<hi rend="superscript">V</hi>, Dis<hi rend="superscript">I</hi>]</p><p>[des<hi rend="superscript">I</hi>, des<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">♮</hi></hi> (= G<hi rend="superscript">IV<hi rend="superscript">6𘁓</hi><hi rend="subscript">♭</hi></hi>), G<hi rend="superscript">V</hi> (G<hi rend="superscript">V<hi rend="subscript">♮</hi></hi> = a<hi rend="superscript">IV</hi>),
+                     a<hi rend="superscript"><hi rend="underline" n="1">V</hi>#<!-- kontroll --></hi> (dis<hi rend="superscript">IV<hi rend="subscript">♮</hi></hi>), | dis<hi rend="superscript">V<hi rend="superscript">X</hi></hi>, dis<hi rend="superscript">I</hi>]</p></div></div><div xml:id="t_f-ais-moll"><head>f) Von <hi rend="bold">ais</hi>-moll nach:</head><div xml:id="t_f-95"><head>95) <hi rend="bold">B</hi>-dur (<hi rend="bold">b</hi>-moll).</head><p>Tonika ais-moll; Accord der neapolitanischen Sexte (dis fis h) von ais-moll;
+                  Umdeutung dieses Sextaccordes dis fis h zur 1. Versetzung der Oberdominante H-dur
+                  von e-moll; Tonika e-moll; Accord der neapolitanischen Sexte a c f von e-moll;
+                  Umdeutung dieses Sextaccordes a c f zur 1. Versetzung der Oberdominante F-dur von
+                  B-dur (b-moll).</p><p><supplied>[</supplied>ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi>, (=
+                     e<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">#</hi></hi>), e<hi rend="superscript">I</hi>, e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>, | e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi> (= B<hi rend="superscript">V</hi>),
+                     B<hi rend="superscript">I</hi>]</p><p><supplied>[</supplied>ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi>, (=
+                     e<hi rend="superscript"><hi rend="underline" n="1">V</hi><hi rend="subscript">#</hi></hi>), e<hi rend="superscript">I</hi>, e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi>, | e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi> (= b<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>), b<hi rend="superscript">I</hi>]</p></div><div xml:id="t_f-96"><head>96) <hi rend="bold">Es</hi>-dur (<hi rend="bold">es</hi>-moll).</head><p>Tonika ais-moll; Accord der neapolitanischen Sexte (dis fis h) von ais-moll;
+                  Umdeutung dieses Sextaccordes zur 1. Versetzung der Oberdominante H-dur von
+                  e-moll; Tonika e-moll; Accord der neapolitanischen Sexte a c f von e-moll;
+                  Umdeutung dieses Sextaccordes zur 1. Versetzung der 2. Oberdominante F-dur von
+                  Es-dur (es-moll); Oberdominante B-dur von Es-dur (es-moll).</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi> (=
+                     e<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>) e<hi rend="superscript">I</hi>, e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi> (= Es<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>), | Es<hi rend="superscript">V</hi>, Es<hi rend="superscript">I</hi>]</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">♮</hi></hi> (=
+                     e<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>) e<hi rend="superscript">I</hi>, e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi> (= es<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>), | es<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>, es<hi rend="superscript">I</hi>]</p></div><div xml:id="t_f-97"><head>97) <hi rend="bold">As</hi>-dur (<hi rend="bold">as</hi>-moll).</head><p>Tonika ais-moll; Accord der neapolitanischen Sexte dis fis h von ais-moll
+                  Umdeutung dieses Sextaccordes dis fis h zur 1. Versetzung der Oberdominante H-dur
+                  von e-moll; Tonika e-moll; Accord der neapolitanischen Sexte a c f von e-moll;
+                  Umdeutung dieses Sextaccordes a c f zur 1. Versetzung der Oberdominante F-dur in
+                  B-dur; Tonika B-dur; Umdeutung dieses B-dur zur 2 -Oberdominante von As-dur
+                  (as-moll). Oberdemonante Es-dur; Tonika As-dur (as-moll).</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (=e<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">#</hi></hi></hi> e<hi rend="superscript">I</hi>, e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi> (= B<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>), | B<hi rend="superscript">I</hi> (=A<hi rend="superscript">V<hi rend="superscript">V</hi></hi>), As<hi rend="superscript">V</hi>, As<hi rend="superscript">I</hi>]</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (=e<hi rend="superscript"><hi rend="underline" n="1">V<hi rend="subscript">#</hi></hi></hi> e<hi rend="superscript">I</hi>, e<hi rend="superscript">IV<hi rend="superscript">6♮</hi></hi> (= B<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>), | B<hi rend="superscript">I</hi> (=A<hi rend="superscript">V<hi rend="superscript">V</hi></hi>), as<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>, as<hi rend="superscript">I</hi>]</p></div><div xml:id="t_f-98"><head>98) <hi rend="bold">Des</hi>-dur (<hi rend="bold">des</hi>-moll).</head><p>Tonika ais-moll; Accord der neapolitanischen Sexte dis fis h von ais-moll;
+                  Umdeutung dieses Sexte dis fis h zur 1. Versetzung der Oberdominante H-dur von
+                  E-dur; Tonika E-dur; Mollunterdominante a-moll von E-dur; Umdeutung dieses a-moll
+                  zur Tonika; Accord der neapolitanischen Sexte d f b von a-moll; Umdeutung dieses
+                  Sextaccordes d f b zur 1. Versetzung der 2. Oberdominante B-dur von As-dur;
+                  Oberdominante Es-dur; Tonika As-dur; Umdeutung dieses As-dur zur Oberdominante von
+                  Des-dur (des-moll); Tonika As-dur; Umdeutung dieses As-dur zur Oberdominante von
+                  Des dur (des-moll); Oberdominante As-dur [mit 7♭] von des dur [des-moll])
+                  Tonika Des-dur (des-moll).</p><p>[ais<hi rend="superscript">I</hi><!-- ein Punkt unter I ?? -->, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (= E<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>) E<hi rend="superscript">I</hi> E<hi rend="superscript">IV<hi rend="subscript">♮</hi></hi> (= a<hi rend="superscript">I</hi>) | a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= As<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>) As<hi rend="superscript">V</hi> As<hi rend="superscript">I</hi> (= Des<hi rend="superscript">V</hi>) Des<hi rend="superscript">I</hi>]</p><p>[ais<hi rend="superscript">I</hi><!-- ein Punkt unter I ?? -->, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (= E<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>) E<hi rend="superscript">I</hi> E<hi rend="superscript">IV<hi rend="subscript">♮</hi></hi> (= a<hi rend="superscript">I</hi>) | a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= As<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>) As<hi rend="superscript">V</hi> As<hi rend="superscript">I</hi> (= des<hi rend="superscript">V<hi rend="subscript">♮</hi></hi>)
+                     des<hi rend="superscript">I</hi>]</p></div><div xml:id="t_f-99"><head>99) <hi rend="bold">Ges</hi>-dur (<hi rend="bold">ges</hi>-moll).</head><p>Tonika ais-moll; Accord der neapolitanischen Sexte h dis fis von ais-moll;
+                  Umdeutung dieses Sextaccordes dis fis h zur 1. Versetzung der Oberdominante H-dur
+                  von E.dur; Tonika E-dur; Umdeutung dieses E-dur zur Oberdominante von a-moll;
+                  Tonika a-moll; Accord der neapolitanischen Sexte d f b von a-moll; Umdeutung
+                  dieses Sexaccordes d f b zur 1. Versetzung der 2. Oberdominante B-dur von As-dur;
+                  Oberdominante Es-dur von As-dur; Umdeutung dieses As-dur zur 2. Oberdominante von
+                  Ges-dur (ges-moll); Oberdominante Des-dur; Tonika Ges-dur (ges-moll).</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (= E<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> E<hi rend="superscript">I</hi> (= a<hi rend="superscript">V<hi rend="subscript">#</hi></hi>) a<hi rend="superscript">I</hi> | a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= As<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>) As<hi rend="superscript">V</hi>, As<hi rend="superscript">I</hi> (=Ges<hi rend="superscript">V<hi rend="superscript">V</hi></hi>) Ges<hi rend="superscript">V</hi> | Ges<hi rend="superscript">I</hi>]</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (= E<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi> E<hi rend="superscript">I</hi> (= a<hi rend="superscript">V<hi rend="subscript">#</hi></hi>) a<hi rend="superscript">I</hi> | a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= As<hi rend="superscript">V<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi></hi>) As<hi rend="superscript">V</hi>, As<hi rend="superscript">I</hi> (=ges<hi rend="superscript">V<hi rend="superscript">V</hi></hi>) ges<hi rend="superscript">V<hi rend="subscript">♮</hi></hi> | ges<hi rend="superscript">I</hi>]</p></div><div xml:id="t_f-100"><head>100) <hi rend="bold">Ges</hi>-dur (<hi rend="bold">ges</hi>-moll).</head><p>Tonika ais-moll; Accord der neapolitanischen Sexte dis fis h von ais-moll;
+                  Umdeutung dieses Sextaccordes dis fis h zur 1. Versetzung der Oberdominante H-dur
+                  von E-dur; Tonika E-dur; Umdeutung dieses E-dur zur Oberdominante in a-moll;
+                  Tonika a-moll; Accord der neapolitanischen Sexte d f b von a-moll; Umdeutung
+                  dieses Sextaccordes d f b zur 1. Versetzung der Tonika B-dur (in B-dur);
+                  Unterdominante Es-dur von B-dur; Accord der neapolitanischen Sexte es ges ces von
+                  B-dur; Umdeutung dieses Sextaccordes es ges ces zur 1. Versetzung der Tonika
+                  Ces-dur (in Ces-dur) Oberdominante Ges-dur; Tonika Ces-dur (ces-moll).</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (= E<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>) E<hi rend="superscript">I</hi> (= a<hi rend="superscript">V<hi rend="subscript">#</hi></hi>) a<hi rend="superscript">I</hi> | a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= B<hi rend="superscript"><hi rend="underline" n="1">I</hi></hi>) B<hi rend="superscript">IV</hi> B<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi><!-- underline? --></hi> (= Ces<hi rend="superscript">I</hi>)
+                     Ces<hi rend="superscript">V</hi>, | Ces<hi rend="superscript">I</hi>]</p><p>[ais<hi rend="superscript">I</hi>, ais<hi rend="superscript">IV<hi rend="superscript">6♮</hi><hi rend="subscript">#</hi></hi> (= E<hi rend="superscript"><hi rend="underline" n="1">V</hi></hi>) E<hi rend="superscript">I</hi> (= a<hi rend="superscript">V<hi rend="subscript">#</hi></hi>) a<hi rend="superscript">I</hi> | a<hi rend="superscript">IV<hi rend="superscript">6♭</hi></hi> (= B<hi rend="superscript"><hi rend="underline" n="1">I</hi></hi>) B<hi rend="superscript">IV</hi> B<hi rend="superscript">IV<hi rend="superscript">6♭</hi><hi rend="subscript">♭</hi><!-- underline? --></hi> (= Ces<hi rend="superscript">I</hi>)
+                     ces<hi rend="superscript">V<hi rend="subscript">♭</hi></hi>, | ces<hi rend="superscript">I</hi>]</p></div></div></body></text></TEI>
